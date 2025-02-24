@@ -1,12 +1,15 @@
+import React from 'react';
+import Sidebar from './components/Sidebar/Sidebar';
+import MainContent from './components/MainContent/MainContent';
+import './App.css'; // Import custom styles
 
-import './App.css'
-
-import Hero from './sections/Hero/Hero';
-//html and js in the same file
 function App() {
   return (
-    <><Hero/> </>
-  )
+    <div className="app-container">
+      <Sidebar />
+      <MainContent />
+    </div>
+  );
 }
 
-export default App
+export default App;
