@@ -1,32 +1,54 @@
+
 import React from 'react';
 import { Link } from 'react-scroll';
-import './Sidebar.css'; // Import custom styles
+import { useTheme } from '../../common/ThemeContext';
+import './Sidebar.css';
 
 function Sidebar() {
+  const { theme } = useTheme();
+  
   return (
-    <aside className="sidebar">
+    <aside className={`sidebar ${theme === 'dark' ? 'sidebar-dark' : ''}`}>
       <div className="sidebar-header">
-        <h1>Thor Sanchez</h1>
+        <h1>Portfolio</h1>
       </div>
+      
       <nav className="sidebar-nav">
-        <Link to="about" smooth={true} duration={500}>
+        <Link to="about" smooth={true} duration={500} offset={-50}>
           About
         </Link>
-        <Link to="ideas" smooth={true} duration={500}>
+        <Link to="ideas" smooth={true} duration={500} offset={-50}>
           Ideas
         </Link>
-        <Link to="cv" smooth={true} duration={500}>
+        <Link to="cv" smooth={true} duration={500} offset={-50}>
           CV
         </Link>
       </nav>
-      <div className="sidebar-contact">
-        <h2>Contact</h2>
-        <ul>
-          <li><a href="mailto:thor@example.com">Mail</a></li>
-          <li><a href="https://twitter.com/" target="_blank">Twitter</a></li>
-          <li><a href="https://linkedin.com/" target="_blank">LinkedIn</a></li>
-          <li><a href="https://read.cv/" target="_blank">Read.cv</a></li>
-        </ul>
+      
+      <div className="sidebar-section">
+        <h2>SYNA VERKEFNI HER</h2>
+        <nav className="sidebar-nav">
+          <a href="#" target="_blank" rel="noopener noreferrer">Verkefni</a>
+          <a href="#" target="_blank" rel="noopener noreferrer">FleiriVerkefnikannski</a>
+        </nav>
+      </div>
+      
+      <div className="sidebar-section">
+        <h2>HERBÆTAFLOTTUSTUVERK</h2>
+        <nav className="sidebar-nav">
+          <a href="#" target="_blank" rel="noopener noreferrer">VANTAR</a>
+          <a href="#" target="_blank" rel="noopener noreferrer">VERKEFNI</a>
+          <a href="#" target="_blank" rel="noopener noreferrer">TILAÐBIRTA</a>
+          <a href="#" target="_blank" rel="noopener noreferrer">:(</a>
+        </nav>
+      </div>
+      
+      <div className="sidebar-section">
+        <h2>HAFÐU SAMBAND</h2>
+        <nav className="sidebar-nav">
+          <a href="mailto:sanchezthor@gmail.com">Senda póst</a>
+          <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        </nav>
       </div>
     </aside>
   );

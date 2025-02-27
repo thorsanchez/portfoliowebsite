@@ -1,11 +1,20 @@
-/* App.css */
+
 .app-container {
-    display: flex;
-  }
-  
-  .main-content {
-    margin-left: 250px; /* Match sidebar width */
-    padding: 20px;
-    flex-grow: 1;
-  }
-  
+  display: flex;
+}
+
+.main-content {
+  margin-left: 250px; 
+  width: calc(100% - 250px);
+  transition: background-color 0.3s ease;
+}
+
+
+[data-theme="dark"] body {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+[data-theme="dark"] .main-content {
+  background-color: #121212;
+}

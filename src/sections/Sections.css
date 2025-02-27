@@ -1,0 +1,190 @@
+
+.section-container {
+    padding: 2rem;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .hero-section {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+  }
+  
+  .theme-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 10;
+  }
+  
+  .theme-icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+  }
+  
+  .content-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .name-title {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+  .subtitle {
+    font-size: 1.8rem;
+    color: #666;
+    margin-bottom: 2rem;
+  }
+  
+  .social-links {
+    display: flex;
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+  
+  .social-links img {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.2s;
+  }
+  
+  .social-links img:hover {
+    transform: scale(1.2);
+  }
+  
+  .about-content h2,
+  .ideas-content h1,
+  .cv-content h1 {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+    color: #555;
+  }
+  
+  .about-content p,
+  .ideas-content p,
+  .cv-content p {
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    color: #444;
+  }
+  
+
+  .idea-entry {
+    margin-bottom: 3rem;
+  }
+  
+  .idea-entry h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+
+  .cv-section {
+    margin-bottom: 2.5rem;
+  }
+  
+  .cv-section h2 {
+    font-size: 1.5rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .cv-item {
+    margin-bottom: 1.5rem;
+  }
+  
+  .cv-item h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.2rem;
+  }
+  
+  .cv-date, .cv-company {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 0.5rem;
+  }
+  
+  .cv-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cv-skills li {
+    background-color: #f0f0f0;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+  }
+  
+  .download-cv {
+    margin-top: 2rem;
+  }
+  
+  .download-button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.2s;
+  }
+  
+  .download-button:hover {
+    background-color: #555;
+  }
+  
+
+  [data-theme="dark"] .name-title {
+    color: #f0f0f0;
+  }
+  
+  [data-theme="dark"] .subtitle {
+    color: #aaa;
+  }
+  
+  [data-theme="dark"] .about-content h2,
+  [data-theme="dark"] .ideas-content h1,
+  [data-theme="dark"] .cv-content h1,
+  [data-theme="dark"] .cv-section h2,
+  [data-theme="dark"] .idea-entry h3,
+  [data-theme="dark"] .cv-item h3 {
+    color: #ddd;
+  }
+  
+  [data-theme="dark"] .about-content p,
+  [data-theme="dark"] .ideas-content p,
+  [data-theme="dark"] .cv-content p {
+    color: #bbb;
+  }
+  
+  [data-theme="dark"] .cv-date,
+  [data-theme="dark"] .cv-company {
+    color: #999;
+  }
+  
+  [data-theme="dark"] .cv-skills li {
+    background-color: #333;
+    color: #ddd;
+  }
+  
+  [data-theme="dark"] .download-button {
+    background-color: #555;
+  }
+  
+  [data-theme="dark"] .download-button:hover {
+    background-color: #777;
+  }
