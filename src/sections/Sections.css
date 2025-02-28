@@ -1,17 +1,26 @@
-.section-container {
-    padding: 2rem;
+/*Base container styles*/
+   .section-container {
+    padding: 1rem 4rem;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-  }
-  
-  .hero-section {
-    display: flex;
-    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
     position: relative;
-    width: 100%;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   }
   
+  /* Top banner */
+  .subtle-banner {
+    padding: 20px 0;
+    text-align: center;
+    color: #999;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 500;
+  }
+  
+  /* Theme toggle */
   .theme-toggle {
     position: absolute;
     top: 20px;
@@ -23,234 +32,370 @@
     width: 30px;
     height: 30px;
     cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.2s;
   }
   
-  .content-wrapper {
-    max-width: 800px;
-    margin: 0 auto;
+  .theme-icon:hover {
+    opacity: 1;
+  }
+  
+  /* About síða thor,git,linkd og */
+  .hero-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0;
+    margin-bottom: 0;
+  }
+  
+  .name-container {
+    position: relative;
+    margin-right: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
   }
   
   .name-title {
-    font-size: 4rem;
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 0.5rem;
-  }
-  
-  .subtitle {
-    font-size: 1.8rem;
-    color: #666;
-    margin-bottom: 2rem;
+    font-size: 10rem;
+    font-weight: 500;
+    color: #433e3e;
+    line-height: 0.9;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    margin-bottom: 15px;
+    letter-spacing: -2px;
   }
   
   .social-links {
     display: flex;
     gap: 1.5rem;
-    margin: 2rem 0;
+    margin-top: 25px;
   }
   
   .social-links img {
     width: 24px;
     height: 24px;
     transition: transform 0.2s;
+    opacity: 0.8;
   }
   
   .social-links img:hover {
     transform: scale(1.2);
+    opacity: 1;
   }
   
-  .about-content h2,
-  .cv-content h1 {
-    font-size: 1.8rem;
-    margin-bottom: 1.5rem;
-    color: #555;
+ /*About - myndir*/
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    justify-content: flex-end;
+    position: relative;
+    margin-top: 20px;
   }
   
-  .about-content p,
-  .cv-content p {
-    margin-bottom: 1.5rem;
-    line-height: 1.6;
+  .image-container {
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .image-container.image-left {
+    width: 250px;
+    height: 350px;
+    margin-right: -80px;
+    z-index: 1;
+  }
+  
+  .image-container.image-center {
+    width: 250px;
+    height: 250px;
+    margin-top: -20px;
+    z-index: 2;
+  }
+  
+  .image-container.image-right {
+    width: 180px;
+    height: 300px;
+    position: absolute;
+    bottom: -180px;
+    right: 0;
+    z-index: 3;
+  }
+  
+  .gallery-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    opacity: 0.9;
+  }
+  
+ /*About - um mig teksti*/
+  .info-section {
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .section-label {
+    color: #999;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+    font-weight: 500;
+  }
+  
+  .about-content p {
+    margin-bottom: 1rem;
+    line-height: 1.5;
     color: #444;
+    font-size: 15px;
+    max-width: 800px;
   }
   
-
-  .idea-entry {
-    margin-bottom: 3rem;
+ /*CV*/
+  .cv-container {
+    color: #000000;
   }
   
-  .idea-entry h3 {
-    font-size: 1.4rem;
-    margin-bottom: 1rem;
-    color: #333;
-  }
-  
-
-  .cv-section {
-    margin-bottom: 2.5rem;
-  }
-  
-  .cv-section h2 {
+  .section-title {
     font-size: 1.5rem;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 0.5rem;
-    margin-bottom: 1rem;
+    color: #070000;
+    margin-bottom: 2rem;
+    font-weight: 500;
   }
   
-  .cv-item {
-    margin-bottom: 1.5rem;
+  .education-title {
+    margin-top: 4rem;
   }
   
-  .cv-item h3 {
-    font-size: 1.2rem;
-    margin-bottom: 0.2rem;
+  .experience-item {
+    display: flex;
+    margin-bottom: 2rem;
+    padding: 0.5rem 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
   }
   
-  .cv-date, .cv-company {
-    font-style: italic;
-    color: #666;
+  .experience-period {
+    width: 180px;
+    color: rgb(3, 0, 0);
+    flex-shrink: 0;
+    font-size: 0.95rem;
+  }
+  
+  .experience-details {
+    flex-grow: 1;
+  }
+  
+  .experience-title {
+    font-size: 1rem;
+    color: #000000;
     margin-bottom: 0.5rem;
+    font-weight: 400;
+  }
+  
+  .experience-location {
+    font-size: 0.95rem;
+    color: #888;
+  }
+  
+  .skills-section {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+  }
+  
+  .skills-section h2 {
+    font-size: 1.5rem;
+    color: #020000;
+    margin-bottom: 1.5rem;
+    font-weight: 500;
   }
   
   .cv-skills {
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 0.8rem;
     list-style-type: none;
     padding: 0;
   }
   
   .cv-skills li {
-    background-color: #f0f0f0;
+    background-color: rgba(60, 52, 52, 0.1);
     padding: 0.5rem 1rem;
-    border-radius: 20px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    color: #888;
   }
   
   .download-cv {
-    margin-top: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
   }
   
   .download-button {
-    background-color: #333;
+    background-color: transparent;
     color: white;
-    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.2);
     padding: 0.8rem 1.5rem;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 1rem;
-    transition: background-color 0.2s;
+    font-size: 0.9rem;
+    transition: all 0.2s;
   }
   
   .download-button:hover {
-    background-color: #555;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.3);
   }
   
-
-  [data-theme="dark"] .name-title {
-    color: #f0f0f0;
+  /* verkefni síða style*/
+  .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
   }
   
-  [data-theme="dark"] .subtitle {
-    color: #aaa;
+  .projects-container {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
   }
   
-  [data-theme="dark"] .about-content h2,
-  [data-theme="dark"] .cv-content h1,
-  [data-theme="dark"] .cv-section h2,
-  [data-theme="dark"] .idea-entry h3,
-  [data-theme="dark"] .cv-item h3 {
-    color: #ddd;
+  .projects-container:hover {
+    transform: translateY(-5px);
   }
   
-  [data-theme="dark"] .about-content p,
-  [data-theme="dark"] .cv-content p {
-    color: #bbb;
+  .header {
+    width: 100%;
+    height: 180px;
+    overflow: hidden;
+    background-color: #f5f5f7;
   }
   
-  [data-theme="dark"] .cv-date,
-  [data-theme="dark"] .cv-company {
-    color: #999;
+  .header img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
   
-  [data-theme="dark"] .cv-skills li {
-    background-color: #333;
-    color: #ddd;
+  .title {
+    padding: 1rem 1rem 0.5rem 1rem;
+    font-size: 1.25rem;
   }
   
-  [data-theme="dark"] .download-button {
-    background-color: #555;
+  .description {
+    padding: 0 1rem 1rem 1rem;
+    color: #666;
+    font-size: 0.9rem;
   }
   
-  [data-theme="dark"] .download-button:hover {
-    background-color: #777;
+  .links {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem 1rem;
   }
-
-  /* Add this to Sections.css */
-.container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 2rem;
-}
-
-.projects-container {
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
-}
-
-.projects-container:hover {
-  transform: translateY(-5px);
-}
-
-.header {
-  width: 100%;
-  height: 180px;
-  overflow: hidden;
-  background-color: #f5f5f7;
-}
-
-.header img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.title {
-  padding: 1rem 1rem 0.5rem 1rem;
-  font-size: 1.25rem;
-}
-
-.description {
-  padding: 0 1rem 1rem 1rem;
-  color: #666;
-  font-size: 0.9rem;
-}
-
-.links {
-  display: flex;
-  justify-content: space-between;
-  padding: 0.5rem 1rem 1rem;
-}
-
-.links a {
-  color: #0066CC;
-  text-decoration: none;
-  font-size: 0.9rem;
-}
-
-.links a:hover {
-  text-decoration: underline;
-}
-
-.section-container h1 {
-  font-size: 1.5rem;
-  margin-bottom: 2rem;
-
-  color: #333;
-  font-weight: 600;
-  padding-left: 0; /* Ensure no extra padding */
-}
-
-[data-theme="dark"] .section-container h1 {
-  color: #f0f0f0;
-}
+  
+  .links a {
+    color: #0066CC;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+  
+  .links a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Responsive style*/
+  @media (max-width: 1200px) {
+    .name-title {
+      font-size: 7rem;
+    }
+    
+    .section-container {
+      padding: 1rem 2rem;
+    }
+  }
+  
+  @media (max-width: 1024px) {
+    .hero-content {
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .name-container {
+      margin-right: 0;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    
+    .social-links {
+      justify-content: center;
+    }
+    
+    .image-gallery {
+      width: 100%;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    
+    .image-container.image-left {
+      margin-right: 0;
+      width: 200px;
+      height: 300px;
+    }
+    
+    .image-container.image-center {
+      width: 200px;
+      height: 200px;
+      margin-top: 0;
+    }
+    
+    .image-container.image-right {
+      position: relative;
+      bottom: auto;
+      right: auto;
+      width: 150px;
+      height: 250px;
+      margin-top: 20px;
+    }
+    
+    .info-section {
+      margin-top: 40px;
+    }
+    
+    .experience-item {
+      flex-direction: column;
+    }
+    
+    .experience-period {
+      width: 100%;
+      margin-bottom: 0.5rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .name-title {
+      font-size: 4rem;
+    }
+    
+    .image-gallery {
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .image-container.image-left,
+    .image-container.image-center,
+    .image-container.image-right {
+      width: 80%;
+      height: auto;
+      max-width: 250px;
+      margin: 10px 0;
+      position: static;
+    }
+    
+    .info-section {
+      margin-top: 20px;
+    }
+  }

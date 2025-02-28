@@ -68,7 +68,7 @@ function Verkefni() {
   return (
     <div className="section-container">
       <div className="content-wrapper">
-        <h1>Verkefni</h1>
+        <h2>Verkefni</h2>
         <div className="container" ref={containerRef}>
           <p>Fleiri verkefni væntanleg...</p>
         </div>

@@ -1,8 +1,11 @@
+import headerImg from "../assets/headerimg.png";
+import headerImg2 from "../assets/headerimg2.png";
+import headerImg3 from "../assets/headerimg3.png";
 import React from 'react';
 import { useTheme } from '../common/ThemeContext';
-import twitterIcon from '../assets/twitter-light.svg';
-import githubIcon from '../assets/github-light.svg';
-import linkedinIcon from '../assets/linkedin-light.svg';
+import twitterIcon from '../assets/twitter-dark.svg';
+import githubIcon from '../assets/github-dark.svg';
+import linkedinIcon from '../assets/linkedin-dark.svg';
 import sun from '../assets/sun.svg';
 import moon from '../assets/moon.svg';
 import './Sections.css';
@@ -13,52 +16,69 @@ function About() {
   
   return (
     <div className="section-container">
-      <div className="hero-section">
-        <div className="theme-toggle">
-          <img 
-            src={themeIcon} 
-            alt="Toggle theme" 
-            onClick={toggleTheme}
-            className="theme-icon"
-          />
-        </div>
-        
-        <div className="content-wrapper">
-          <h1 className="name-title">
-            Thor Sanchez 
-          </h1>
+      <div className="subtle-banner">
+      Enn er verið að uppfæra síðuna..
+      </div>
 
+      <div className="theme-toggle">
+        <img 
+          src={themeIcon} 
+          alt="Toggle theme" 
+          onClick={toggleTheme}
+          className="theme-icon"
+        />
+      </div>
+      
+      <div className="hero-content">
+        <div className="name-container">
+          <h1 className="name-title">
+            Thor<br />Sanchez
+          </h1>
           
           <div className="social-links">
             <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
-              <img src={twitterIcon} alt="Twitter icon"/>
+              <img src={theme === 'light' ? twitterIcon : require('../assets/twitter-light.svg').default} alt="Twitter icon"/>
             </a>
             <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-              <img src={githubIcon} alt="GitHub icon"/>
+              <img src={theme === 'light' ? githubIcon : require('../assets/github-light.svg').default} alt="GitHub icon"/>
             </a>
             <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">
-              <img src={linkedinIcon} alt="LinkedIn icon"/>
+              <img src={theme === 'light' ? linkedinIcon : require('../assets/linkedin-light.svg').default} alt="LinkedIn icon"/>
             </a>
           </div>
-          
-          <div className="about-content">
-            <h2>INFO</h2>
-            <p>
-                Ég er nemandi í tölvunarfræði við Háskóla Íslands 
-                og mun útskrifast vorið 2025.
-            </p>
-            <p>
-                Ég hef lengi haft áhuga á að leysa raunveruleg vandamál með tækni og þróa notendavænar 
-                lausnir sem auðvelda daglegt líf. Í námi mínu hef ég lagt áherslu á hugbúnaðarþróun, 
-                gagnagreiningu og skilvirka hönnun kerfa. Mig hefur alltaf heillað hvernig hægt er 
-                að nýta forritun og gögn til að bæta ákvarðanatöku og auka skilvirkni.
-            </p>
-            <p>
-                Ástríða mín liggur í að þróa hagnýtar og öruggar lausnir með áherslu á góða notendaupplifun. 
-                Ég er sífellt að leita að nýjum áskorunum sem ýta undir vöxt og nýsköpun, og hef metnað 
-                fyrir því að skapa tækni sem skiptir máli.
-            </p>
+        </div>
+        
+        <div className="image-gallery">
+          <div className="image-container image-left">
+            <img src={headerImg} alt="Person on balcony" className="gallery-image" />
           </div>
+          <div className="image-container image-center">
+            <img src={headerImg2} alt="Person at stadium" className="gallery-image" />
+          </div>
+          <div className="image-container image-right">
+            <img src={headerImg3} alt="Running map" className="gallery-image" />
+          </div>
+        </div>
+      </div>
+      
+      <div className="info-section">
+        <h2 className="section-label">UM MIG</h2>
+        <div className="about-content">
+          <p>
+            Ég er nemandi í tölvunarfræði við Háskóla Íslands 
+            og mun útskrifast vorið 2025.
+          </p>
+          <p>
+            Ég hef lengi haft áhuga á að leysa raunveruleg vandamál með tækni og þróa notendavænar 
+            lausnir sem auðvelda daglegt líf. Í námi mínu hef ég lagt áherslu á hugbúnaðarþróun, 
+            gagnagreiningu og skilvirka hönnun kerfa. Mig hefur alltaf heillað hvernig hægt er 
+            að nýta forritun og gögn til að bæta ákvarðanatöku og auka skilvirkni.
+          </p>
+          <p>
+            Ástríða mín liggur í að þróa hagnýtar og öruggar lausnir með áherslu á góða notendaupplifun. 
+            Ég er sífellt að leita að nýjum áskorunum sem ýta undir vöxt og nýsköpun, og hef metnað 
+            fyrir því að skapa tækni sem skiptir máli.
+          </p>
         </div>
       </div>
     </div>
