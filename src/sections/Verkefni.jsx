@@ -1,6 +1,6 @@
 /*tekið frá https://www.youtube.com/watch?v=xMK7txZuT2E*/
 import React, { useEffect, useRef } from 'react';
-import './Verkefni.css';
+import './Sections.css'; 
 
 function Verkefni() {
   const containerRef = useRef(null);
@@ -66,10 +66,12 @@ function Verkefni() {
   }, []);
 
   return (
-    <div className="verkefni-section">
-      <h1>Verkefni</h1>
-      <div className="container" ref={containerRef}>
-        <p>Fleiri verkefni væntanleg...</p>
+    <div className="section-container">
+      <div className="content-wrapper">
+        <h1>Verkefni</h1>
+        <div className="container" ref={containerRef}>
+          <p>Fleiri verkefni væntanleg...</p>
+        </div>
       </div>
     </div>
   );

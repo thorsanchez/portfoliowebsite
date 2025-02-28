@@ -11,10 +11,9 @@ function App() {
     <div className="app-container">
       <Sidebar />
       <div className="main-content">
-        { }
-        <About />
-        
-        {}
+      <section id="about">
+          <About />
+        </section>
         <section id="cv">
           <CV />
         </section>

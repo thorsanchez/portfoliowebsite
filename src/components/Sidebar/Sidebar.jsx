@@ -12,7 +12,7 @@ function Sidebar() {
       <div className="sidebar-header">
         <h1>Portfolio</h1>
       </div>
-      
+
       <nav className="sidebar-nav">
         <Link to="about" smooth={true} duration={500} offset={-50}>
           About
@@ -23,12 +23,11 @@ function Sidebar() {
       </nav>
       
       <div className="sidebar-section">
-        <h2>SYNA VERKEFNI HER</h2>
+        <h2>Github</h2>
         <nav className="sidebar-nav">
           <Link to="verkefni" smooth={true} duration={500} offset={-50}>
             Verkefni
           </Link>
-          <a href="#" target="_blank" rel="noopener noreferrer">FleiriVerkefnikannski</a>
         </nav>
       </div>
       
