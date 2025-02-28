@@ -28,7 +28,9 @@ function Sidebar() {
       <div className="sidebar-section">
         <h2>SYNA VERKEFNI HER</h2>
         <nav className="sidebar-nav">
-          <a href="#" target="_blank" rel="noopener noreferrer">Verkefni</a>
+          <Link to="verkefni" smooth={true} duration={500} offset={-50}>
+            Verkefni
+          </Link>
           <a href="#" target="_blank" rel="noopener noreferrer">FleiriVerkefnikannski</a>
         </nav>
       </div>

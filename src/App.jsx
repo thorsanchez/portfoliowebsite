@@ -4,6 +4,7 @@ import Sidebar from './components/Sidebar/Sidebar';
 import About from './sections/About';
 import Ideas from './sections/Ideas';
 import CV from './sections/CV';
+import Verkefni from './sections/Verkefni';
 import './App.css';
 
 function App() {
@@ -22,6 +23,9 @@ function App() {
         </section>
         <section id="cv">
           <CV />
+        </section>
+        <section id="verkefni">
+          <Verkefni />
         </section>
       </div>
     </div>
