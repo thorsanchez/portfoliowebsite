@@ -60,7 +60,6 @@
   }
   
   .about-content h2,
-  .ideas-content h1,
   .cv-content h1 {
     font-size: 1.8rem;
     margin-bottom: 1.5rem;
@@ -68,7 +67,6 @@
   }
   
   .about-content p,
-  .ideas-content p,
   .cv-content p {
     margin-bottom: 1.5rem;
     line-height: 1.6;
@@ -156,7 +154,6 @@
   }
   
   [data-theme="dark"] .about-content h2,
-  [data-theme="dark"] .ideas-content h1,
   [data-theme="dark"] .cv-content h1,
   [data-theme="dark"] .cv-section h2,
   [data-theme="dark"] .idea-entry h3,
@@ -165,7 +162,6 @@
   }
   
   [data-theme="dark"] .about-content p,
-  [data-theme="dark"] .ideas-content p,
   [data-theme="dark"] .cv-content p {
     color: #bbb;
   }

@@ -35,8 +35,10 @@ function Verkefni() {
           if(result[i].stargazers_count > 0){
             var proj = `<div class="projects-container">
               <div class="header">
-                <img src=${`https://raw.githubusercontent.com/${username}/${result[i].name}/${result[i].default_branch}/Thumbnail/thumbnail.png`} 
-                  alt="thumbnail" class="src">
+              <img 
+              src=${`https://raw.githubusercontent.com/${username}/${result[i].name}/${result[i].default_branch}/Thumbnail/thumbnail.png`}
+              alt="thumbnail" 
+              class="src">
               </div>
               <div class="title"><strong>${result[i].name}</strong></div>
               <div class="description">${result[i].description || 'No description available'}</div>
@@ -65,7 +67,7 @@ function Verkefni() {
 
   return (
     <div className="verkefni-section">
-      <h1>Projects</h1>
+      <h1>Verkefni</h1>
       <div className="container" ref={containerRef}>
         <p>Fleiri verkefni væntanleg...</p>
       </div>

@@ -17,9 +17,6 @@ function Sidebar() {
         <Link to="about" smooth={true} duration={500} offset={-50}>
           About
         </Link>
-        <Link to="ideas" smooth={true} duration={500} offset={-50}>
-          Ideas
-        </Link>
         <Link to="cv" smooth={true} duration={500} offset={-50}>
           CV
         </Link>
