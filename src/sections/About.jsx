@@ -3,9 +3,12 @@ import headerImg2 from "../assets/headerimg2.png";
 import headerImg3 from "../assets/headerimg3.png";
 import React from 'react';
 import { useTheme } from '../common/ThemeContext';
-import twitterIcon from '../assets/twitter-dark.svg';
-import githubIcon from '../assets/github-dark.svg';
-import linkedinIcon from '../assets/linkedin-dark.svg';
+import twitterIconDark from '../assets/twitter-dark.svg';
+import githubIconDark from '../assets/github-dark.svg';
+import linkedinIconDark from '../assets/linkedin-dark.svg';
+import twitterIconLight from '../assets/twitter-light.svg';
+import githubIconLight from '../assets/github-light.svg';
+import linkedinIconLight from '../assets/linkedin-light.svg';
 import sun from '../assets/sun.svg';
 import moon from '../assets/moon.svg';
 import './Sections.css';
@@ -17,7 +20,7 @@ function About() {
   return (
     <div className="section-container">
       <div className="subtle-banner">
-      Enn er verið að uppfæra síðuna..
+        Enn er verið að uppfæra síðuna..
       </div>
 
       <div className="theme-toggle">
@@ -37,13 +40,13 @@ function About() {
           
           <div className="social-links">
             <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
-              <img src={theme === 'light' ? twitterIcon : require('../assets/twitter-light.svg').default} alt="Twitter icon"/>
+            <img src={theme === 'light' ? twitterIconLight : twitterIconDark} alt="Twitter icon"/>
             </a>
             <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-              <img src={theme === 'light' ? githubIcon : require('../assets/github-light.svg').default} alt="GitHub icon"/>
+              <img src={theme === 'light' ? githubIconLight : githubIconDark} alt="GitHub icon"/>
             </a>
             <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">
-              <img src={theme === 'light' ? linkedinIcon : require('../assets/linkedin-light.svg').default} alt="LinkedIn icon"/>
+              <img src={theme === 'light' ? linkedinIconLight : linkedinIconDark} alt="LinkedIn icon"/>
             </a>
           </div>
         </div>
