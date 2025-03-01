@@ -45,3 +45,15 @@ button {
 section {
   padding: 2rem 0;
 }
+
+[data-theme="dark"] h2 {
+  color: #f0f0f0;
+  border-bottom: 1px solid #444;
+}
+
+/* efst á síðu */
+body[data-theme="dark"] {
+  background-color: #121212 !important;
+  color: #f0f0f0;
+}
+

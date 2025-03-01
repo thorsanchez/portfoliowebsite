@@ -3,10 +3,8 @@ import headerImg2 from "../assets/headerimg2.png";
 import headerImg3 from "../assets/headerimg3.png";
 import React from 'react';
 import { useTheme } from '../common/ThemeContext';
-import twitterIconDark from '../assets/twitter-dark.svg';
 import githubIconDark from '../assets/github-dark.svg';
 import linkedinIconDark from '../assets/linkedin-dark.svg';
-import twitterIconLight from '../assets/twitter-light.svg';
 import githubIconLight from '../assets/github-light.svg';
 import linkedinIconLight from '../assets/linkedin-light.svg';
 import sun from '../assets/sun.svg';
@@ -39,10 +37,7 @@ function About() {
           </h1>
           
           <div className="social-links">
-            <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
-            <img src={theme === 'light' ? twitterIconLight : twitterIconDark} alt="Twitter icon"/>
-            </a>
-            <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/thorsanchez" target="_blank" rel="noopener noreferrer">
               <img src={theme === 'light' ? githubIconLight : githubIconDark} alt="GitHub icon"/>
             </a>
             <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">
@@ -53,13 +48,13 @@ function About() {
         
         <div className="image-gallery">
           <div className="image-container image-left">
-            <img src={headerImg} alt="Person on balcony" className="gallery-image" />
+            <img src={headerImg} alt="" className="gallery-image" />
           </div>
           <div className="image-container image-center">
-            <img src={headerImg2} alt="Person at stadium" className="gallery-image" />
+            <img src={headerImg2} alt="" className="gallery-image" />
           </div>
           <div className="image-container image-right">
-            <img src={headerImg3} alt="Running map" className="gallery-image" />
+            <img src={headerImg3} alt="" className="gallery-image" />
           </div>
         </div>
       </div>
