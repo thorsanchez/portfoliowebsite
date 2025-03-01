@@ -23,21 +23,11 @@ function Sidebar() {
       </nav>
       
       <div className="sidebar-section">
-        <h2>Github</h2>
+        <h2>Verkefni</h2>
         <nav className="sidebar-nav">
           <Link to="verkefni" smooth={true} duration={500} offset={-50}>
-            Verkefni
+            Github Verkefni
           </Link>
-        </nav>
-      </div>
-      
-      <div className="sidebar-section">
-        <h2>HERBÆTAFLOTTUSTUVERK</h2>
-        <nav className="sidebar-nav">
-          <a href="#" target="_blank" rel="noopener noreferrer">VANTAR</a>
-          <a href="#" target="_blank" rel="noopener noreferrer">VERKEFNI</a>
-          <a href="#" target="_blank" rel="noopener noreferrer">TILAÐBIRTA</a>
-          <a href="#" target="_blank" rel="noopener noreferrer">:(</a>
         </nav>
       </div>
       
