@@ -97,7 +97,6 @@
 
 .image-container {
   border-radius: 8px;
-  overflow: hidden;
   position: relative;
 }
 
@@ -130,6 +129,7 @@
   display: block;
   object-fit: cover;
   opacity: 0.9;
+  border-radius: 12px;
 }
 
 /*About - um mig teksti*/
@@ -364,7 +364,7 @@
     right: auto;
     width: 150px;
     height: 250px;
-    margin-top: 20px;
+    margin-top: 25px;
   }
   
   .info-section {
@@ -399,6 +399,7 @@
     max-width: 250px;
     margin: 10px 0;
     position: static;
+    
   }
   
   .info-section {

@@ -5,9 +5,11 @@ import About from './sections/About';
 import CV from './sections/CV';
 import Verkefni from './sections/Verkefni';
 import './App.css';
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   return (
+    
     <div className="app-container">
       <Sidebar />
       <div className="main-content">
@@ -20,6 +22,8 @@ function App() {
         <section id="verkefni">
           <Verkefni />
         </section>
+        {/* tracka page view */}
+        <Analytics />
       </div>
     </div>
   );
