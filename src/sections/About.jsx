@@ -63,19 +63,23 @@ function About() {
         <h2 className="section-label">UM MIG</h2>
         <div className="about-content">
           <p>
-            Ég er nemandi í tölvunarfræði við Háskóla Íslands 
-            og mun útskrifast vorið 2025.
+          Ég er 24 ára tölvunarfræðinemi við Háskóla Íslands. 
+          Ég hef gaman af því að fikta í nýrri tækni og forrita
+          eitthvað sem ekki bara virkar vel, heldur gerir upplifun notenda betri.
           </p>
           <p>
-            Ég hef lengi haft áhuga á að leysa raunveruleg vandamál með tækni og þróa notendavænar 
-            lausnir sem auðvelda daglegt líf. Í námi mínu hef ég lagt áherslu á hugbúnaðarþróun, 
-            gagnagreiningu og skilvirka hönnun kerfa. Það hefur alltaf heillað mig hvernig hægt er 
-            að nýta forritun og gögn til að bæta ákvarðanatöku og auka skilvirkni.
+          Ég hef mest verið að vinna í framendaforritun, en markmiðið er að verða fullstack forritari. 
+          Í náminu hef ég unnið í nokkrum fullstack verkefnum, bæði einn og í teymi, 
+          þar sem ég hef tekist á við allt frá því að hanna flott viðmót yfir í að gera 
+          bakenda með gagnagrunnum og API-um. 
           </p>
           <p>
-            Ástríða mín liggur í að þróa hagnýtar og öruggar lausnir með áherslu á góða notendaupplifun. 
-            Ég er sífellt að leita að nýjum áskorunum sem ýta undir vöxt og nýsköpun, og hef metnað 
-            fyrir því að skapa tækni sem skiptir máli.
+          Þegar ég er ekki að kóða, þá fylgist ég með fótboltanum, hlutabréfamarkaðina og 
+          tækniheiminum. Ég hef alltaf verið forvitinn um hvernig tölvur og gögn geta 
+          verið nýtt til að bæta ákvarðanatöku, hvort sem það er í fjármálum, heilsu eða 
+          íþróttum. Ég nýt þess að kafa ofan í nýja hluti, fylgjast með þróun 
+          markaða og greina hvernig tækni getur haft áhrif á framtíðina – og ef ég er 
+          ekki að því, þá er líklegt að ég sé að horfa á Liverpool spila.
           </p>
         </div>
       </div>
