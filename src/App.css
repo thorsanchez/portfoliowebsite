@@ -1,20 +1,18 @@
-
 .app-container {
   display: flex;
+  flex-direction: row;
 }
 
 .main-content {
-  margin-left: 250px; 
+  margin-left: 250px;
   width: calc(100% - 250px);
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, margin-left 0.3s ease, width 0.3s ease;
 }
 
-
-[data-theme="dark"] body {
-  background-color: #121212;
-  color: #f0f0f0;
-}
-
-[data-theme="dark"] .main-content {
-  background-color: #121212;
+/* breyta fyrir mobile view*/
+@media (max-width: 768px) {
+  .main-content {
+    margin-left: 0;
+    width: 100%;
+  }
 }

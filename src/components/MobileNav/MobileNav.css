@@ -1,0 +1,73 @@
+.mobile-nav {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1001;
+  }
+  
+  .hamburger {
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .hamburger-line {
+    width: 30px;
+    height: 3px;
+    background-color: #000;
+    border-radius: 3px;
+    margin: 3px 0;
+  }
+  
+  [data-theme="dark"] .hamburger-line {
+    background-color: #fff;
+  }
+  
+  /* fela á desktop */
+  @media (min-width: 769px) {
+    .mobile-nav {
+      display: none;
+    }
+  }
+  
+  /* hamburger on mobile */
+  @media (max-width: 768px) {
+    .mobile-nav {
+      display: block;
+    }
+    
+    /* Adjust sidebar behavior on mobile */
+    .sidebar {
+      transform: translateX(-100%);
+      transition: transform 0.3s ease;
+    }
+    
+    .sidebar.active {
+      transform: translateX(0);
+    }
+    
+    /* breyta main content on mobile */
+    .main-content {
+      margin-left: 0;
+      width: 100%;
+    }
+  }
+  
+  /* hamburger animation */
+  .hamburger.open .hamburger-line:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+  
+  .hamburger.open .hamburger-line:nth-child(2) {
+    opacity: 0;
+  }
+  
+  .hamburger.open .hamburger-line:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -7px);
+  }
