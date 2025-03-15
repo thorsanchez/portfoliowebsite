@@ -18,7 +18,7 @@ function About() {
   return (
     <div className="section-container">
       <div className="subtle-banner">
-        Enn er verið að uppfæra síðuna..
+        Síðan er ennþá í vinnslu..
       </div>
 
       <div className="theme-toggle">
@@ -69,7 +69,7 @@ function About() {
           <p>
             Ég hef lengi haft áhuga á að leysa raunveruleg vandamál með tækni og þróa notendavænar 
             lausnir sem auðvelda daglegt líf. Í námi mínu hef ég lagt áherslu á hugbúnaðarþróun, 
-            gagnagreiningu og skilvirka hönnun kerfa. Mig hefur alltaf heillað hvernig hægt er 
+            gagnagreiningu og skilvirka hönnun kerfa. Það hefur alltaf heillað mig hvernig hægt er 
             að nýta forritun og gögn til að bæta ákvarðanatöku og auka skilvirkni.
           </p>
           <p>

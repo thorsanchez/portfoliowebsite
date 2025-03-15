@@ -159,6 +159,11 @@
   color: #000000;
 }
 
+.experience-details .cv-skills {
+  margin-top: 0;
+  padding-left: 0;
+}
+
 .section-title {
   font-size: 1.5rem;
   color: #070000;

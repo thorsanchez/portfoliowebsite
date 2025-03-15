@@ -11,7 +11,7 @@ function CV() {
         <div className="experience-details">
           <div className="experience-title">
             <a href="https://dropp.is" target="_blank" rel="noopener noreferrer">
-                Skrifstofuvinna og sendill at Dropp ↗
+                Skrifstofuvinna og sendill hjá Dropp ↗
             </a>
           </div>
           <div className="experience-location">Reykjavík, Ísland</div>
@@ -31,10 +31,10 @@ function CV() {
       </div>
 
       <div className="experience-item">
-        <div className="experience-period">Maí - ágúst 2018</div>
+        <div className="experience-period">2018</div>
         <div className="experience-details">
           <div className="experience-title">
-            Byggingarvinnu hjá Fimir ehf heilt sumar ↗
+            Byggingarvinnu hjá Fimir ehf ↗
           </div>
           <div className="experience-location">Reykjavík, Ísland</div>
         </div>
@@ -43,7 +43,7 @@ function CV() {
       <h2 className="section-title education-title">Menntun</h2>
       
       <div className="experience-item">
-        <div className="experience-period">2022 — 2025</div>
+        <div className="experience-period">2022 —</div>
         <div className="experience-details">
           <div className="experience-title">
           <a href="https://hi.is/tolvunarfraedi" target="_blank" rel="noopener noreferrer">
@@ -100,18 +100,46 @@ function CV() {
           <div className="experience-location">Stabekk, Noregur</div>
         </div>
       </div>
+
+      <h2 className="section-title skills-title">Annað</h2>
       
-      <h2 className="section-title skills-title">Skills</h2>
-      <div className="skills-section">
-        <ul className="cv-skills">
-          <li>Hugbúnaðarþróun</li>
-          <li>JavaScript (React, Node.js)</li>
-          <li>PostgreSQL & NoSQL Gagnagrunir</li>
-          <li>API Hönnun & Þróun</li>
-          <li>Skýjalausnir</li>
-          <li>Gagnagreining</li>
-        </ul>
+      <div className="experience-item">
+        <div className="experience-period"><strong>Tungumál</strong> </div>
+        <div className="experience-details">
+          <div className="experience-title">
+            <a href="https://dropp.is" target="_blank" rel="noopener noreferrer">
+            Íslenska, Norska og Enska
+            </a>
+          </div>
+        </div>
       </div>
+
+      <div className="experience-item">
+        <div className="experience-period"> <strong>Ég hef ágætis<br/> reynslu í</strong> </div>
+        <div className="experience-details">
+          <div className="experience-title">
+            <strong>Forritun:</strong> Java, Python, Kotlin, Flutter, JavaScript, R, Morpho
+            <p><strong>Bakendi:</strong> Node.js, Express, PostgreSQL, REST API, JWT</p>
+            <p><strong>Vefforritun:</strong> React, HTML, CSS</p>
+            <p><strong>Blockchain:</strong> Grunnskilningur á snjallsamningum og dApps</p>
+          </div>
+        </div>
+      </div>
+
+      
+      <div className="experience-item">
+  <div className="experience-period"><strong>Áhugamál</strong></div>
+  <div className="experience-details">
+    <ul className="cv-skills">
+      <li>Tækni og nýsköpun</li>
+      <li>Fótbolti, hlaup og líkamsrækt</li>
+      <li>Öpp og vefsíðugerð</li>
+      <li>Fjármál</li>
+      <li>Forritun</li>
+      <li>Gervigreind og LLM-módel</li>
+    </ul>
+  </div>
+</div>
       
       <div className="download-cv">
         <a href="/assets/cv.pdf" download>
