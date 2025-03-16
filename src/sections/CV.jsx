@@ -2,6 +2,10 @@ import React from 'react';
 import './Sections.css';
 
 function CV() {
+    const handleViewCV = () => {
+      // Open the PDF in a new tab
+    window.open('../sections/cv-thor.pdf');
+  };
   return (
     <div className="section-container cv-container">
       <h2 className="section-title">Starfsreynsla</h2>
@@ -140,13 +144,15 @@ function CV() {
     </ul>
   </div>
 </div>
+
       
-      <div className="download-cv">
-        <a href="/assets/cv.pdf" download>
-          <button className="download-button">
-            Hlaða niður ferilskrá
-          </button>
-        </a>
+<div className="download-cv">
+        <button 
+          className="download-button"
+          onClick={handleViewCV}
+        >
+          Skoða ferilskrá
+        </button>
       </div>
     </div>
   );
