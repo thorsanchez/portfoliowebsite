@@ -76,7 +76,7 @@ function About() {
           bakenda með gagnagrunnum og API-um. 
           </p>
           <p>
-          Þegar ég er ekki að kóða, þá fylgist ég með fótboltanum, hlutabréfamarkaðina og 
+          Þegar ég er ekki að kóða, þá fylgist ég með fótboltanum, hlutabréfamörkuðunum og 
           tækniheiminum. Ég hef alltaf verið forvitinn um hvernig tölvur og gögn geta 
           verið nýtt til að bæta ákvarðanatöku, hvort sem það er í fjármálum, heilsu eða 
           íþróttum. Ég nýt þess að kafa ofan í nýja hluti, fylgjast með þróun 

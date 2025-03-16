@@ -82,6 +82,14 @@
   font-weight: bold;
 }
 
+/*thor marvel logo í sidebar*/
+.logo-image {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin-bottom: 2rem;
+}
 /* fela sidebar fyrir mobile */
 @media (max-width: 768px) {
   .sidebar {
