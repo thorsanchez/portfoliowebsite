@@ -4,7 +4,7 @@ import './Sections.css';
 function CV() {
     const handleViewCV = () => {
       // Open the PDF in a new tab
-      window.open('../../public/cv-thor.pdf');
+      window.open('/cv-thor.pdf');
   };
   return (
     <div className="section-container cv-container">
