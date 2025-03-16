@@ -240,8 +240,8 @@
 
 .download-button {
   background-color: transparent;
-  color: white;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #333;
+  border: 1px solid #333;
   padding: 0.8rem 1.5rem;
   border-radius: 4px;
   cursor: pointer;
@@ -452,10 +452,15 @@ color: #0066cc;
 }
 
 [data-theme="dark"] .download-button {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: transparent;
   color: #f0f0f0;
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
+[data-theme="dark"] .download-button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.3);
+}
 [data-theme="dark"] .experience-period {
   width: 180px;
   color: rgb(231, 228, 228);
