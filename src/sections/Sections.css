@@ -386,23 +386,68 @@
   }
   
   .image-gallery {
-    flex-direction: column;
-    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 300px; 
+    margin-bottom: 50px; /* Add space below the gallery */
   }
   
   .image-container.image-left,
   .image-container.image-center,
   .image-container.image-right {
-    width: 80%;
+    position: absolute;
+    width: 150px;
     height: auto;
-    max-width: 250px;
-    margin: 10px 0;
-    position: static;
-    
+    margin: 0;
+    border-radius: 12px;
+  }
+
+  .image-container.image-left {
+    left: 10%;
+    z-index: 1;
+    top: 50px;
+  }
+  
+  .image-container.image-center {
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+    top: 10px;
+  }
+  
+  .image-container.image-right {
+    right: 10%;
+    z-index: 1;
+    top: 70px;
   }
   
   .info-section {
     margin-top: 20px;
+  }
+}
+
+/*fyrir minni síma*/
+@media (max-width: 480px) {
+  .image-gallery {
+    height: 250px;
+  }
+  
+  .image-container.image-left,
+  .image-container.image-center,
+  .image-container.image-right {
+    width: 120px;
+  }
+  
+  .image-container.image-left {
+    left: 5%;
+  }
+  
+  .image-container.image-right {
+    right: 5%;
   }
 }
 
