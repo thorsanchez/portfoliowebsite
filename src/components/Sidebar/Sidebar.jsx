@@ -3,7 +3,8 @@ import React from 'react';
 import { Link } from 'react-scroll';
 import { useTheme } from '../../common/ThemeContext';
 import './Sidebar.css';
-import logo from '../../assets/logo.png';
+import logoDark from '../../assets/logo.png';  // For dark mode
+import logoLight from '../../assets/logo-whitemode.png';
 
 function Sidebar() {
   const { theme } = useTheme();
@@ -11,7 +12,11 @@ function Sidebar() {
   return (
     <aside className={`sidebar ${theme === 'dark' ? 'sidebar-dark' : ''}`}>
       <div className="sidebar-header">
-      <img src={logo} alt="Thor Sanchez" className="logo-image" />
+      <img 
+          src={theme === 'dark' ? logoDark : logoLight} 
+          alt="Thor Sanchez" 
+          className="logo-image" 
+        />
       </div>
 
       <nav className="sidebar-nav">
