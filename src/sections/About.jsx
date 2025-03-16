@@ -51,7 +51,9 @@ function About() {
             <img src={headerImg} alt="" className="gallery-image" />
           </div>
           <div className="image-container image-center">
+          <div className="image-container image-center">
             <img src={headerImg2} alt="" className="gallery-image" />
+          </div>
           </div>
           <div className="image-container image-right">
             <img src={headerImg3} alt="" className="gallery-image" />
