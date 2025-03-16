@@ -41,7 +41,7 @@ function Sidebar() {
         <h2>HAFÐU SAMBAND</h2>
         <nav className="sidebar-nav">
           <a href="mailto:sanchezthor@gmail.com">Senda póst</a>
-          <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="https://github.com/thorsanchez" target="_blank" rel="noopener noreferrer">Github</a>
         </nav>
       </div>
     </aside>
