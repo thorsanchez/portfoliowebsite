@@ -111,9 +111,7 @@ function CV() {
         <div className="experience-period"><strong>Tungumál</strong> </div>
         <div className="experience-details">
           <div className="experience-title">
-            <a href="https://dropp.is" target="_blank" rel="noopener noreferrer">
             Íslenska, Norska og Enska
-            </a>
           </div>
         </div>
       </div>
