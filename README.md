@@ -14,7 +14,9 @@ Framendi (React með Vite)
 - Síður: About, CV og Verkefni
 - Þema: Light/Dark mode
 - Viðmót: Responsive design með sidebar sem breytist í hamburger valmynd á minni skjám
-API Tenging
+
+  
+**API Tenging**
 - Bein tenging við Github REST API frá framendanum
 - Fetch API notað til að sækja og birta öll verkefni sem ég hef starred úr GitHub reikningnum mínum
 Á síðunni er:
@@ -22,18 +24,25 @@ API Tenging
 - Þema: Hægt er að skipta á milli ljóst og dökkt þema
 - Gagnvirkt: Verkefni eru sótt sjálfkrafa frá GitHub
 - Sidebar/Hamburger valmynd: Aðlagar sig að skjástærð
+
+  
 ##Tækni
-Framendi
+**Framendi**
 - React: Notað fyrir uppbyggingu viðmóts og component-based hönnun
 - Vite: Build tool sem er hraðvirkt og þægilegt
 - CSS: Fyrir stílsetningu vefsíðunnar
 - Context API: Fyrir þema light/dark mode
 - React Scroll: Fyrir smoother navigation milli sections
-API tenging
+
+  
+**API tenging**
 - Fetch API: Notað til að sækja gögn um GitHub verkefnin mín beint í vafra
 - GitHub REST API: Veitir aðgang að öllum verkefnunum mínum sem ég bý til í verkefnahlutanum
-###Hýsing og CI/CD
+
+  
+**Hýsing og CI/CD**
 - Vercel: Vefsíðuhýsing með sjálfvirkum uppfærslum
+
 ## Hvað gekk vel
 Útfærsla á þemavirkni: Útfærslan á þemavirkninni með Context API gekk mjög vel .
 GitHub API tenging: Ég fann mjög einfalt youtube video og eftir það tókst vel að tengja við GitHub API og sækja verkefnaupplýsingar 
