@@ -27,6 +27,7 @@ Framendi (React með Vite)
 
   
 ##Tækni
+
 **Framendi**
 - React: Notað fyrir uppbyggingu viðmóts og component-based hönnun
 - Vite: Build tool sem er hraðvirkt og þægilegt
