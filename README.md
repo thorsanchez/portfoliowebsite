@@ -1,4 +1,4 @@
-# Vefforritun 2 - Einstaklingsverkefni
+# Vefforritun 2 - Einstaklingsverkefni Skýrsla
 
 ## Inngangur
 
