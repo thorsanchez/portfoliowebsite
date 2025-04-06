@@ -26,7 +26,7 @@ Framendi (React með Vite)
 - Sidebar/Hamburger valmynd: Aðlagar sig að skjástærð
 
   
-##Tækni
+## Tækni
 
 **Framendi**
 - React: Notað fyrir uppbyggingu viðmóts og component-based hönnun
