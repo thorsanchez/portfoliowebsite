@@ -1,74 +1,70 @@
 # Vefforritun 2 - Einstaklingsverkefni
 
-## Lýsing á verkefni
+## Inngangur
 
-Þetta verkefni er portfolio sem sýnir GitHub verkefni með því að sækja þau sjálfkrafa í gegnum GitHub API. Verkefnið samanstendur af:
+Verkefnið sem ég hef útfært er persónuleg portfolio vefsíða sem sækir GitHub verkefni mín sjálfkrafa í gegnum GitHub API. Hugmyndin kom þegar ég var að velta fyrir mér hvernig ég gæti birt ferilskrána mína og GitHub verkefnin mín á einfaldan hátt sem myndi sjálfkrafa uppfærast þegar ég bæti við nýjum verkefnum á GitHub.
 
-- **Bakenda**: Node.js með Express sem sækir verkefni frá GitHub API.
-- **Framenda**: React með Vite sem birtir verkefni.
-- **Hýsing**: Verkefnið verður sett upp með CI/CD.
+## Útfærsla
 
-## Grunn að skýrslu
+Ég valdi að uppfylla eftirfarandi skilyrði úr verkefnalýsingunni:
 
-### Inngangur
+- Framendi útfærður með framenda framework: Ég notaði React til að búa til viðmótið ásamt Vite sem þróunarumhverfi.
+- Verkefni sett upp í hýsingu með CI/CD ferlum: Vefsíðan er hýst á Vercel með sjálfvirkum uppfærslum þegar breytingar eru gerðar á GitHub.
+- Vefþjónusta (REST API): Ég tengi GitHub REST API í gegnum fetching beint frá framendanum til að sækja verkefnin mín.
 
-Ég ákvað að búa til persónulega portfolio vefsíðu sem sýnir verkefnin mín, hæfni og áhugamál. Verkefnið tengist vefforritun og útfærslu á bakenda og framenda. Markmiðið er að hafa verkefnið dýnamískt þannig að GitHub verkefnin mín birtist sjálfkrafa, án þess að ég þurfi að uppfæra þau handvirkt.
+## Uppbygging verkefnisins
 
-### Útfærsla
+Verkefnið skiptist í eftirfarandi hluta:
 
-Verkefnið mun uppfylla eftirfarandi skilyrði:
+- Framendi (React með Vite)
+- Síður: About, CV og Verkefni
+- Þema: Light/Dark mode
+- Viðmót: Responsive design með sidebar sem breytist í hamburger valmynd á minni skjám
 
-- Bakendi útfærður með **Node.js og Express** sem þjónustar REST API.
-- Framendi útfærður með **React og Vite**.
-- GitHub API verður notað til að sækja verkefnið.
-- Verkefnið verður hýst á **Vercel (framendi) og Render/Heroku (bakendi)** með CI/CD fyrir sjálfvirka dreifingu.
+## API Tenging
 
-### Tækni
+- Bein tenging við GitHub REST API frá framendanum
+- Fetch API notað til að sækja og birta öll verkefni sem ég hef starred úr GitHub reikningnum mínum
 
-Verkefnið notar eftirfarandi tækni:
+## Á síðunni er
 
-- **React með Vite** fyrir framenda.
-- **Node.js og Express** fyrir bakenda.
-- **GitHub API** fyrir verkefnagögn.
-- **Redis (valkvætt)** fyrir skyndiminni.
-- **CI/CD með GitHub Actions** fyrir sjálfvirka uppsetningu.
+- Hreyfanleiki: Vefsíðan virkar jafnt á tölvum, spjaldtölvum og símum
+- Þemu: Hægt er að skipta á milli ljóst og dökkt þema
+- Gagnvirkt: Verkefni eru sótt sjálfkrafa frá GitHub
+- Sidebar/Hamburger valmynd: Aðlagar sig að skjástærð
 
-## Skilyrði sem verða útfærð
+## Tækni
 
-- **Bakenda útfærsla** (Node.js með Express fyrir API).
-- **Vefþjónusta (REST API)** til að sækja GitHub verkefni.
-- **Framenda útfærsla** (React með Vite til að birta verkefni).
+### Framendi
 
-## Verkáætlun (Vikur 6–13)
+- React: Notað fyrir uppbyggingu viðmóts og component-based hönnun
+- Vite: Build tool sem er hraðvirkt og þægilegt
+- CSS: Fyrir stílsetningu vefsíðunnar
+- Context API: Fyrir þema light/dark mode
+- React Scroll: Fyrir smoother navigation milli sections
 
-| **Vika**     | **Verkefni**                                                                              |
-| ------------ | ----------------------------------------------------------------------------------------- |
-| **Vika 6-7** | Setja upp verkefnið (React með Vite, Node.js með Express). Og byrja að tengja GitHub API. |
-| **Vika 8-9** | Útfæra bakenda API sem sækir og þjónustar GitHub verkefni. Prófanir á API svörum.         |
-| **Vika 10**  | Byggja framenda fyrir birtingu verkefna.                                                  |
-| **Vika 11**  | Fullklára UI/UX.                                                                          |
-| **Vika 12**  | Hýsa bakenda (Render/Heroku) og framenda (Vercel/Netlify). Setja upp CI/CD.               |
-| **Vika 13**  | Skrifa lokaskýrslu. Fínpússa og prófa fyrir skil.                                         |
+### API tenging
 
-## Hýsingar- og dreifingarplan
+- Fetch API: Notað til að sækja gögn um GitHub verkefnin mín beint í vafra
+- GitHub REST API: Veitir aðgang að öllum verkefnunum mínum sem ég bý til í verkefnahlutanum
 
-- **Bakendi:** Hýstur á **Render** eða **Heroku**.
-- **Framendi:** Hýstur á **Vercel** eða **Netlify**.
-- **CI/CD Uppsetning:** GitHub Actions fyrir sjálfvirka dreifingu.
+### Hýsing og CI/CD
 
-## Matskvarði
+- Vercel: Vefsíðuhýsing með sjálfvirkum uppfærslum
 
-| **Flokkur**                                                      | **Hlutfall (%)** |
-| ---------------------------------------------------------------- | ---------------- |
-| **Bakenda API (Node.js + Express) sem sækir GitHub verkefni**    | 30%              |
-| **Framendi (React + Vite) sem birtir GitHub verkefni dýnamískt** | 30%              |
-| **Hýsing & Dreifing (CI/CD + hýsing á Vercel/Heroku)**           | 20%              |
-| **Gæði kóða, skjölun og skýrsla**                                | 20%              |
+## Hvað gekk vel
 
-## Kynning
+- Útfærsla á þemavirkni: Útfærslan á þemavirkninni með Context API gekk mjög vel
+- GitHub API tenging: Ég fann mjög einfalt YouTube video og eftir það tókst vel að tengja við GitHub API og sækja verkefnaupplýsingar
 
-Ég mun kynna verkefnið.
+## Hvað gekk illa
 
----
+- Eitt af því sem reyndist mér erfitt var að ákveða nákvæmlega hvernig ég vildi hafa verkefnið. Ég var með hugmynd um að búa til persónulega portfolio síðu, en átti erfitt með að sjá fyrir mér nákvæmlega hvernig hún ætti að líta út og virka. Þetta leiddi til þess að ég var stöðugt að breyta um skoðun og endurhugsa verkefnið.
+- Ég eyddi miklum tíma í að horfa á ólík YouTube myndbönd um portfolio síður, skoða ýmsar útfærslur og kanna mismunandi tækni. Í heildina breytti ég hvernig ég vildi útfæra verkefnið líklega um 20 sinnum, sem vissulega þýddi að ég fór í gegnum margar endurskrifanir á kóðanum.
+- Þannig næst myndi ég teikna hugmyndina t.d. í Figma svo ég væri með eitthvað plan, áður en ég byrja að forrita.
 
-**Tilgangur verkefnisins er að gera persónulega portfolio-vefsíðu sem nýtir dýnamíska gagnaöflun, REST API, og sjálfvirka dreifingu til að tryggja stöðuga uppfærslu og aðgengi að verkefnum mínum.**
+## Hvað var áhugavert
+
+- Það sem mér fannst mest áhugavert við verkefnið var að læra að tengja GitHub API við vefsíðuna til að sækja verkefnin mín sjálfkrafa, í stað þess að þurfa að uppfæra síðuna sjálfur.
+- Einnig var spennandi að útfæra ljóst og dökkt þema með React Context API.
+- Mér fannst líka gaman að rifja upp hvernig á að hanna vefsíðu sem virkar vel á öllum skjástærðum frá símum upp í tölvur.
