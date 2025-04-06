@@ -1,14 +1,14 @@
-#Vefforritun 2 - Einstaklingsverkefni Skýrsla
-##Inngangur
+# Vefforritun 2 - Einstaklingsverkefni Skýrsla
+## Inngangur
 Verkefnið sem ég hef útfært er persónuleg portfolio vefsíða sem sækir github verkefni mín sjálfkrafa í gegnum github API. Hugmyndin kom þegar ég var að velta fyrir mér hvernig ég gæti birt ferilskrána mína og github verkefnin mín á einfaldan hátt sem myndi sjálfkrafa uppfærast þegar ég bæti við nýjum verkefnum á github. 
-##Útfærsla
+## Útfærsla
 Ég valdi að uppfylla eftirfarandi skilyrði úr verkefnalýsingunni:
 Framendi útfærður með framenda framework - Ég notaði React til að búa til viðmótið ásamt Vite sem þróunarumhverfi.
 Verkefni sett upp í hýsingu með CI/CD ferlum - Vefsíðan er hýst á Vercel með sjálfvirkum uppfærslum þegar breytingar eru gerðar á GitHub.
 Vefþjónusta (REST API) - ég tengi GitHub REST API í gegnum fetching beint frá framendanum til að sækja verkefnin mín.
 ###Uppbygging verkefnisins
 Verkefnið skiptist í eftirfarandi hluta:
-###Framendi (React með Vite)
+### Framendi (React með Vite)
 Síður: About, CV og Verkefni
 Þema: Light/Dark mode
 Viðmót: Responsive design með sidebar sem breytist í hamburger valmynd á minni skjám
