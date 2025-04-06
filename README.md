@@ -3,35 +3,35 @@
 Verkefnið sem ég hef útfært er persónuleg portfolio vefsíða sem sækir github verkefni mín sjálfkrafa í gegnum github API. Hugmyndin kom þegar ég var að velta fyrir mér hvernig ég gæti birt ferilskrána mína og github verkefnin mín á einfaldan hátt sem myndi sjálfkrafa uppfærast þegar ég bæti við nýjum verkefnum á github. 
 ## Útfærsla
 Ég valdi að uppfylla eftirfarandi skilyrði úr verkefnalýsingunni:
-Framendi útfærður með framenda framework - Ég notaði React til að búa til viðmótið ásamt Vite sem þróunarumhverfi.
-Verkefni sett upp í hýsingu með CI/CD ferlum - Vefsíðan er hýst á Vercel með sjálfvirkum uppfærslum þegar breytingar eru gerðar á GitHub.
-Vefþjónusta (REST API) - ég tengi GitHub REST API í gegnum fetching beint frá framendanum til að sækja verkefnin mín.
+- Framendi útfærður með framenda framework - Ég notaði React til að búa til viðmótið ásamt Vite sem þróunarumhverfi.
+- Verkefni sett upp í hýsingu með CI/CD ferlum - Vefsíðan er hýst á Vercel með sjálfvirkum uppfærslum þegar breytingar eru gerðar á GitHub.
+- Vefþjónusta (REST API) - ég tengi GitHub REST API í gegnum fetching beint frá framendanum til að sækja verkefnin mín.
 ###Uppbygging verkefnisins
-Verkefnið skiptist í eftirfarandi hluta:
+- Verkefnið skiptist í eftirfarandi hluta:
 ### Framendi (React með Vite)
-Síður: About, CV og Verkefni
-Þema: Light/Dark mode
-Viðmót: Responsive design með sidebar sem breytist í hamburger valmynd á minni skjám
+- Síður: About, CV og Verkefni
+- Þema: Light/Dark mode
+- Viðmót: Responsive design með sidebar sem breytist í hamburger valmynd á minni skjám
 ### API Tenging
-Bein tenging við Github REST API frá framendanum
-Fetch API notað til að sækja og birta öll verkefni sem ég hef starred úr GitHub reikningnum mínum
+- Bein tenging við Github REST API frá framendanum
+- Fetch API notað til að sækja og birta öll verkefni sem ég hef starred úr GitHub reikningnum mínum
 ### Á síðunni er:
-Hreyfanleiki: Vefsíðan virkar jafnt á tölvum, spjaldtölvum og símum
-Þemu: Hægt er að skipta á milli ljóst og dökkt þema
-Gagnvirkt: Verkefni eru sótt sjálfkrafa frá GitHub
-Sidebar/Hamburger valmynd: Aðlagar sig að skjástærð
+- Hreyfanleiki: Vefsíðan virkar jafnt á tölvum, spjaldtölvum og símum
+- Þema: Hægt er að skipta á milli ljóst og dökkt þema
+- Gagnvirkt: Verkefni eru sótt sjálfkrafa frá GitHub
+- Sidebar/Hamburger valmynd: Aðlagar sig að skjástærð
 ##Tækni
 ### Framendi
-React: Notað fyrir uppbyggingu viðmóts og component-based hönnun
-Vite: Build tool sem er hraðvirkt og þægilegt
-CSS: Fyrir stílsetningu vefsíðunnar
-Context API: Fyrir þema light/dark mode
-React Scroll: Fyrir smoother navigation milli sections
+- React: Notað fyrir uppbyggingu viðmóts og component-based hönnun
+- Vite: Build tool sem er hraðvirkt og þægilegt
+- CSS: Fyrir stílsetningu vefsíðunnar
+- Context API: Fyrir þema light/dark mode
+- React Scroll: Fyrir smoother navigation milli sections
 ### API tenging
-Fetch API: Notað til að sækja gögn um GitHub verkefnin mín beint í vafra
-GitHub REST API: Veitir aðgang að öllum verkefnunum mínum sem ég bý til í verkefnahlutanum
+- Fetch API: Notað til að sækja gögn um GitHub verkefnin mín beint í vafra
+- GitHub REST API: Veitir aðgang að öllum verkefnunum mínum sem ég bý til í verkefnahlutanum
 ###Hýsing og CI/CD
-Vercel: Vefsíðuhýsing með sjálfvirkum uppfærslum
+- Vercel: Vefsíðuhýsing með sjálfvirkum uppfærslum
 ## Hvað gekk vel
 Útfærsla á þemavirkni: Útfærslan á þemavirkninni með Context API gekk mjög vel .
 GitHub API tenging: Ég fann mjög einfalt youtube video og eftir það tókst vel að tengja við GitHub API og sækja verkefnaupplýsingar 
