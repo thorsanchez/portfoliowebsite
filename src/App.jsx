@@ -7,6 +7,7 @@ import CV from './sections/CV';
 import Verkefni from './sections/Verkefni';
 import './App.css';
 import { Analytics } from "@vercel/analytics/react";
+import Verkefnivinnsla from './sections/VerkefniVinnslu';
 
 function App() {
   return (
@@ -20,6 +21,9 @@ function App() {
         </section>
         <section id="cv">
           <CV />
+        </section>
+        <section id="verkefnivinnsla">
+          <Verkefnivinnsla />
         </section>
         <section id="verkefni">
           <Verkefni />

@@ -31,10 +31,15 @@ function Sidebar() {
       <div className="sidebar-section">
         <h2>Verkefni</h2>
         <nav className="sidebar-nav">
+          {/* vill bæta við Finndu í þetta section */}
+          <Link to="verkefnivinnsla" smooth={true} duration={500} offset={-50}>
+              Verkefni í vinnslu
+            </Link>
           <Link to="verkefni" smooth={true} duration={500} offset={-50}>
             Github Verkefni
           </Link>
         </nav>
+      
       </div>
       
       <div className="sidebar-section">

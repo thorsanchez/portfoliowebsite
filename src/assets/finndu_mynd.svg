@@ -1,0 +1,110 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#2a2a2a"/>
+  
+  <!-- Monitor -->
+  <g transform="translate(150, 100)">
+    <!-- Monitor body with subtle gradient -->
+    <defs>
+      <linearGradient id="monitorGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#1f1f1f;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="500" height="320" rx="15" fill="url(#monitorGradient)" stroke="#333" stroke-width="1"/>
+    
+    <!-- Screen with subtle inner shadow -->
+    <rect x="15" y="15" width="470" height="275" rx="8" fill="#ffffff"/>
+    <rect x="15" y="15" width="470" height="275" rx="8" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+    
+    <!-- Browser bar -->
+    <rect x="15" y="15" width="470" height="30" rx="8" fill="#f8f8f8"/>
+    <rect x="15" y="40" width="470" height="0.5" fill="#e8e8e8"/>
+    
+    <!-- Browser dots with subtle shine -->
+    <circle cx="30" cy="30" r="4" fill="#ff5f57"/>
+    <circle cx="28" cy="28" r="1.5" fill="rgba(255,255,255,0.3)"/>
+    <circle cx="45" cy="30" r="4" fill="#ffbd2e"/>
+    <circle cx="43" cy="28" r="1.5" fill="rgba(255,255,255,0.3)"/>
+    <circle cx="60" cy="30" r="4" fill="#28ca42"/>
+    <circle cx="58" cy="28" r="1.5" fill="rgba(255,255,255,0.3)"/>
+    
+    <!-- Address bar with subtle shadow -->
+    <rect x="200" y="22" width="100" height="16" rx="8" fill="white" stroke="#e0e0e0" filter="url(#subtleShadow)"/>
+    <text x="250" y="32" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" fill="#666" text-anchor="middle">finndu.is</text>
+    
+    <!-- Finndu header with refined gradient -->
+    <rect x="15" y="45" width="470" height="50" fill="url(#blueGradient)"/>
+    
+    <!-- Logo with subtle shadow -->
+    <rect x="30" y="58" width="80" height="24" rx="8" fill="white" filter="url(#subtleShadow)"/>
+    <text x="70" y="72" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#0088ff" text-anchor="middle">FINNDU</text>
+    
+    <!-- Search section -->
+    <rect x="15" y="95" width="470" height="60" fill="url(#blueGradient)"/>
+    
+    <!-- Search title -->
+    <text x="250" y="115" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="500" fill="white" text-anchor="middle">Finndu það sem þú þarft</text>
+    
+    <!-- Search bar with refined styling -->
+    <rect x="125" y="125" width="250" height="20" rx="10" fill="white" filter="url(#subtleShadow)"/>
+    <text x="135" y="137" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" fill="#999">Leitaðu að vöru...</text>
+    
+    <!-- Categories section -->
+    <rect x="15" y="155" width="470" height="70" fill="#fafafa"/>
+    
+    <!-- Category cards with icons -->
+    <g filter="url(#subtleShadow)">
+      <!-- Car -->
+      <rect x="60" y="175" width="70" height="30" rx="8" fill="white"/>
+      <text x="95" y="193" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🚗</text>
+      
+      <!-- House -->
+      <rect x="150" y="175" width="70" height="30" rx="8" fill="white"/>
+      <text x="185" y="193" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🏠</text>
+      
+      <!-- Tech -->
+      <rect x="240" y="175" width="70" height="30" rx="8" fill="white"/>
+      <text x="275" y="193" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">📱</text>
+      
+      <!-- Clothes -->
+      <rect x="330" y="175" width="70" height="30" rx="8" fill="white"/>
+      <text x="365" y="193" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">👕</text>
+    </g>
+    
+    <!-- Products section -->
+    <rect x="15" y="225" width="470" height="65" fill="white"/>
+    
+    <!-- Product cards with refined styling -->
+    <g filter="url(#subtleShadow)">
+      <rect x="60" y="245" width="90" height="35" rx="6" fill="#fafafa"/>
+      <rect x="65" y="250" width="80" height="12" rx="2" fill="#e8e8e8"/>
+      <text x="105" y="275" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="8" fill="#333" text-anchor="middle">Tesla Model 3</text>
+      
+      <rect x="170" y="245" width="90" height="35" rx="6" fill="#fafafa"/>
+      <rect x="175" y="250" width="80" height="12" rx="2" fill="#e8e8e8"/>
+      <text x="215" y="275" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="8" fill="#333" text-anchor="middle">MacBook Pro</text>
+      
+      <rect x="280" y="245" width="90" height="35" rx="6" fill="#fafafa"/>
+      <rect x="285" y="250" width="80" height="12" rx="2" fill="#e8e8e8"/>
+      <text x="325" y="275" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="8" fill="#333" text-anchor="middle">Íbúð</text>
+    </g>
+    
+    <!-- Monitor stand with gradient -->
+    <rect x="220" y="320" width="60" height="10" rx="5" fill="url(#monitorGradient)"/>
+    <ellipse cx="250" cy="340" rx="50" ry="6" fill="url(#monitorGradient)" opacity="0.6"/>
+  </g>
+  
+  <!-- Enhanced gradients and filters -->
+  <defs>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0088ff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0099ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00aaff;stop-opacity:1" />
+    </linearGradient>
+    
+    <filter id="subtleShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="rgba(0,0,0,0.15)"/>
+    </filter>
+  </defs>
+</svg>
