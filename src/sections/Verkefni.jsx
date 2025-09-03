@@ -27,33 +27,38 @@ function Verkefni() {
         console.log("Repos fetch:", result);
         let reposAdded = 0;
         
+        //þetta er fyrir verkefni card röðun
+        // Filter starred repos first
+        const starredRepos = result.filter(repo => repo.stargazers_count > 0);
+
+        // flokka eftir created_at date
+        const sortedRepos = starredRepos.sort((a, b) => {
+          return new Date(b.created_at) - new Date(a.created_at);
+        });
+
         //lagar 2x af sama repo
         containerRef.current.innerHTML = '';
-        
-        for(var i=0; i < result.length; i++){
-          // bæta bara við stjörnu repos
-          if(result[i].stargazers_count > 0){
-            var proj = `<div class="projects-container">
-              <div class="header">
-              <img 
-              src=${`https://raw.githubusercontent.com/${username}/${result[i].name}/${result[i].default_branch}/Thumbnail/thumbnail.png`}
-              alt="thumbnail" 
-              class="src">
-              </div>
-              <div class="title"><strong>${result[i].name}</strong></div>
-              <div class="description">${result[i].description || 'No description available'}</div>
-              <div class="links">
-                <a href="https://github.com/${username}/${result[i].name}" target="_blank">Github Repo</a>
-              </div>
-            </div>`;
-            containerRef.current.insertAdjacentHTML('beforeend', proj);
-            reposAdded++;
-          }
-        }
-        
-        console.log("repos bætt við:", reposAdded);
-        
-        if (reposAdded === 0) {
+
+        sortedRepos.forEach(repo => {
+          var proj = `<div class="projects-container">
+            <div class="header">
+            <img 
+            src=${`https://raw.githubusercontent.com/${username}/${repo.name}/${repo.default_branch}/Thumbnail/thumbnail.png`}
+            alt="thumbnail" 
+            class="src">
+            </div>
+            <div class="title"><strong>${repo.name}</strong></div>
+            <div class="description">${repo.description || 'No description available'}</div>
+            <div class="links">
+              <a href="https://github.com/${username}/${repo.name}" target="_blank">Github Repo</a>
+            </div>
+          </div>`;
+          containerRef.current.insertAdjacentHTML('beforeend', proj);
+        });
+
+        console.log("repos bætt við:", sortedRepos.length);
+
+        if (sortedRepos.length === 0) {
           containerRef.current.innerHTML = '<p>0 starred repo fundust.</p>';
         }
       })
