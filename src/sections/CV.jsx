@@ -11,7 +11,7 @@ function CV() {
       <h2 className="section-title">Starfsreynsla</h2>
       
       <div className="experience-item">
-        <div className="experience-period">2020 — </div>
+        <div className="experience-period">2020 — 2025</div>
         <div className="experience-details">
           <div className="experience-title">
             <a href="https://dropp.is" target="_blank" rel="noopener noreferrer">
@@ -47,7 +47,7 @@ function CV() {
       <h2 className="section-title education-title">Menntun</h2>
       
       <div className="experience-item">
-        <div className="experience-period">2022 —</div>
+        <div className="experience-period">2022 — 2025</div>
         <div className="experience-details">
           <div className="experience-title">
           <a href="https://hi.is/tolvunarfraedi" target="_blank" rel="noopener noreferrer">
@@ -120,9 +120,9 @@ function CV() {
         <div className="experience-period"> <strong>Ég hef ágætis<br/> reynslu í</strong> </div>
         <div className="experience-details">
           <div className="experience-title">
-            <strong>Forritun:</strong> Java, Python, Kotlin, Flutter, JavaScript, R, Morpho
-            <p><strong>Bakendi:</strong> Node.js, Express, PostgreSQL, REST API, JWT</p>
-            <p><strong>Vefforritun:</strong> React, HTML, CSS</p>
+            <strong>Vefþróun:</strong> React, Next.js, HTML, CSS, Tailwind CSS, JavaScript
+            <p><strong>Bakendi og API:</strong> Node.js, Express, PostgreSQL, REST API, JWT, .NET</p>
+            <p><strong>Forritunarmál:</strong> Java, Python, Kotlin, JavaScript,TypeScript, Morpho</p>
             <p><strong>Blockchain:</strong> Grunnskilningur á snjallsamningum og dApps</p>
           </div>
         </div>

@@ -65,13 +65,14 @@ function About() {
         <h2 className="section-label">UM MIG</h2>
         <div className="about-content">
           <p>
-          Ég er 24 ára tölvunarfræðinemi við Háskóla Íslands. 
+          Ég er 24 ára tölvunarfræðingur með BS-gráðu frá Háskóla Íslands.
+          Ég bjó í Osló í Noregi frá 2 til 18 ára aldurs og tala því norsku jafnt sem íslensku. 
           Ég hef gaman af því að fikta í nýrri tækni og forrita
           eitthvað sem ekki bara virkar vel, heldur gerir upplifun notenda betri.
           </p>
           <p>
           Ég hef mest verið að vinna í framendaforritun, en markmiðið er að verða fullstack forritari. 
-          Í náminu hef ég unnið í nokkrum fullstack verkefnum, bæði einn og í teymi, 
+          Í náminu vann ég í nokkrum fullstack verkefnum, bæði einn og í teymi, 
           þar sem ég hef tekist á við allt frá því að hanna flott viðmót yfir í að gera 
           bakenda með gagnagrunnum og API-um. 
           </p>
@@ -81,7 +82,7 @@ function About() {
           verið nýtt til að bæta ákvarðanatöku, hvort sem það er í fjármálum, heilsu eða 
           íþróttum. Ég nýt þess að kafa ofan í nýja hluti, fylgjast með þróun 
           markaða og greina hvernig tækni getur haft áhrif á framtíðina – og ef ég er 
-          ekki að því, þá er líklegt að ég sé að horfa á Liverpool spila.
+          ekki að því, þá er líklegt að ég sé að horfa á Liverpool leik.
           </p>
         </div>
       </div>
