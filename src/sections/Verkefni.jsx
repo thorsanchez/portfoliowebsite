@@ -1,81 +1,122 @@
 /*tekið frá https://www.youtube.com/watch?v=xMK7txZuT2E*/
-import React, { useEffect, useRef } from 'react';
-
+import React, { useEffect, useState } from 'react';
 
 function Verkefni() {
-  const containerRef = useRef(null);
+  const [repos, setRepos] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
     const username = 'thorsanchez';
-    
-    if (!containerRef.current) {
-      console.error("Container ref ekki til");
-      return;
-    }
-    
-    console.log("Fetcha git repo fyrir git/", username);
-    
+    console.log("Fetching GitHub repos for:", username);
+
     fetch(`https://api.github.com/users/${username}/repos`)
       .then(response => {
-        if(response.ok){
+        if (response.ok) {
           return response.json();
         } else {
-          throw new Error(`Git api error: ${response.statusText}`);
+          throw new Error(`GitHub API error: ${response.statusText}`);
         }
       })
       .then(result => {
-        console.log("Repos fetch:", result);
-        let reposAdded = 0;
-        
-        //þetta er fyrir verkefni card röðun
-        // Filter starred repos first
+        console.log("Repos fetched:", result);
         const starredRepos = result.filter(repo => repo.stargazers_count > 0);
-
-        // flokka eftir created_at date
         const sortedRepos = starredRepos.sort((a, b) => {
           return new Date(b.created_at) - new Date(a.created_at);
         });
-
-        //lagar 2x af sama repo
-        containerRef.current.innerHTML = '';
-
-        sortedRepos.forEach(repo => {
-          var proj = `<div class="projects-container">
-            <div class="header">
-            <img 
-            src=${`https://raw.githubusercontent.com/${username}/${repo.name}/${repo.default_branch}/Thumbnail/thumbnail.png`}
-            alt="thumbnail" 
-            class="src">
-            </div>
-            <div class="title"><strong>${repo.name}</strong></div>
-            <div class="description">${repo.description || 'No description available'}</div>
-            <div class="links">
-              <a href="https://github.com/${username}/${repo.name}" target="_blank">Github Repo</a>
-            </div>
-          </div>`;
-          containerRef.current.insertAdjacentHTML('beforeend', proj);
-        });
-
-        console.log("repos bætt við:", sortedRepos.length);
-
-        if (sortedRepos.length === 0) {
-          containerRef.current.innerHTML = '<p>0 starred repo fundust.</p>';
-        }
+        setRepos(sortedRepos);
+        setLoading(false);
+        console.log("Starred repos found:", sortedRepos.length);
       })
       .catch(err => {
         console.error("Error fetching repos:", err);
-        if (containerRef.current) {
-          containerRef.current.innerHTML = `<p>Error loading repositories: ${err.message}</p>`;
-        }
+        setError(err.message);
+        setLoading(false);
       });
   }, []);
 
+  const getTechTag = (repo) => {
+    if (repo.language) return repo.language;
+    const name = repo.name.toLowerCase();
+    if (name.includes('react') || name.includes('jsx')) return 'React';
+    if (name.includes('java')) return 'Java';
+    if (name.includes('python')) return 'Python';
+    if (name.includes('tesla')) return 'React';
+    return 'JavaScript';
+  };
+  
+  const getProjectClass = (repo) => {
+    const tech = getTechTag(repo).toLowerCase();
+    if (tech === 'react') return 'react';
+    if (tech === 'java') return 'java';
+    if (repo.name.toLowerCase().includes('tesla')) return 'tesla';
+    return '';
+  };
+
+  if (loading) {
+    return (
+      <div className="section-container">
+        <div className="content-wrapper">
+          <h2>Verkefni</h2>
+          <p>Hleð verkefnum...</p>
+        </div>
+      </div>
+    );
+  }
+  
+  if (error) {
+    return (
+      <div className="section-container">
+        <div className="content-wrapper">
+          <h2>Verkefni</h2>
+          <p>Villa við að hlaða verkefnum: {error}</p>
+        </div>
+      </div>
+    );
+  }
+  
   return (
     <div className="section-container">
       <div className="content-wrapper">
         <h2>Verkefni</h2>
-        <div className="container" ref={containerRef}>
-          <p>Fleiri verkefni væntanleg...</p>
+        <div className="projects-container">
+          {repos.length === 0 ? (
+            <p>Engin starred verkefni fundust.</p>
+          ) : (
+            repos.map((repo) => (
+              <div key={repo.id} className={`project-card ${getProjectClass(repo)}`}>
+                <img
+                  src={`https://raw.githubusercontent.com/thorsanchez/${repo.name}/${repo.default_branch}/Thumbnail/thumbnail.png`}
+                  alt={repo.name}
+                  className="project-image"
+                  onError={(e) => {
+                    const placeholder = document.createElement('div');
+                    placeholder.className = 'project-image-placeholder';
+                    placeholder.textContent = '📷'; // kannski place holder mynd næst
+                    e.target.parentNode.replaceChild(placeholder, e.target);
+                  }}
+                />
+                
+                <div className="project-overlay">
+                  <h3 className="project-title">{repo.name}</h3>
+                  <p className="project-description">
+                    {repo.description || 'engin lýsing hefur verið skrifuð'}
+                  </p>
+                  <div className="project-footer">
+                    <span className="project-tech">{getTechTag(repo)}</span>
+                    <a
+                      href={repo.html_url}
+                      className="project-link"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Github
+                    </a>
+                  </div>
+                </div>
+              </div>
+            ))
+          )}
         </div>
       </div>
     </div>

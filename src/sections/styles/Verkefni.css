@@ -1,57 +1,202 @@
-/* verkefni síða style*/
-.container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 2rem;
-  }
-  
+/* Verkefni síða með overlay cards */
+.projects-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 60px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.project-card {
+  position: relative;
+  height: 260px;
+  border-radius: 20px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.project-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2);
+}
+
+.project-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover .project-image {
+  transform: scale(1.1);
+}
+
+.project-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 24px;
+  opacity: 0;
+}
+
+.project-card:hover .project-overlay {
+  opacity: 1;
+}
+
+.project-title {
+  color: black;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0 0 8px 0;
+  transform: translateY(20px);
+  transition: transform 0.3s ease 0.1s;
+}
+
+.project-card:hover .project-title {
+  transform: translateY(0);
+}
+
+.project-description {
+  color: black;
+  font-weight: bold;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0 0 16px 0;
+  transform: translateY(20px);
+  transition: transform 0.3s ease 0.2s;
+}
+
+.project-card:hover .project-description {
+  transform: translateY(0);
+}
+
+.project-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transform: translateY(20px);
+  transition: transform 0.3s ease 0.3s;
+}
+
+.project-card:hover .project-footer {
+  transform: translateY(0);
+}
+
+.project-link {
+  background: black;
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: all 0.2s ease;
+}
+
+.project-link:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+.project-tech {
+  background: black;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  backdrop-filter: blur(10px);
+}
+
+/* Fallback ef mynd gleymist */
+.project-image-placeholder {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(45deg, #667eea, #764ba2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 3rem;
+}
+
+/* Dark theme adjustments */
+[data-theme="dark"] .project-card {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="dark"] .project-card:hover {
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
   .projects-container {
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
+    grid-template-columns: 1fr;
+    gap: 24px;
   }
   
-  .projects-container:hover {
-    transform: translateY(-5px);
+  .project-card {
+    height: 240px;
   }
   
-  .header {
-    width: 100%;
-    height: 180px;
-    overflow: hidden;
-    background-color: #f5f5f7;
+  .project-title {
+    font-size: 1.2rem;
   }
   
-  .header img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+  .project-description {
+    font-size: 0.85rem;
   }
   
-  .title {
-    padding: 1rem 1rem 0.5rem 1rem;
-    font-size: 1.25rem;
+  .project-overlay {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .projects-container {
+    gap: 20px;
   }
   
-  .description {
-    padding: 0 1rem 1rem 1rem;
-    color: #666;
-    font-size: 0.9rem;
+  .project-card {
+    height: 220px;
   }
   
-  .links {
-    display: flex;
-    justify-content: space-between;
-    padding: 0.5rem 1rem 1rem;
+  .project-overlay {
+    padding: 16px;
   }
   
-  .links a {
-    color: #0066CC;
-    text-decoration: none;
-    font-size: 0.9rem;
+  .project-title {
+    font-size: 1.1rem;
   }
   
-  .links a:hover {
-    text-decoration: underline;
+  .project-footer {
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
   }
+}
+
+/*  */
+.projects-container p {
+  grid-column: 1 / -1;
+  text-align: center;
+  color: black;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 2rem;
+}
+
+[data-theme="dark"] .projects-container p {
+  color: #aaa;
+}
