@@ -1,0 +1,99 @@
+/*CV*/
+.cv-container {
+    color: #000000;
+  }
+  
+  .experience-details .cv-skills {
+    margin-top: 0;
+    padding-left: 0;
+  }
+  
+  .section-title {
+    font-size: 1.5rem;
+    color: #070000;
+    margin-bottom: 2rem;
+    font-weight: 500;
+    border-bottom: 1px solid #e0e0e0;
+    margin-top: 4rem;
+  }
+  
+  .education-title {
+    margin-top: 4rem;
+  }
+  
+  .experience-item {
+    display: flex;
+    margin-bottom: 2rem;
+    padding: 0.5rem 0;
+  }
+  
+  .experience-period {
+    width: 180px;
+    color: rgb(3, 0, 0);
+    flex-shrink: 0;
+    font-size: 0.95rem;
+  }
+  
+  .experience-details {
+    flex-grow: 1;
+  }
+  
+  .experience-title {
+    font-size: 1rem;
+    color: #000000;
+    margin-bottom: 0.5rem;
+    font-weight: 400;
+  }
+  
+  .experience-location {
+    font-size: 0.95rem;
+    color: #888;
+  }
+  
+  .skills-section {
+    margin-bottom: 2rem;
+  }
+  
+  .skills-section h2 {
+    font-size: 1.5rem;
+    color: #020000;
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+  }
+  
+  .cv-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cv-skills li {
+    background-color: rgba(60, 52, 52, 0.1);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    color: #888;
+  }
+  
+  .download-cv {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
+  
+  .download-button {
+    background-color: transparent;
+    color: #333;
+    border: 1px solid #333;
+    padding: 0.8rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+  }
+  
+  .download-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.3);
+  }

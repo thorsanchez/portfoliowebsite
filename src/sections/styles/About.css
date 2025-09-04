@@ -1,0 +1,113 @@
+/* About síða thor,git,linkd og */
+.hero-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0;
+    margin-bottom: 0;
+  }
+  
+  .name-container {
+    position: relative;
+    margin-right: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+  
+  .name-title {
+    font-size: 10rem;
+    font-weight: 500;
+    color: #433e3e;
+    line-height: 0.9;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    margin-bottom: 15px;
+    letter-spacing: -2px;
+  }
+  
+  .social-links {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 25px;
+  }
+  
+  .social-links img {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.2s;
+    opacity: 0.8;
+  }
+  
+  .social-links img:hover {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  
+  /*About - myndir*/
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    justify-content: flex-end;
+    position: relative;
+    margin-top: 20px;
+  }
+  
+  .image-container {
+    border-radius: 8px;
+    position: relative;
+  }
+  
+  .image-container.image-left {
+    width: 250px;
+    height: 350px;
+    margin-right: -80px;
+    z-index: 1;
+  }
+  
+  .image-container.image-center {
+    width: 250px;
+    height: 250px;
+    margin-top: -20px;
+    z-index: 2;
+  }
+  
+  .image-container.image-right {
+    width: 180px;
+    height: auto; /* km birtist ekki ef fixed*/
+    position: absolute;
+    bottom: -180px;
+    right: 0;
+    z-index: 3;
+  }
+  
+  .gallery-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    opacity: 0.9;
+    border-radius: 12px;
+  }
+  
+  /*About - um mig teksti*/
+  .info-section {
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .section-label {
+    color: #999;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+    font-weight: 500;
+  }
+  
+  .about-content p {
+    margin-bottom: 1rem;
+    line-height: 1.5;
+    color: #444;
+    font-size: 15px;
+    max-width: 800px;
+  }

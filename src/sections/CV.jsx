@@ -1,5 +1,5 @@
 import React from 'react';
-import './Sections.css';
+
 
 function CV() {
     const handleViewCV = () => {

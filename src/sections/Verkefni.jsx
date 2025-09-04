@@ -1,6 +1,6 @@
 /*tekið frá https://www.youtube.com/watch?v=xMK7txZuT2E*/
 import React, { useEffect, useRef } from 'react';
-import './Sections.css'; 
+
 
 function Verkefni() {
   const containerRef = useRef(null);

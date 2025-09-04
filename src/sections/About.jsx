@@ -1,15 +1,14 @@
+import React from 'react';
+import { useTheme } from '../common/ThemeContext';
 import headerImg from "../assets/headerimg.png";
 import headerImg2 from "../assets/headerimg2.png";
 import headerImg3 from "../assets/headerimg3.png";
-import React from 'react';
-import { useTheme } from '../common/ThemeContext';
 import githubIconDark from '../assets/github-dark.svg';
 import linkedinIconDark from '../assets/linkedin-dark.svg';
 import githubIconLight from '../assets/github-light.svg';
 import linkedinIconLight from '../assets/linkedin-light.svg';
 import sun from '../assets/sun.svg';
 import moon from '../assets/moon.svg';
-import './Sections.css';
 
 function About() {
   const { toggleTheme, theme } = useTheme();

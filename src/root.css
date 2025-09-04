@@ -1,3 +1,14 @@
+/* import global styles */
+@import './styles/globals.css';
+@import './styles/themes.css';
+@import './styles/responsive.css';
+
+/* import section styles */
+@import './sections/styles/About.css';
+@import './sections/styles/CV.css';
+@import './sections/styles/Verkefni.css';
+@import './sections/styles/VerkefniVinnslu.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

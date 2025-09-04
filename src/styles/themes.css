@@ -1,0 +1,72 @@
+/* taka hvitt í burtu milli sidebar og body */
+[data-theme="dark"] .app-container {
+    background-color: #121212;
+}
+
+[data-theme="dark"] .section-title {
+    color: #f0f0f0;
+    border-bottom: 1px solid #444;
+  }
+
+/*dark theme*/
+[data-theme="dark"] .name-title {
+    color: #f0f0f0;
+  }
+  
+  [data-theme="dark"] .about-content p {
+    color: #ddd;
+  }
+  [data-theme="dark"] .about {
+    color: #ddd;
+  }
+  
+  [data-theme="dark"] .section-label {
+    color: #aaa;
+}
+
+
+
+[data-theme="dark"] .experience-title {
+    color: #f0f0f0;
+  }
+  
+  [data-theme="dark"] .cv-container {
+    color: #f0f0f0;
+  }
+  
+  
+  
+  [data-theme="dark"] .cv-skills li {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #ddd;
+  }
+  
+  [data-theme="dark"] .download-button {
+    background-color: transparent;
+    color: #f0f0f0;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  [data-theme="dark"] .download-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.3);
+  }
+  [data-theme="dark"] .experience-period {
+    width: 180px;
+    color: rgb(231, 228, 228);
+    flex-shrink: 0;
+    font-size: 0.95rem;
+  }
+
+  
+/* verkefni í vinnslu dark theme */
+[data-theme="dark"] .project-name-badge {
+    background: rgba(30, 30, 30, 0.95);
+    color: #f0f0f0;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  [data-theme="dark"] .scroll-hint {
+    color: #666;
+  }
+

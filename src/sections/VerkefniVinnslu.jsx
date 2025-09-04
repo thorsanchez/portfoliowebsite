@@ -1,5 +1,4 @@
 import React from 'react';
-import './Sections.css';
 import finnduImage from '../assets/finndu_mynd.svg';
 
 function Verkefnivinnsla() {

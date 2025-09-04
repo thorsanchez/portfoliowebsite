@@ -1,0 +1,41 @@
+/*Base container styles*/
+.section-container {
+    padding: 1rem 4rem;
+    min-height: auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  
+  /* Top banner */
+  .subtle-banner {
+    padding: 20px 0;
+    text-align: center;
+    color: #999;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 500;
+  }
+  
+  /* Theme toggle */
+  .theme-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 10;
+  }
+  
+  .theme-icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+  }
+  
+  .theme-icon:hover {
+    opacity: 1;
+  }
