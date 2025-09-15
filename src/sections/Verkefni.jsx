@@ -123,4 +123,4 @@ function Verkefni() {
   );
 }
 
-export default Verkefni;
+export default Verkefni; 
