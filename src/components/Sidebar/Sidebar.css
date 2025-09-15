@@ -118,9 +118,9 @@
 
 
 .language-toggle-container {
-  margin-top: auto; /* This pushes it to the bottom */
+  margin-top: auto;
   padding-top: 2rem;
-  border-top: 1px solid #eee;
+  border-top: none;
 }
 
 .sidebar-dark .language-toggle-container {
