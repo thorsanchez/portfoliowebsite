@@ -1,6 +1,10 @@
 .language-toggle-minimal {
   display: flex;
   gap: 0.25rem;
+  position: fixed;
+  bottom: 10px;
+  left: 20px;
+  z-index: 100;
 }
 
 .lang-btn {
