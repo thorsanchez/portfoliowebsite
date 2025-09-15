@@ -1,8 +1,19 @@
 import React, { useState } from 'react';
+import { useLanguage } from '../../contexts/LanguageContext';
+import LanguageToggle from '../LanguageToggle';
 import './MobileNav.css';
 
 const MobileNav = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const { currentLanguage } = useLanguage();
+
+  const menuText = {
+    is: { menu: "Valmynd" },
+    en: { menu: "Menu" },
+    no: { menu: "Meny" }
+  };
+
+  const text = menuText[currentLanguage];
   
   const toggleSidebar = () => {
     setIsOpen(!isOpen);
@@ -11,10 +22,14 @@ const MobileNav = () => {
   
   return (
     <div className="mobile-nav">
+      <div className="mobile-nav-controls">
+        <LanguageToggle />
+      </div>
+      
       <button 
         className={`hamburger ${isOpen ? 'open' : ''}`} 
         onClick={toggleSidebar}
-        aria-label="Toggle menu"
+        aria-label={text.menu}
       >
         <div className="hamburger-line"></div>
         <div className="hamburger-line"></div>

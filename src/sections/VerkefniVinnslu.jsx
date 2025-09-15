@@ -1,24 +1,57 @@
 import React from 'react';
+import { useLanguage } from '../contexts/LanguageContext';
 import finnduImage from '../assets/finndu_mynd.svg';
 
 function Verkefnivinnsla() {
-  const projects = [
+  const { currentLanguage } = useLanguage();
+
+  const content = {
+    is: {
+      title: "Verkefni í vinnslu",
+      projects: {
+        finndu: "Finndu Marketplace",
+        weather: "Veður app",
+        portfolio: "Eignasafn app"
+      }
+    },
+    en: {
+      title: "Projects in Progress",
+      projects: {
+        finndu: "Finndu Marketplace",
+        weather: "Weather app", 
+        portfolio: "Portfolio app"
+      }
+    },
+    no: {
+      title: "Prosjekter under arbeid",
+      projects: {
+        finndu: "Finndu Marketplace",
+        weather: "Vær app",
+        portfolio: "Portefølje app"
+      }
+    }
+  };
+
+  const text = content[currentLanguage];
+
+    const projects = [
     {
         id: 1,
-        name: "Finndu Marketplace",
+        name: text.projects.finndu,
         image: finnduImage,
     },
     {
       id: 2,
-      name: "Veður app",
+      name: text.projects.weather,
       backgroundColor: "#000000",
     },
     {
       id: 3,
-      name: "Eignasafn app",
+      name: text.projects.portfolio,
       backgroundColor: "#000000",
     }
   ];
+
 
   const renderProjectContent = (project) => {
     if (project.name === "Finndu Marketplace") {
@@ -57,7 +90,7 @@ function Verkefnivinnsla() {
   return (
     <div className="section-container verkefnivinnsla-section">
       <div className="content-wrapper">
-        <h2 className="section-title">Verkefni í vinnslu</h2>
+        <h2 className="section-title">{text.title}</h2>
         
         <div className="projects-horizontal-scroll">
             {projects.map((project) => (
@@ -72,10 +105,6 @@ function Verkefnivinnsla() {
                 )}
             </div>
             ))}
-        </div>
-        
-        <div className="scroll-hint">
-          <span>← Scrollaðu til hliðar til að sjá fleiri verkefni →</span>
         </div>
       </div>
     </div>

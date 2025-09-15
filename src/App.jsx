@@ -8,10 +8,11 @@ import Verkefni from './sections/Verkefni';
 import './App.css';
 import { Analytics } from "@vercel/analytics/react";
 import Verkefnivinnsla from './sections/VerkefniVinnslu';
+import { LanguageProvider } from './contexts/LanguageContext';
 
 function App() {
   return (
-    
+  <LanguageProvider>
     <div className="app-container">
       <MobileNav />
       <Sidebar />
@@ -32,6 +33,7 @@ function App() {
         <Analytics />
       </div>
     </div>
+  </LanguageProvider>
   );
 }
 

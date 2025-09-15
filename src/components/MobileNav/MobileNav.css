@@ -1,9 +1,13 @@
 .mobile-nav {
-    position: fixed;
-    top: 20px;
-    left: 20px;
-    z-index: 1001;
-  }
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  z-index: 1001;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+}
   
   .hamburger {
     width: 40px;
@@ -39,7 +43,7 @@
   /* hamburger on mobile */
   @media (max-width: 768px) {
     .mobile-nav {
-      display: block;
+      display: flex;
     }
     
     /* Adjust sidebar behavior on mobile */
@@ -71,3 +75,9 @@
   .hamburger.open .hamburger-line:nth-child(3) {
     transform: rotate(-45deg) translate(7px, -7px);
   }
+
+
+  .mobile-nav-controls {
+  display: flex;
+  align-items: center;
+}

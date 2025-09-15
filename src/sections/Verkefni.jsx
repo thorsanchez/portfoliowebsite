@@ -1,10 +1,41 @@
 /*tekið frá https://www.youtube.com/watch?v=xMK7txZuT2E*/
 import React, { useEffect, useState } from 'react';
+import { useLanguage } from '../contexts/LanguageContext';
 
 function Verkefni() {
+  const { currentLanguage } = useLanguage();
   const [repos, setRepos] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+
+  const content = {
+    is: {
+      title: "Verkefni",
+      loading: "Hleð verkefnum...",
+      error: "Villa við að hlaða verkefnum:",
+      noProjects: "Engin starred verkefni fundust.",
+      noDescription: "engin lýsing hefur verið skrifuð",
+      github: "Github"
+    },
+    en: {
+      title: "Projects",
+      loading: "Loading projects...",
+      error: "Error loading projects:",
+      noProjects: "No starred projects found.",
+      noDescription: "no description has been written",
+      github: "Github"
+    },
+    no: {
+      title: "Prosjekter", 
+      loading: "Laster prosjekter...",
+      error: "Feil ved lasting av prosjekter:",
+      noProjects: "Ingen stjernede prosjekter funnet.",
+      noDescription: "ingen beskrivelse har blitt skrevet",
+      github: "Github"
+    }
+  };
+
+  const text = content[currentLanguage];
 
   useEffect(() => {
     const username = 'thorsanchez';
@@ -57,8 +88,8 @@ function Verkefni() {
     return (
       <div className="section-container">
         <div className="content-wrapper">
-          <h2>Verkefni</h2>
-          <p>Hleð verkefnum...</p>
+          <h2>{text.title}</h2>
+          <p>{text.loading}</p>
         </div>
       </div>
     );
@@ -68,8 +99,8 @@ function Verkefni() {
     return (
       <div className="section-container">
         <div className="content-wrapper">
-          <h2>Verkefni</h2>
-          <p>Villa við að hlaða verkefnum: {error}</p>
+          <h2>{text.title}</h2>
+          <p>{text.error} {error}</p>
         </div>
       </div>
     );
@@ -78,10 +109,10 @@ function Verkefni() {
   return (
     <div className="section-container">
       <div className="content-wrapper">
-        <h2>Verkefni</h2>
+        <h2>{text.title}</h2>
         <div className="projects-container">
           {repos.length === 0 ? (
-            <p>Engin starred verkefni fundust.</p>
+            <p>{text.noProjects}</p>
           ) : (
             repos.map((repo) => (
               <div key={repo.id} className={`project-card ${getProjectClass(repo)}`}>
@@ -100,7 +131,7 @@ function Verkefni() {
                 <div className="project-overlay">
                   <h3 className="project-title">{repo.name}</h3>
                   <p className="project-description">
-                    {repo.description || 'engin lýsing hefur verið skrifuð'}
+                    {repo.description || text.noDescription}
                   </p>
                   <div className="project-footer">
                     <span className="project-tech">{getTechTag(repo)}</span>
@@ -110,7 +141,7 @@ function Verkefni() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Github
+                      {text.github}
                     </a>
                   </div>
                 </div>
@@ -123,4 +154,4 @@ function Verkefni() {
   );
 }
 
-export default Verkefni; 
+export default Verkefni;

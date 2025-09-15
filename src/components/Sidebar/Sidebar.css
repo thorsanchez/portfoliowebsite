@@ -21,10 +21,6 @@
   box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
 }
 
-.sidebar-header {
-  margin-bottom: 2.5rem;
-}
-
 .sidebar-header h1 {
   font-size: 2rem;
   font-weight: bold;
@@ -103,4 +99,42 @@
   .sidebar.active {
     transform: translateX(0);
   }
+}
+
+.sidebar-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.sidebar-controls {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+
+.language-toggle-container {
+  margin-top: auto; /* This pushes it to the bottom */
+  padding-top: 2rem;
+  border-top: 1px solid #eee;
+}
+
+.sidebar-dark .language-toggle-container {
+  border-top-color: #333;
+}
+
+.language-toggle-container h3 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #888;
+  margin-bottom: 1rem;
+}
+
+.sidebar-dark .language-toggle-container h3 {
+  color: #aaa;
 }

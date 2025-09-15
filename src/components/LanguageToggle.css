@@ -1,0 +1,37 @@
+.language-toggle-minimal {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.lang-btn {
+  padding: 0.25rem 0.5rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #888;
+  transition: color 0.2s ease;
+  border-radius: 2px;
+}
+
+.lang-btn:hover {
+  color: #333;
+}
+
+.sidebar-dark .lang-btn {
+  color: #666;
+}
+
+.sidebar-dark .lang-btn:hover {
+  color: #ccc;
+}
+
+.lang-btn.active {
+  color: #000;
+  font-weight: 500;
+}
+
+.sidebar-dark .lang-btn.active {
+  color: #fff;
+}
