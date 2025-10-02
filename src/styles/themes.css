@@ -70,3 +70,25 @@
     color: #666;
   }
 
+
+  /* verkefni í vinnslu */
+  [data-theme="dark"] .verkefni-main-title {
+    color: white;
+    border-bottom: none;
+  }
+
+  [data-theme="dark"] .project-text {
+    color: white;
+  }
+
+  [data-theme="dark"] .project-item:hover .project-text {
+    color: #7c3aed;
+  }
+
+  [data-theme="dark"] .project-tag {
+    border-bottom-color: #444;
+  }
+
+  [data-theme="dark"] .project-visual {
+    background: #1a1a1a;
+  }

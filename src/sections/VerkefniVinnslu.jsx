@@ -9,102 +9,85 @@ function Verkefnivinnsla() {
     is: {
       title: "Verkefni í vinnslu",
       projects: {
-        finndu: "Finndu Marketplace",
-        weather: "Veður app",
-        portfolio: "Eignasafn app"
+        finndu: {
+          tag: "VEFFORRIT",
+          description: "í þessu verkefni endurhannaði ég bland.is. Markmiðið var að sýna hvernig ég myndi endurhanna síðuna og bæta notendaupplifunina. Ég gerði bæði framendann og bakendann, þannig að allt virkar. Þetta er bara beta útgáfa af síðunni. Notaðu þessar upplýsingar til að skrá þig inn: Tölvupóstur: test@user.com Lykilorð: Test123"
+        },
+        weather: {
+          tag: "FARSÍMAFORRIT",
+          description: ""
+        }
       }
     },
     en: {
       title: "Projects in Progress",
       projects: {
-        finndu: "Finndu Marketplace",
-        weather: "Weather app", 
-        portfolio: "Portfolio app"
+        finndu: {
+          tag: "WEB APPLICATION",
+          description: "My redesign approach for the popular Icelandic marketplace bland.is. I built both the front-end and back-end, creating a fully functional site. Use test@user.com with password Test123 to try it out (currently in beta mode)."
+        },
+        weather: {
+          tag: "MOBILE APP",
+          description: ""
+        }
       }
     },
     no: {
       title: "Prosjekter under arbeid",
       projects: {
-        finndu: "Finndu Marketplace",
-        weather: "Vær app",
-        portfolio: "Portefølje app"
+        finndu: {
+          tag: "WEBAPPLIKASJON",
+          description: "Min tilnærming til redesign av den populære islandske markedsplassen bland.is. Jeg bygde både front-end og back-end, og skapte et fullstendig funksjonelt nettsted. Bruk test@user.com med passord Test123 for å prøve det (for øyeblikket i beta-modus)."
+        },
+        weather: {
+          tag: "MOBILAPP",
+          description: ""
+        }
       }
     }
   };
 
   const text = content[currentLanguage];
 
-    const projects = [
+  const projects = [
     {
-        id: 1,
-        name: text.projects.finndu,
-        image: finnduImage,
+      id: 1,
+      tag: text.projects.finndu.tag,
+      description: text.projects.finndu.description,
+      image: finnduImage,
     },
     {
       id: 2,
-      name: text.projects.weather,
-      backgroundColor: "#000000",
-    },
-    {
-      id: 3,
-      name: text.projects.portfolio,
-      backgroundColor: "#000000",
+      tag: text.projects.weather.tag,
+      description: text.projects.weather.description,
+      backgroundColor: "#f5f5f5",
     }
   ];
-
-
-  const renderProjectContent = (project) => {
-    if (project.name === "Finndu Marketplace") {
-      return (
-        <div
-          className="project-card-background"
-          style={{
-            backgroundImage: `url(${project.image})`,
-            backgroundSize: 'cover',
-            backgroundPosition: 'center'
-          }}
-        />
-      );
-    } else if (project.backgroundColor) {
-      return (
-        <div
-          className="project-card-background"
-          style={{
-            backgroundColor: project.backgroundColor
-          }}
-        />
-      );
-    } else {
-      return (
-        <div
-          className="project-card-background"
-          style={{
-            backgroundImage: `${project.gradient}, url(${project.image})`,
-            backgroundBlendMode: 'overlay'
-          }}
-        />
-      );
-    }
-  };
 
   return (
     <div className="section-container verkefnivinnsla-section">
       <div className="content-wrapper">
-        <h2 className="section-title">{text.title}</h2>
+        <h2 className="section-title verkefni-main-title">{text.title}</h2>
         
-        <div className="projects-horizontal-scroll">
-            {projects.map((project) => (
-            <div key={project.id} className={`project-card ${project.name === "Finndu Marketplace" ? "finndu-card" : ""}`}>
-                {renderProjectContent(project)}
-                {project.name !== "Finndu Marketplace" && (
-                <div className="project-card-overlay">
-                    <div className="project-name-badge">
-                    {project.name}
-                    </div>
-                </div>
+        <div className="projects-list">
+          {projects.map((project) => (
+            <div key={project.id} className="project-item">
+              <div className="project-text">
+                <p className="project-tag">{project.tag}</p>
+                <p className="project-description">{project.description}</p>
+              </div>
+              <div className="project-visual">
+                {project.image ? (
+                  <img src={project.image} alt={project.tag} />
+                ) : (
+                  <div 
+                    className="project-placeholder"
+                    style={{ backgroundColor: project.backgroundColor }}
+                  />
                 )}
+              </div>
             </div>
-            ))}
+          ))}
         </div>
       </div>
     </div>

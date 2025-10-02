@@ -168,3 +168,63 @@
       gap: 1rem;
     }
   }
+
+  /*test á verkefni í vinnslu*/ 
+
+  /* Responsive design */
+@media (max-width: 1200px) {
+  .project-item {
+    grid-template-columns: 350px 1fr;
+    gap: 3rem;
+  }
+
+  .project-title {
+    font-size: 2.5rem;
+  }
+
+  .project-visual {
+    height: 400px;
+  }
+}
+
+@media (max-width: 968px) {
+  .project-item {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .project-visual {
+    height: 350px;
+  }
+
+  .verkefni-main-title {
+    font-size: 2rem;
+    margin-bottom: 3rem;
+  }
+
+  .projects-list {
+    gap: 4rem;
+  }
+  
+  .project-title {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .verkefni-main-title {
+    font-size: 1.75rem;
+  }
+
+  .project-title {
+    font-size: 2rem;
+  }
+
+  .project-visual {
+    height: 300px;
+  }
+
+  .projects-list {
+    gap: 3rem;
+  }
+}
