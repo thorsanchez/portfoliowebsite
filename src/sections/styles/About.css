@@ -127,6 +127,13 @@
   .social-links {
     justify-content: center;
   }
+
+  /* færa them toggle til hægri utaf hamburger */
+  .theme-toggle {
+    top: 20px;
+    left: 20px;
+    right: auto;
+  }
 }
 
 @media (max-width: 768px) {
@@ -137,6 +144,13 @@
   
   .content-wrapper h2 {
     text-align: center;
+  }
+  
+  /* færa them toggle til hægri utaf hamburger */
+  .theme-toggle {
+    top: 20px;
+    left: 20px;
+    right: auto;
   }
 }
 
