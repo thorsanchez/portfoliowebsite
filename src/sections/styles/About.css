@@ -72,15 +72,6 @@
     z-index: 2;
   }
   
-  .image-container.image-right {
-    width: 180px;
-    height: auto; /* km birtist ekki ef fixed*/
-    position: absolute;
-    bottom: -180px;
-    right: 0;
-    z-index: 3;
-  }
-  
   .gallery-image {
     width: 100%;
     height: 100%;
