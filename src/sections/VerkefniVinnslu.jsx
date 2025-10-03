@@ -55,7 +55,7 @@ function Verkefnivinnsla() {
       tag: text.projects.finndu.tag,
       description: text.projects.finndu.description,
       image: finnduImage,
-      link: "https://finnd2-0.vercel.app"
+      link: "https://finnd2-0.vercel.app/login?next=/profile"
     },
     {
       id: 2,
