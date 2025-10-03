@@ -10,7 +10,7 @@ function Verkefni() {
 
   const content = {
     is: {
-      title: "Verkefni",
+      title: "Lokið verkefni",
       loading: "Hleð verkefnum...",
       error: "Villa við að hlaða verkefnum:",
       noProjects: "Engin starred verkefni fundust.",
@@ -18,7 +18,7 @@ function Verkefni() {
       github: "Github"
     },
     en: {
-      title: "Projects",
+      title: "Finished projects",
       loading: "Loading projects...",
       error: "Error loading projects:",
       noProjects: "No starred projects found.",
@@ -26,7 +26,7 @@ function Verkefni() {
       github: "Github"
     },
     no: {
-      title: "Prosjekter", 
+      title: "Fullførte prosjekter", 
       loading: "Laster prosjekter...",
       error: "Feil ved lasting av prosjekter:",
       noProjects: "Ingen stjernede prosjekter funnet.",

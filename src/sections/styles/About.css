@@ -106,8 +106,10 @@
   
   .about-content p {
     margin-bottom: 1rem;
-    line-height: 1.5;
-    color: #444;
-    font-size: 15px;
+    margin-top: 1.5rem;
+    line-height: 1.6;
+    color: inherit;
+    font-size: 1rem;
+    font-weight: 300;
     max-width: 800px;
   }

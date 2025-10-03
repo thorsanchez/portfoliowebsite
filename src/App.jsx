@@ -20,14 +20,14 @@ function App() {
       <section id="about">
           <About />
         </section>
-        <section id="cv">
-          <CV />
-        </section>
         <section id="verkefnivinnsla">
           <Verkefnivinnsla />
         </section>
         <section id="verkefni">
           <Verkefni />
+        </section>
+        <section id="cv">
+          <CV />
         </section>
         {/* tracka page view */}
         <Analytics />
