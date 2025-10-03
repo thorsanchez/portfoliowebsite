@@ -113,3 +113,54 @@
     font-weight: 300;
     max-width: 800px;
   }
+
+  /* fela 3 header images a mobile/tablet og minka nafn */
+@media (max-width: 1024px) {
+  /* fela myndir a iPad Proog minni */
+  .image-gallery {
+    display: none !important;
+  }
+  
+  /* thor minni*/
+  .name-title {
+    font-size: 5rem;
+  }
+  
+  /* mipja allð */
+  .name-container {
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .social-links {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .name-title {
+    font-size: 3.5rem;
+  }
+  
+  .content-wrapper h2 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .name-title {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 430px) {
+  .name-title {
+    font-size: 2.2rem;
+  }
+  
+  .image-gallery {
+    display: none !important;
+  }
+}

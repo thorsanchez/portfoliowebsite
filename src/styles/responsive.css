@@ -1,230 +1,29 @@
-/* ipad */
-@media (max-width: 1200px) {
-    .name-title {
-      font-size: 7rem;
-    }
-    
-    .section-container {
-      padding: 1rem 2rem;
-    }
-  }
-  
-  @media (max-width: 1024px) {
-    .hero-content {
-      flex-direction: column;
-      align-items: center;
-    }
-    
-    .name-container {
-      margin-right: 0;
-      text-align: center;
-      margin-bottom: 40px;
-    }
-    
-    .social-links {
-      justify-content: center;
-    }
-    
-    .image-gallery {
-      width: 100%;
-      justify-content: center;
-      margin-top: 20px;
-    }
-
-  .image-container.image-left {
-    margin-right: 0;
-    width: 200px;
-    height: 300px;
-  }
-  
-  .image-container.image-center {
-    width: 200px;
-    height: 200px;
-    margin-top: 0;
-  }
-  
-  .image-container.image-right {
-    position: relative;
-    bottom: auto;
-    right: auto;
-    width: 150px;
-    height: 250px;
-    margin-top: 25px;
-  }
-  
-  .info-section {
-    margin-top: 40px;
-  }
-  
-  .experience-item {
-    flex-direction: column;
-  }
-  
-  .experience-period {
-    width: 100%;
-    margin-bottom: 0.5rem;
-  }
-}
-
-/* simar*/
+/* Hide the 3 header images on mobile and make name smaller */
 @media (max-width: 768px) {
-    .name-title {
-      font-size: 4rem;
-    }
-    
-    .image-gallery {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      position: relative;
-      max-width: 100%;
-      margin: 0 auto;
-      height: 300px; 
-      margin-bottom: 50px; /* plass undir gallery */
-    }
-    
-    .image-container.image-left,
-    .image-container.image-center,
-    .image-container.image-right {
-      position: absolute;
-      width: 150px;
-      height: auto;
-      margin: 0;
-      border-radius: 12px;
-    }
+  /* Hide all 3 images */
+  .image-gallery {
+    display: none !important;
+  }
   
-    .image-container.image-left {
-      left: 10%;
-      z-index: 1;
-      top: 50px;
-    }
-    
-    .image-container.image-center {
-      left: 50%;
-      transform: translateX(-50%);
-      z-index: 2;
-      top: 10px;
-    }
-    
-    .image-container.image-right {
-      right: 10%;
-      z-index: 1;
-      top: 70px;
-    }
-    
-    .info-section {
-      margin-top: 20px;
-    }
+  /* Make "Thor Sanchez" name smaller */
+  .name-title {
+    font-size: 3.5rem;
   }
-
-  /* verkefni í vinnslu mobile */
-  @media (max-width: 768px) {
-    .project-card {
-      min-width: 280px;
-      height: 400px;
-    }
-    
-    .projects-horizontal-scroll {
-      gap: 1.5rem;
-      padding: 1.5rem 0;
-    }
-    
-    .project-card-overlay {
-      padding: 1.5rem;
-    }
-    
-    .project-name-badge {
-      padding: 0.6rem 1.2rem;
-      font-size: 0.9rem;
-    }
+  
+  /* Adjust name container spacing since images are gone */
+  .name-container {
+    margin-bottom: 20px;
   }
+  
+  /* Center "Lokið verkefni" header */
+  .content-wrapper h2 {
+    text-align: center;
+  }
+}
 
-  /* minni sima skjar */
 @media (max-width: 480px) {
-    .image-gallery {
-      height: 250px;
-    }
-    
-    .image-container.image-left,
-    .image-container.image-center,
-    .image-container.image-right {
-      width: 120px;
-    }
-    
-    .image-container.image-left {
-      left: 5%;
-    }
-    
-    .image-container.image-right {
-      right: 5%;
-    }
-  
-    .project-card {
-      min-width: 250px;
-      height: 350px;
-    }
-    
-    .projects-horizontal-scroll {
-      gap: 1rem;
-    }
-  }
-
-  /*test á verkefni í vinnslu*/ 
-
-  /* Responsive design */
-@media (max-width: 1200px) {
-  .project-item {
-    grid-template-columns: 350px 1fr;
-    gap: 3rem;
-  }
-
-  .project-title {
+  /* Even smaller name on very small screens */
+  .name-title {
     font-size: 2.5rem;
-  }
-
-  .project-visual {
-    height: 400px;
-  }
-}
-
-@media (max-width: 968px) {
-  .project-item {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-  }
-
-  .project-visual {
-    height: 350px;
-  }
-
-  .verkefni-main-title {
-    font-size: 2rem;
-    margin-bottom: 3rem;
-  }
-
-  .projects-list {
-    gap: 4rem;
-  }
-  
-  .project-title {
-    font-size: 2.25rem;
-  }
-}
-
-@media (max-width: 640px) {
-  .verkefni-main-title {
-    font-size: 1.75rem;
-  }
-
-  .project-title {
-    font-size: 2rem;
-  }
-
-  .project-visual {
-    height: 300px;
-  }
-
-  .projects-list {
-    gap: 3rem;
   }
 }

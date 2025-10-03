@@ -169,30 +169,6 @@
   }
 }
 
-@media (max-width: 480px) {
-  .projects-container {
-    gap: 20px;
-  }
-  
-  .project-card {
-    height: 220px;
-  }
-  
-  .project-overlay {
-    padding: 16px;
-  }
-  
-  .project-title {
-    font-size: 1.1rem;
-  }
-  
-  .project-footer {
-    flex-direction: column;
-    gap: 8px;
-    align-items: flex-start;
-  }
-}
-
 /*  */
 .projects-container p {
   grid-column: 1 / -1;
