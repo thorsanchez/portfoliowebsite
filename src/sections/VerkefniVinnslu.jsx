@@ -11,7 +11,7 @@ function Verkefnivinnsla() {
       projects: {
         finndu: {
           tag: "Finndu",
-          description: "í þessu verkefni endurhannaði ég bland.is. Markmiðið var að sýna hvernig ég myndi endurhanna síðuna og bæta notendaupplifunina. Ég gerði bæði framendann og bakendann, þannig að allt virkar. Þetta er bara beta útgáfa af síðunni. Notaðu þessar upplýsingar til að skrá þig inn: Tölvupóstur: test@user.com Lykilorð: Test123"
+          description: "í þessu verkefni endurhannaði ég bland.is. Markmiðið var að sýna hvernig ég myndi endurhanna síðuna og bæta notendaupplifunina. Ég gerði bæði framendann og bakendann. Þetta er bara beta útgáfa af síðunni. Notaðu þessar upplýsingar til að skrá þig inn: Tölvupóstur: test@user.com Lykilorð: Test123"
         },
         weather: {
           tag: "Liverpool FC Chatbot",
