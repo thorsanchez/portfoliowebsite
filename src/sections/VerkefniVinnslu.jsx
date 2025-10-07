@@ -1,7 +1,7 @@
 import React from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 import finnduImage from '../assets/finndu_mynd.svg';
-import diceImage from '../assets/dice.png';
+import diceImage from '../assets/pricediceui.png';
 
 function Verkefnivinnsla() {
   const { currentLanguage } = useLanguage();
@@ -16,7 +16,7 @@ function Verkefnivinnsla() {
         },
         weather: {
           tag: "Primedice remake",
-          description: ""
+          description: "Bitcoin teningaleikur á testnet. React frontend og Python backend."
         }
       }
     },
@@ -29,7 +29,7 @@ function Verkefnivinnsla() {
         },
         weather: {
           tag: "Primedice remake",
-          description: ""
+          description: "Bitcoin dicegame on test network. React frontend and Python backend."
         }
       }
     },
@@ -42,7 +42,7 @@ function Verkefnivinnsla() {
         },
         weather: {
           tag: "Primedice remake",
-          description: ""
+          description: "Bitcoin terning spill på testnett. React frontend og Python backend."
         }
       }
     }
