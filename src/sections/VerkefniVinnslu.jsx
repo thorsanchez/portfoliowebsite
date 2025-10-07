@@ -1,6 +1,7 @@
 import React from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 import finnduImage from '../assets/finndu_mynd.svg';
+import diceImage from '../assets/dice.png';
 
 function Verkefnivinnsla() {
   const { currentLanguage } = useLanguage();
@@ -14,7 +15,7 @@ function Verkefnivinnsla() {
           description: "í þessu verkefni endurhannaði ég bland.is. Markmiðið var að sýna hvernig ég myndi endurhanna síðuna og bæta notendaupplifunina. Ég gerði bæði framendann og bakendann. Þetta er bara beta útgáfa af síðunni. Notaðu þessar upplýsingar til að skrá þig inn: Tölvupóstur: test@user.com Lykilorð: Test123"
         },
         weather: {
-          tag: "Liverpool FC Chatbot",
+          tag: "Primedice remake",
           description: ""
         }
       }
@@ -23,11 +24,11 @@ function Verkefnivinnsla() {
       title: "Projects in Progress",
       projects: {
         finndu: {
-          tag: "WEB APPLICATION",
+          tag: "Finndu",
           description: "My redesign approach for the popular Icelandic marketplace bland.is. I built both the front-end and back-end, creating a fully functional site. Use test@user.com with password Test123 to try it out (currently in beta mode)."
         },
         weather: {
-          tag: "Liverpool FC Chatbot",
+          tag: "Primedice remake",
           description: ""
         }
       }
@@ -36,11 +37,11 @@ function Verkefnivinnsla() {
       title: "Prosjekter under arbeid",
       projects: {
         finndu: {
-          tag: "Liverpool FC Chatbot",
+          tag: "Finndu",
           description: "Min tilnærming til redesign av den populære islandske markedsplassen bland.is. Jeg bygde både front-end og back-end, og skapte et fullstendig funksjonelt nettsted. Bruk test@user.com med passord Test123 for å prøve det (for øyeblikket i beta-modus)."
         },
         weather: {
-          tag: "MOBILAPP",
+          tag: "Primedice remake",
           description: ""
         }
       }
@@ -61,7 +62,7 @@ function Verkefnivinnsla() {
       id: 2,
       tag: text.projects.weather.tag,
       description: text.projects.weather.description,
-      backgroundColor: "#f5f5f5",
+      image: diceImage,
       link: null
     }
   ];
