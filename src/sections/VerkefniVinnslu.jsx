@@ -63,7 +63,7 @@ function Verkefnivinnsla() {
       tag: text.projects.weather.tag,
       description: text.projects.weather.description,
       image: diceImage,
-      link: null
+      link: "https://dice-game-frontend-ochre.vercel.app/"
     }
   ];
 
