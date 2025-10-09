@@ -17,9 +17,9 @@ function Verkefnivinnsla() {
         weather: {
           tag: "Primedice remake",
           description: [
-            "Full-stack vefsíða byggð með **React + TypeScript** framenda og **FastAPI (Python)** bakenda, keyrandi á **Vercel** og **Render**. Forritið tengist beint við Ethereum blockchain (Sepolia testnet) með **Web3** og **MetaMask**, og meðhöndlar blockchain færslur, innborganir, sjálfvirkar útborganir og checkar á innistæðu.",
+            "Full-stack vefsíða byggð með **React + TypeScript** framenda og **FastAPI (Python)** bakenda, keyrandi á **Vercel** og **Render**. Forritið tengist beint við Ethereum blockchain (Sepolia testnet) með **Web3** og **MetaMask**, og meðhöndlar blockchain færslur, innborganir, sjálfvirkar útborganir og tékkar á innistæðu.",
             "Gerði örugga færsluundirritun með private keys, CORS uppsetningu fyrir API samskipti milli þjóna. Í leiknum höfum við stillanleg target (1-95), krafta með 2% house edge, og sendir ETH útborganir beint á blockchain.",
-            "**Staða:** Enn í þróun á testnet. Athugið: Hægt er að nota sömu færsluna oft til að fá inneign (til að prófa) - vinsamlegast ekki tæma primedice veskið mitt.",
+            "**Staða:** Enn í þróun á testnet. Athugið: Hægt er að nota sömu færsluna oft til að fá inneign (til að prófa) - vinsamlegast ekki tæma primedice veskið.",
             "**Tækni:** React, TypeScript, Python, FastAPI, Web3.py, Ethereum, Vite, TailwindCSS, MetaMask, Vercel, Render"
           ]
         }
