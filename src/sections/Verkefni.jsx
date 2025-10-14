@@ -123,7 +123,7 @@ function Verkefni() {
                   onError={(e) => {
                     const placeholder = document.createElement('div');
                     placeholder.className = 'project-image-placeholder';
-                    placeholder.textContent = '📷'; // kannski place holder mynd næst
+                    placeholder.textContent = ''; // kannski place holder mynd næst
                     e.target.parentNode.replaceChild(placeholder, e.target);
                   }}
                 />
