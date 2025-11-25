@@ -14,13 +14,19 @@ function Verkefnivinnsla() {
           tag: "Finndu",
           description: "í þessu verkefni endurhannaði ég bland.is. Markmiðið var að sýna hvernig ég myndi endurhanna síðuna og bæta notendaupplifunina. Ég gerði bæði framendann og bakendann. Þetta er bara beta útgáfa af síðunni. Notaðu þessar upplýsingar til að skrá þig inn: Tölvupóstur: test@user.com Lykilorð: Test123"
         },
-        weather: {
+        primeDice: {
           tag: "Primedice remake",
           description: [
             "Full-stack vefsíða byggð með **React + TypeScript** framenda og **FastAPI (Python)** bakenda, keyrandi á **Vercel** og **Render**. Forritið tengist beint við Ethereum blockchain (Sepolia testnet) með **Web3** og **MetaMask**, og meðhöndlar blockchain færslur, innborganir, sjálfvirkar útborganir og tékkar á innistæðu.",
             "Gerði örugga færsluundirritun með private keys, CORS uppsetningu fyrir API samskipti milli þjóna. Í leiknum höfum við stillanleg target (1-95), krafta með 2% house edge, og sendir ETH útborganir beint á blockchain.",
             "**Staða:** Enn í þróun á testnet. Athugið: Hægt er að nota sömu færsluna oft til að fá inneign (til að prófa) - vinsamlegast ekki tæma primedice veskið.",
             "**Tækni:** React, TypeScript, Python, FastAPI, Web3.py, Ethereum, Vite, TailwindCSS, MetaMask, Vercel, Render"
+          ]
+        },
+        haetta: {
+          tag: "Hætta",
+          description: [
+            "test texti"
           ]
         }
       }
@@ -32,7 +38,7 @@ function Verkefnivinnsla() {
           tag: "Finndu",
           description: "My redesign approach for the popular Icelandic marketplace bland.is. I built both the front-end and back-end, creating a fully functional site. Use test@user.com with password Test123 to try it out (currently in beta mode)."
         },
-        weather: {
+        primeDice: {
           tag: "Primedice remake",
           description: [
             "Full-stack web application built with **React + TypeScript** frontend and **FastAPI (Python)** backend, deployed on **Vercel** and **Render**. The application connects directly to the Ethereum blockchain (Sepolia testnet) using **Web3** and **MetaMask**, handling blockchain transactions, deposits, automatic payouts, and balance checking.",
@@ -50,7 +56,7 @@ function Verkefnivinnsla() {
           tag: "Finndu",
           description: "Min tilnærming til redesign av den populære islandske markedsplassen bland.is. Jeg bygde både front-end og back-end, og skapte et fullstendig funksjonelt nettsted. Bruk test@user.com med passord Test123 for å prøve det (for øyeblikket i beta-modus)."
         },
-        weather: {
+        primeDice: {
           tag: "Primedice remake",
           description: [
             "Full-stack nettapplikasjon bygget med **React + TypeScript** frontend og **FastAPI (Python)** backend, kjørende på **Vercel** og **Render**. Applikasjonen kobler seg direkte til Ethereum blockchain (Sepolia testnet) ved hjelp av **Web3** og **MetaMask**, og håndterer blockchain-transaksjoner, innskudd, automatiske utbetalinger og saldosjekking.",
@@ -98,10 +104,16 @@ function Verkefnivinnsla() {
     },
     {
       id: 2,
-      tag: text.projects.weather.tag,
-      description: text.projects.weather.description,
+      tag: text.projects.primeDice.tag,
+      description: text.projects.primeDice.description,
       image: diceImage,
       link: "https://primedice-remake.vercel.app"
+    },
+    {
+      id: 3,
+      tag: text.projects.haetta.tag,
+      description: text.projects.haetta.description,
+      
     }
   ];
 
