@@ -83,9 +83,21 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* taka backgorund ut fyrir iphoneiamge */
+.project-visual.phone-mockup-container {
+  background: transparent;
+  border-radius: 0;
+  overflow: visible;
+}
+
 .project-item:hover .project-visual {
   transform: scale(1.02);
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* ekki shadow */
+.project-item:hover .project-visual.phone-mockup-container {
+  box-shadow: none;
 }
 
 .project-visual img {
@@ -93,6 +105,14 @@
   height: 100%;
   object-fit: cover;
   display: block;
+}
+
+/* Fyrir mookup transparent frá mockuphone.com */
+.project-visual img.phone-mockup {
+  object-fit: contain;
+  object-position: center;
+  max-height: 100%;
+  width: auto;
 }
 
 .project-placeholder {

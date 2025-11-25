@@ -2,6 +2,7 @@ import React from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 import finnduImage from '../assets/finndu_mynd.svg';
 import diceImage from '../assets/pricediceui.png';
+import haettaIamge from '../assets/haettahomescreen.png';
 
 function Verkefnivinnsla() {
   const { currentLanguage } = useLanguage();
@@ -26,7 +27,11 @@ function Verkefnivinnsla() {
         haetta: {
           tag: "Hætta",
           description: [
-            "test texti"
+            "Hætta er app hannað til að hjálpa íslenskum notendum að hætta að reykja, veipa og/eða nota nikótínpúða.",
+            "Forritið fylgist með hversu lengi notendur hafa verið hættir, reiknar út sparaðan pening og fjölda eininga sem þeir hafa forðast,", 
+            "sýnir hvetjandi afrek með \"badges\" og áföngum, sendir hvetjandi tilkynningar og veitir ráð og stuðning til að halda sér reyk og nikótínlausum.",
+            "Notendur geta fylgst með tölfræði um árangur sinn, deilt afrekum og fengið hjálp þegar þeir eiga erfitt með löngun eða fráhvörf.",
+            "Tæknistafli: React Native, Expo, TypeScript, AsyncStorage"
           ]
         }
       }
@@ -97,23 +102,24 @@ function Verkefnivinnsla() {
   const projects = [
     {
       id: 1,
+      tag: text.projects.haetta.tag,
+      description: text.projects.haetta.description,
+      image: haettaIamge,
+
+    },
+    {
+      id: 2,
       tag: text.projects.finndu.tag,
       description: text.projects.finndu.description,
       image: finnduImage,
       link: "https://finnd2-0.vercel.app/login?next=/profile"
     },
     {
-      id: 2,
+      id: 3,
       tag: text.projects.primeDice.tag,
       description: text.projects.primeDice.description,
       image: diceImage,
       link: "https://primedice-remake.vercel.app"
-    },
-    {
-      id: 3,
-      tag: text.projects.haetta.tag,
-      description: text.projects.haetta.description,
-      
     }
   ];
 
@@ -140,11 +146,15 @@ function Verkefnivinnsla() {
                 <p className="project-tag">{project.tag}</p>
                 {renderDescription(project.description)}
               </div>
-              <div className="project-visual">
+              <div className={`project-visual ${project.id === 1 ? 'phone-mockup-container' : ''}`}>
                 {project.image ? (
-                  <img src={project.image} alt={project.tag} />
+                  <img
+                    src={project.image}
+                    alt={project.tag}
+                    className={project.id === 1 ? 'phone-mockup' : ''}
+                  />
                 ) : (
-                  <div 
+                  <div
                     className="project-placeholder"
                     style={{ backgroundColor: project.backgroundColor }}
                   />
