@@ -51,6 +51,16 @@ function Verkefnivinnsla() {
             "**Status:** Still in development on testnet. Note: The same transaction can be used multiple times to get balance (for testing purposes) - please don't drain my primedice wallet.",
             "**Tech Stack:** React, TypeScript, Python, FastAPI, Web3.py, Ethereum, Vite, TailwindCSS, MetaMask, Vercel, Render"
           ]
+        },
+        haetta: {
+          tag: "Hætta",
+          description: [
+            "Hætta is an app designed to help Icelandic users quit smoking, vaping, and/or using nicotine pouches.",
+            "The app tracks how long users have stayed quit and calculates money saved and the number of units avoided.",
+            "It displays motivational achievements with badges and milestones, sends encouraging notifications, and provides tips and support to stay smoke- and nicotine-free.",
+            "Users can view progress statistics, share achievements, and get help when struggling with cravings or withdrawal.",
+            "Tech stack: React Native, Expo, TypeScript, AsyncStorage"
+          ]
         }
     }
     },
@@ -68,6 +78,16 @@ function Verkefnivinnsla() {
             "Implementerte sikker transaksjonssignering med private keys og CORS-konfigurasjon for API-kommunikasjon mellom servere. Spillet har justerbare mål (1-95), multiplikatorer med 2% house edge, og sender ETH-utbetalinger direkte på blockchain.",
             "**Status:** Fortsatt under utvikling på testnet. Merk: Samme transaksjon kan brukes flere ganger for å få saldo (for testing) - vennligst ikke tøm primedice-lommeboken min.",
             "**Tech Stack:** React, TypeScript, Python, FastAPI, Web3.py, Ethereum, Vite, TailwindCSS, MetaMask, Vercel, Render"
+          ]
+        },
+        haetta: {
+          tag: "Hætta",
+          description: [
+            "Hætta er en app laget for å hjelpe norske brukere med å slutte å røyke, vape og/eller bruke nikotin snus.",
+            "Appen lagrer hvor lenge brukerne har vært røykfrie, beregner hvor mye penger de har spart og hvor mange enheter de har unngått.",
+            "Den viser motiverende prestasjoner med «badges» og milepæler, sender oppmuntrende varsler og gir tips og støtte for å holde seg røyk- og nikotinfri.",
+            "Brukerne kan se statistikk over fremgangen sin, dele prestasjoner og få hjelp når de sliter med cravings eller abstinenser.",
+            "Teknologistack: React Native, Expo, TypeScript, AsyncStorage"
           ]
         }
       }
