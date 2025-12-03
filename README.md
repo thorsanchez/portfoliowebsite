@@ -55,6 +55,6 @@ Eitt af því sem reyndist mér erfitt var að ákveða nákvæmlega hvernig ég
 ## Hvað var áhugavert
 Það sem mér fannst mest áhugavert við verkefnið var að læra að tengja github API við vefsíðuna til að sækja verkefnin mín sjálfkrafa, í stað þess að þurfa að uppfæra síðuna sjálfur. Einnig var spennandi að útfæra ljóst og dökkt þema með react context API. Mér fannst líka gaman að rifja upp hvernig á að hanna vefsíðu sem virkar vel á öllum skjástærðum frá símum upp í tölvur.
 
-
+(þarf að laga mobile view næst fyrir listening og cv)
 
 
