@@ -4,6 +4,7 @@ import Sidebar from './components/Sidebar/Sidebar';
 import MobileNav from './components/MobileNav/MobileNav';
 import About from './sections/About';
 import CV from './sections/CV';
+import Listening from './sections/Listening';
 import Verkefni from './sections/Verkefni';
 import './App.css';
 import { Analytics } from "@vercel/analytics/react";
@@ -28,6 +29,9 @@ function App() {
         </section>
         <section id="cv">
           <CV />
+        </section>
+        <section id="listening">
+          <Listening />
         </section>
         {/* tracka page view */}
         <Analytics />
