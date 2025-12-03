@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
-import './Listening.css';
+import './styles/Listening.css';
 
 function Listening() {
   const { currentLanguage } = useLanguage();

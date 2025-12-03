@@ -31,7 +31,7 @@
 
 .listening-table tbody tr {
   border-bottom: 1px solid rgba(128, 128, 128, 0.2);
-  transition: background-color 0.2s ease;
+  transition: background-color 0.1s ease;
 }
 
 .listening-table tbody tr:hover {
