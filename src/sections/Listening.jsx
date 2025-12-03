@@ -77,7 +77,11 @@ function Listening() {
           </thead>
           <tbody>
             {recentlyPlayed.map((track, index) => (
-              <tr key={index}>
+              <tr
+                key={index}
+                onClick={() => track.spotifyUrl && window.open(track.spotifyUrl, '_blank')}
+                style={{ cursor: track.spotifyUrl ? 'pointer' : 'default' }}
+              >
                 <td className="song-cell">
                   <div className="song-info">
                     {track.albumArt ? (
