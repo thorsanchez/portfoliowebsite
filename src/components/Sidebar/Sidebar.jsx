@@ -15,7 +15,8 @@ function Sidebar() {
   const navText = {
     is: { 
       about: "Um mig", 
-      cv: "Ferilskrá", 
+      cv: "Ferilskrá",
+      listening: "Hlusta",
       projects: "Verkefni",
       inProgress: "Verkefni í vinnslu",
       githubProjects: "Github Verkefni",
@@ -60,6 +61,9 @@ function Sidebar() {
         </Link>
         <Link to="cv" smooth={true} duration={500} offset={-50}>
           {text.cv}
+        </Link>
+        <Link to="listening" smooth={true} duration={500} offset={-50}>
+          {text.listening}
         </Link>
       </nav>
       
