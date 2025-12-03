@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-12-03T18:16:40.570039",
+  "lastUpdated": "2025-12-03T19:18:16.040390",
   "tracks": [
+    {
+      "song": "Ms. Jackson",
+      "artist": "Outkast",
+      "album": "Stankonia",
+      "played": "Dec 03, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851153b3d6495031cb813a7451c",
+      "spotifyUrl": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "song": "Hypnotize - 2007 Remaster",
+      "artist": "The Notorious B.I.G.",
+      "album": "Greatest Hits",
+      "played": "Dec 03, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851639fea4197e676cfe9512e04",
+      "spotifyUrl": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
+    },
+    {
+      "song": "Just A Lil Bit",
+      "artist": "50 Cent",
+      "album": "The Massacre",
+      "played": "Dec 03, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485191f7222996c531b981e7bb3d",
+      "spotifyUrl": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
+    },
+    {
+      "song": "California Love - Original Version",
+      "artist": "2Pac, Roger, Dr. Dre",
+      "album": "Greatest Hits",
+      "played": "Dec 03, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d81a092eb373ded457d94eec",
+      "spotifyUrl": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
+    },
+    {
+      "song": "What I Want (feat. Tate McRae)",
+      "artist": "Morgan Wallen, Tate McRae",
+      "album": "I’m The Problem",
+      "played": "Dec 03, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a70a80359930eea5bfdf11f5",
+      "spotifyUrl": "https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A"
+    },
     {
       "song": "you broke my heart - instrumental",
       "artist": "kobzx2z, Myla",
@@ -112,46 +152,6 @@
       "played": "Dec 03, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
       "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "song": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
-      "artist": "Popcaan, Drake, PARTYNEXTDOOR",
-      "album": "FIXTAPE",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e0891fd9b9c83a974645c467",
-      "spotifyUrl": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
-    },
-    {
-      "song": "Chasing Shadows",
-      "artist": "Alex Warren",
-      "album": "You'll Be Alright, Kid (Chapter 1)",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485142fe69c0e7e5c92f01ece8ce",
-      "spotifyUrl": "https://open.spotify.com/track/3KLQCsKrZSResAeGxkx9n0"
-    },
-    {
-      "song": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
-      "artist": "Popcaan, Drake, PARTYNEXTDOOR",
-      "album": "FIXTAPE",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e0891fd9b9c83a974645c467",
-      "spotifyUrl": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
-    },
-    {
-      "song": "GO BABY",
-      "artist": "Justin Bieber",
-      "album": "SWAG II",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a958d093e94944dd0e7258b2",
-      "spotifyUrl": "https://open.spotify.com/track/6G7hnJoG5ZZE5bOeA18JXg"
     },
     {
       "song": "SAMMEN",
