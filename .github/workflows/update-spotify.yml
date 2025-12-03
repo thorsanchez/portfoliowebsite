@@ -3,7 +3,7 @@ name: Update Spotify Data
 on:
   schedule:
     # Keyra alltaf klukkan 18:45 (ísland tími)
-    - cron: '15 18 * * *'
+    - cron: '45 18 * * *'
   workflow_dispatch:
 
 jobs:
