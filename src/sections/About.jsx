@@ -5,7 +5,6 @@ import headerImg2 from "../assets/headerimg2.png";
 import githubIconDark from '../assets/github-dark.svg';
 import linkedinIconDark from '../assets/linkedin-dark.svg';
 import githubIconLight from '../assets/github-light.svg';
-import linkedinIconLight from '../assets/linkedin-light.svg';
 import sun from '../assets/sun.svg';
 import moon from '../assets/moon.svg';
 import {useLanguage} from '../contexts/LanguageContext';
@@ -63,9 +62,6 @@ function About() {
           <div className="social-links">
             <a href="https://github.com/thorsanchez" target="_blank" rel="noopener noreferrer">
               <img src={theme === 'light' ? githubIconLight : githubIconDark} alt="GitHub icon"/>
-            </a>
-            <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">
-              <img src={theme === 'light' ? linkedinIconLight : linkedinIconDark} alt="LinkedIn icon"/>
             </a>
           </div>
         </div>

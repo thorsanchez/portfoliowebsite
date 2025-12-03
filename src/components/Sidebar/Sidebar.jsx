@@ -59,35 +59,21 @@ function Sidebar() {
         <Link to="about" smooth={true} duration={500} offset={-50}>
           {text.about}
         </Link>
+        <Link to="verkefnivinnsla" smooth={true} duration={500} offset={-50}>
+          {text.inProgress}
+        </Link>
+        <Link to="verkefni" smooth={true} duration={500} offset={-50}>
+          {text.githubProjects}
+        </Link>
         <Link to="cv" smooth={true} duration={500} offset={-50}>
           {text.cv}
         </Link>
         <Link to="listening" smooth={true} duration={500} offset={-50}>
           {text.listening}
         </Link>
+        <a href="mailto:sanchezthor@gmail.com">{text.sendEmail}</a>
+        <a href="https://github.com/thorsanchez" target="_blank" rel="noopener noreferrer">Github</a>
       </nav>
-      
-      <div className="sidebar-section">
-        <h2>{text.projects}</h2>
-        <nav className="sidebar-nav">
-          {/* vill bæta við Finndu í þetta section */}
-          <Link to="verkefnivinnsla" smooth={true} duration={500} offset={-50}>
-              {text.inProgress}
-            </Link>
-          <Link to="verkefni" smooth={true} duration={500} offset={-50}>
-            {text.githubProjects}
-          </Link>
-        </nav>
-      
-      </div>
-      
-      <div className="sidebar-section">
-        <h2>{text.contact}</h2>
-        <nav className="sidebar-nav">
-          <a href="mailto:sanchezthor@gmail.com">{text.sendEmail}</a>
-          <a href="https://github.com/thorsanchez" target="_blank" rel="noopener noreferrer">Github</a>
-        </nav>
-      </div>
 
       <div className="language-toggle-container">
         <LanguageToggle />
