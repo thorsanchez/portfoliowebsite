@@ -1,0 +1,39 @@
+name: Update Spotify Data
+
+on:
+  schedule:
+    # Keyra alltaf klukkan 18:45 (ísland tími)
+    - cron: '15 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-spotify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+
+      - name: Fetch Spotify data
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          python scripts/update_spotify.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add public/spotify-data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Spotify recently played [automated]" && git push)

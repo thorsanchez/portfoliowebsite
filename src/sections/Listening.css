@@ -67,11 +67,20 @@
   margin-top: 47px;
 }
 
+.album-art,
 .album-art-placeholder {
   width: 32px;
   height: 32px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.album-art {
+  object-fit: cover;
+}
+
+.album-art-placeholder {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 /* Responsive design */

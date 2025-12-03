@@ -1,12 +1,15 @@
+import { useState, useEffect } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 import './Listening.css';
 
 function Listening() {
   const { currentLanguage } = useLanguage();
+  const [recentlyPlayed, setRecentlyPlayed] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   const content = {
     is: {
-      title: "Það sem ég er að hlusta á þessa daga",
+      title: "Nýlega hlustað",
       songHeader: "Lag",
       artistHeader: "Flytjandi",
       albumHeader: "Plata",
@@ -28,144 +31,35 @@ function Listening() {
     }
   };
 
-  // data mock
-  const recentlyPlayed = [
-    {
-      song: "Heaven Takes You Home (feat. Connie Constance)",
-      artist: "Swedish House Mafia",
-      album: "Paradise Again",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One Last Dance",
-      artist: "Audien",
-      album: "One Last Dance",
-      played: "Dec 3, 2025",
-      albumArt: null
-    },
-    {
-      song: "One (Your Name)",
-      artist: "Swedish House Mafia",
-      album: "Until Now",
-      played: "Dec 3, 2025",
-      albumArt: null
-    }
-  ];
+  // Fetch Spotify data from JSON file
+  useEffect(() => {
+    const fetchSpotifyData = async () => {
+      try {
+        const response = await fetch('/spotify-data.json');
+        const data = await response.json();
+        setRecentlyPlayed(data.tracks || []);
+      } catch (error) {
+        console.error('Error fetching Spotify data:', error);
+        // Fallback to empty array
+        setRecentlyPlayed([]);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchSpotifyData();
+  }, []);
 
   const text = content[currentLanguage];
+
+  if (loading) {
+    return (
+      <div className="section-container listening-container">
+        <h2 className="section-title-spotify">{text.title}</h2>
+        <p>Loading...</p>
+      </div>
+    );
+  }
 
   return (
     <div className="section-container listening-container">
@@ -186,7 +80,15 @@ function Listening() {
               <tr key={index}>
                 <td className="song-cell">
                   <div className="song-info">
-                    <div className="album-art-placeholder"></div>
+                    {track.albumArt ? (
+                      <img
+                        src={track.albumArt}
+                        alt={track.album}
+                        className="album-art"
+                      />
+                    ) : (
+                      <div className="album-art-placeholder"></div>
+                    )}
                     <span>{track.song}</span>
                   </div>
                 </td>

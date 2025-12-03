@@ -12,6 +12,13 @@ dist
 dist-ssr
 *.local
 
+# Environment variables
+.env
+
+# Spotify refresh token script (only for local use)
+scripts/get_refresh_token.py
+scripts/README.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
