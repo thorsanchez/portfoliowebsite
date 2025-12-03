@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-12-03T19:18:16.040390",
+  "lastUpdated": "2025-12-03T19:19:57.856429",
   "tracks": [
+    {
+      "song": "Draft Day",
+      "artist": "Drake",
+      "album": "Care Package",
+      "played": "Dec 03, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
+      "spotifyUrl": "https://open.spotify.com/track/3W3FVHEDetkiRkkGKDmdir"
+    },
     {
       "song": "Ms. Jackson",
       "artist": "Outkast",
@@ -136,14 +144,6 @@
       "played": "Dec 03, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d000048511d32d62f4928cd8d97e1fafb",
       "spotifyUrl": "https://open.spotify.com/track/2tw50t0G1tAZXWC5G7KRXp"
-    },
-    {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
     },
     {
       "song": "SAMMEN",
