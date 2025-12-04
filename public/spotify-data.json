@@ -1,165 +1,165 @@
 {
-  "lastUpdated": "2025-12-03T19:19:57.856429",
+  "lastUpdated": "2025-12-04T18:59:23.898099",
   "tracks": [
+    {
+      "song": "Tattoo",
+      "artist": "Loreen",
+      "album": "Tattoo",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512b0ba87db609976eee193bd6",
+      "spotifyUrl": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "song": "City View (feat. Courtney Noelle)",
+      "artist": "Wiz Khalifa, Courtney Noelle",
+      "album": "Khalifa",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519ea6475714bbe0e9c5747fe8",
+      "spotifyUrl": "https://open.spotify.com/track/26CA1djthnWIk4feadWObF"
+    },
+    {
+      "song": "On The Radar Freestyle",
+      "artist": "Drake, Central Cee",
+      "album": "On The Radar Freestyle",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516605b442f8e937b3a901d0b7",
+      "spotifyUrl": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
+    },
+    {
+      "song": "Over The Top (feat. Drake)",
+      "artist": "Smiley, Drake",
+      "album": "Buy or Bye 2",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851029c7ad2659fcc983ba27b51",
+      "spotifyUrl": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
+    },
+    {
+      "song": "Plz",
+      "artist": "Amara",
+      "album": "Plz",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048513bb1bb086000cbfa7c9a80d8",
+      "spotifyUrl": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
+    },
+    {
+      "song": "PTSD",
+      "artist": "Pop Smoke",
+      "album": "Meet The Woo",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518fe5d04b06aff90f9fe796f5",
+      "spotifyUrl": "https://open.spotify.com/track/24b6djSbUFQtXAdyb3FMbr"
+    },
+    {
+      "song": "DnF (feat. Drake & Future)",
+      "artist": "Preme, Drake, Future",
+      "album": "DnF (feat. Drake & Future)",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519b4fee0d69849d0f8948c945",
+      "spotifyUrl": "https://open.spotify.com/track/6AaOtHsKd195ec0Y4kC9ER"
+    },
+    {
+      "song": "BackOutsideBoyz",
+      "artist": "Drake",
+      "album": "Her Loss",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+      "spotifyUrl": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
+    },
+    {
+      "song": "Lemonade (feat. NAV)",
+      "artist": "Internet Money, Gunna, Don Toliver, NAV",
+      "album": "B4 The Storm",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c4adc981dc6656e52c916088",
+      "spotifyUrl": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
+    },
+    {
+      "song": "GOT DAMN",
+      "artist": "Gunna",
+      "album": "GOT DAMN",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517e394b5576ebfb26453dd5db",
+      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "song": "MUNYUN",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
+      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
+    },
     {
       "song": "Draft Day",
       "artist": "Drake",
       "album": "Care Package",
-      "played": "Dec 03, 2025",
+      "played": "Dec 04, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
       "spotifyUrl": "https://open.spotify.com/track/3W3FVHEDetkiRkkGKDmdir"
     },
     {
-      "song": "Ms. Jackson",
-      "artist": "Outkast",
-      "album": "Stankonia",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851153b3d6495031cb813a7451c",
-      "spotifyUrl": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
-    },
-    {
-      "song": "Hypnotize - 2007 Remaster",
-      "artist": "The Notorious B.I.G.",
-      "album": "Greatest Hits",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851639fea4197e676cfe9512e04",
-      "spotifyUrl": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
-    },
-    {
-      "song": "Just A Lil Bit",
-      "artist": "50 Cent",
-      "album": "The Massacre",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485191f7222996c531b981e7bb3d",
-      "spotifyUrl": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
-    },
-    {
-      "song": "California Love - Original Version",
-      "artist": "2Pac, Roger, Dr. Dre",
-      "album": "Greatest Hits",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d81a092eb373ded457d94eec",
-      "spotifyUrl": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
-    },
-    {
-      "song": "What I Want (feat. Tate McRae)",
-      "artist": "Morgan Wallen, Tate McRae",
-      "album": "I’m The Problem",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a70a80359930eea5bfdf11f5",
-      "spotifyUrl": "https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A"
-    },
-    {
-      "song": "you broke my heart - instrumental",
-      "artist": "kobzx2z, Myla",
-      "album": "you broke my heart",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512d8e609212516bf738fd5d9a",
-      "spotifyUrl": "https://open.spotify.com/track/1dM48s42WKMopRCtOPzK5Y"
-    },
-    {
-      "song": "7am On Bridle Path",
-      "artist": "Drake",
-      "album": "Certified Lover Boy",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
-    {
-      "song": "The Ride",
-      "artist": "Drake",
-      "album": "Take Care (Deluxe)",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c7ea04a9b455e3f68ef82550",
-      "spotifyUrl": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
-    },
-    {
-      "song": "No Pole",
-      "artist": "Don Toliver",
-      "album": "Love Sick (Deluxe)",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f5e27c2aa0b110c2b6611577",
-      "spotifyUrl": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
-    },
-    {
-      "song": "Use Somebody",
-      "artist": "Kings of Leon",
-      "album": "Only By The Night",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
-      "spotifyUrl": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
-    },
-    {
-      "song": "Omertà",
-      "artist": "Drake",
-      "album": "The Best In The World Pack",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048513f3b653b0a7b9e889a712c3d",
-      "spotifyUrl": "https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF"
-    },
-    {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "song": "Californication",
-      "artist": "Red Hot Chili Peppers",
-      "album": "Hits of the 2000s",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511d32d62f4928cd8d97e1fafb",
-      "spotifyUrl": "https://open.spotify.com/track/2tw50t0G1tAZXWC5G7KRXp"
-    },
-    {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "song": "Chasing Shadows",
-      "artist": "Alex Warren",
-      "album": "You'll Be Alright, Kid (Chapter 1)",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485142fe69c0e7e5c92f01ece8ce",
-      "spotifyUrl": "https://open.spotify.com/track/3KLQCsKrZSResAeGxkx9n0"
-    },
-    {
-      "song": "8Ball (feat. Aon & Hooks)",
-      "artist": "Arif Murakami, AON, Hooks",
+      "song": "1344 Freestyle",
+      "artist": "Arif Murakami",
       "album": "HighEnd / Asfalt",
-      "played": "Dec 03, 2025",
+      "played": "Dec 04, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485118b26df4505602575ca8df2f",
-      "spotifyUrl": "https://open.spotify.com/track/5WGY9MgAYcQF8XbVf2sATZ"
+      "spotifyUrl": "https://open.spotify.com/track/1IXoLuOrxE9sBGiwtMnZHP"
+    },
+    {
+      "song": "Come and See Me (feat. Drake)",
+      "artist": "PARTYNEXTDOOR, Drake",
+      "album": "PARTYNEXTDOOR 3 (P3)",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851240b49b7795e0611ccf416b7",
+      "spotifyUrl": "https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr"
+    },
+    {
+      "song": "SAMMEN",
+      "artist": "Marstein, Annika",
+      "album": "FRIHET I LENKER",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
+      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
     },
     {
       "song": "Californication",
       "artist": "Red Hot Chili Peppers",
-      "album": "Hits of the 2000s",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511d32d62f4928cd8d97e1fafb",
-      "spotifyUrl": "https://open.spotify.com/track/2tw50t0G1tAZXWC5G7KRXp"
+      "album": "Californication (Deluxe Edition)",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+      "spotifyUrl": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
     },
     {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
+      "song": "Brother Run Fast",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
+      "spotifyUrl": "https://open.spotify.com/track/2MPMTqQ1lC8IuagDsd46bE"
     },
     {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Dec 03, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
+      "song": "The Shoe Fits",
+      "artist": "Drake",
+      "album": "For All The Dogs Scary Hours Edition",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d329886e89e51420478f4751",
+      "spotifyUrl": "https://open.spotify.com/track/3z91ibrazNnusM2nSVY2NR"
+    },
+    {
+      "song": "High You Are (Branchez Remix)",
+      "artist": "What So Not, Branchez",
+      "album": "High You Are (Remixes)",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512c9a82989cbb3deb021a7297",
+      "spotifyUrl": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u"
+    },
+    {
+      "song": "Can't Have Everything",
+      "artist": "Drake",
+      "album": "More Life",
+      "played": "Dec 04, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
+      "spotifyUrl": "https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W"
     }
   ]
 }
