@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-12-04T18:59:23.898099",
+  "lastUpdated": "2025-12-05T18:54:38.416896",
   "tracks": [
+    {
+      "song": "Wicked Games (feat. Anna Naklab) - Radio Edit",
+      "artist": "Parra for Cuva, Anna Naklab",
+      "album": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f2f0dd42bfacec09ba35db83",
+      "spotifyUrl": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+    },
+    {
+      "song": "Ekki Switcha",
+      "artist": "Birnir",
+      "album": "Ekki Switcha",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048513248813a15505de8862f668a",
+      "spotifyUrl": "https://open.spotify.com/track/1nEjslQgoXyJXWewc8SUTN"
+    },
+    {
+      "song": "SAMMEN",
+      "artist": "Marstein, Annika",
+      "album": "FRIHET I LENKER",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
+      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
+    },
+    {
+      "song": "Into My Mother's Arms",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
+      "spotifyUrl": "https://open.spotify.com/track/45CtXS6ShntJUFCyWyCHnC"
+    },
+    {
+      "song": "Skinny",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
+      "spotifyUrl": "https://open.spotify.com/track/2C4jYVZId6mxISa3HrBvGM"
+    },
+    {
+      "song": "Beautiful",
+      "artist": "Snoop Dogg, Pharrell Williams, Charlie Wilson",
+      "album": "Paid Tha Cost To Be Da Bo$$",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518cdb0d29bb99ad4febccac39",
+      "spotifyUrl": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
+    },
+    {
+      "song": "Beautiful",
+      "artist": "Snoop Dogg, Pharrell Williams, Charlie Wilson",
+      "album": "Paid Tha Cost To Be Da Bo$$",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518cdb0d29bb99ad4febccac39",
+      "spotifyUrl": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
+    },
+    {
+      "song": "SAMMEN",
+      "artist": "Marstein, Annika",
+      "album": "FRIHET I LENKER",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
+      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
+    },
+    {
+      "song": "Brother Run Fast",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
+      "spotifyUrl": "https://open.spotify.com/track/2MPMTqQ1lC8IuagDsd46bE"
+    },
+    {
+      "song": "Rich & Sad",
+      "artist": "Post Malone",
+      "album": "beerbongs & bentleys",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
+      "spotifyUrl": "https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc"
+    },
+    {
+      "song": "Twenty5ive",
+      "artist": "Levi Bent-Lee",
+      "album": "Dont Overthink It 2",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485193eae1dbc21b8b2b5dbf1dce",
+      "spotifyUrl": "https://open.spotify.com/track/7i1eE7DuqlslVPVq1naq5V"
+    },
+    {
+      "song": "Brother Run Fast",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
+      "spotifyUrl": "https://open.spotify.com/track/2MPMTqQ1lC8IuagDsd46bE"
+    },
+    {
+      "song": "No Complaints (feat. Offset & Drake) (Bonus)",
+      "artist": "Metro Boomin, Offset, Drake",
+      "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+      "played": "Dec 05, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512887f8c05b5a9f1cb105be29",
+      "spotifyUrl": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
+    },
     {
       "song": "Tattoo",
       "artist": "Loreen",
@@ -56,110 +160,6 @@
       "played": "Dec 04, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d000048519b4fee0d69849d0f8948c945",
       "spotifyUrl": "https://open.spotify.com/track/6AaOtHsKd195ec0Y4kC9ER"
-    },
-    {
-      "song": "BackOutsideBoyz",
-      "artist": "Drake",
-      "album": "Her Loss",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
-      "spotifyUrl": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
-    },
-    {
-      "song": "Lemonade (feat. NAV)",
-      "artist": "Internet Money, Gunna, Don Toliver, NAV",
-      "album": "B4 The Storm",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c4adc981dc6656e52c916088",
-      "spotifyUrl": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
-    },
-    {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517e394b5576ebfb26453dd5db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "song": "MUNYUN",
-      "artist": "Playboi Carti",
-      "album": "MUSIC",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
-      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
-    },
-    {
-      "song": "Draft Day",
-      "artist": "Drake",
-      "album": "Care Package",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
-      "spotifyUrl": "https://open.spotify.com/track/3W3FVHEDetkiRkkGKDmdir"
-    },
-    {
-      "song": "1344 Freestyle",
-      "artist": "Arif Murakami",
-      "album": "HighEnd / Asfalt",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485118b26df4505602575ca8df2f",
-      "spotifyUrl": "https://open.spotify.com/track/1IXoLuOrxE9sBGiwtMnZHP"
-    },
-    {
-      "song": "Come and See Me (feat. Drake)",
-      "artist": "PARTYNEXTDOOR, Drake",
-      "album": "PARTYNEXTDOOR 3 (P3)",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851240b49b7795e0611ccf416b7",
-      "spotifyUrl": "https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr"
-    },
-    {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "song": "Californication",
-      "artist": "Red Hot Chili Peppers",
-      "album": "Californication (Deluxe Edition)",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
-      "spotifyUrl": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
-    },
-    {
-      "song": "Brother Run Fast",
-      "artist": "KALEO",
-      "album": "Surface Sounds",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
-      "spotifyUrl": "https://open.spotify.com/track/2MPMTqQ1lC8IuagDsd46bE"
-    },
-    {
-      "song": "The Shoe Fits",
-      "artist": "Drake",
-      "album": "For All The Dogs Scary Hours Edition",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d329886e89e51420478f4751",
-      "spotifyUrl": "https://open.spotify.com/track/3z91ibrazNnusM2nSVY2NR"
-    },
-    {
-      "song": "High You Are (Branchez Remix)",
-      "artist": "What So Not, Branchez",
-      "album": "High You Are (Remixes)",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512c9a82989cbb3deb021a7297",
-      "spotifyUrl": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u"
-    },
-    {
-      "song": "Can't Have Everything",
-      "artist": "Drake",
-      "album": "More Life",
-      "played": "Dec 04, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
-      "spotifyUrl": "https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W"
     }
   ]
 }
