@@ -25,8 +25,7 @@ function Sidebar() {
     },
     en: { 
       about: "About", 
-      cv: "CV",
-      listening: "Listening",
+      cv: "CV", 
       projects: "Projects",
       inProgress: "Projects in Progress",
       githubProjects: "Github Projects",
@@ -35,8 +34,7 @@ function Sidebar() {
     },
     no: { 
       about: "Om meg", 
-      cv: "CV",
-      listening: "Nylig spilt",
+      cv: "CV", 
       projects: "Prosjekter",
       inProgress: "Prosjekter under arbeid",
       githubProjects: "Github Prosjekter",
