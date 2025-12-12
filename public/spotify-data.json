@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-12-11T18:59:26.767303",
+  "lastUpdated": "2025-12-12T18:57:59.368292",
   "tracks": [
+    {
+      "song": "DUMBO",
+      "artist": "Travis Scott",
+      "album": "JACKBOYS 2",
+      "played": "Dec 12, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512b626403795e833edc373e2e",
+      "spotifyUrl": "https://open.spotify.com/track/7y6RcmZyMDZ49yVupz7JdO"
+    },
+    {
+      "song": "Girls Want Girls (with Lil Baby)",
+      "artist": "Drake, Lil Baby",
+      "album": "Certified Lover Boy",
+      "played": "Dec 12, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
+    },
     {
       "song": "SAMMEN",
       "artist": "Marstein, Annika",
@@ -144,22 +160,6 @@
       "played": "Dec 10, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
       "spotifyUrl": "https://open.spotify.com/track/2MPMTqQ1lC8IuagDsd46bE"
-    },
-    {
-      "song": "Congratulations",
-      "artist": "Post Malone, Quavo",
-      "album": "Stoney (Deluxe)",
-      "played": "Dec 10, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-      "spotifyUrl": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
-    },
-    {
-      "song": "Congratulations",
-      "artist": "Post Malone, Quavo",
-      "album": "Stoney (Deluxe)",
-      "played": "Dec 10, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-      "spotifyUrl": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
     }
   ]
 }
