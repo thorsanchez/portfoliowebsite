@@ -12,25 +12,41 @@
 .projects-list {
   display: flex;
   flex-direction: column;
-  gap: 6rem;
+  gap: 0;
 }
 
-/* hver verkefni item */
+/* hver verkefni item - compact list style */
 .project-item {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #e0e0e0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.project-item:hover {
+  background-color: #fafafa;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+
+/* expanded state - show grid layout */
+.project-item.expanded {
   display: grid;
   grid-template-columns: 400px 1fr;
   gap: 4rem;
   align-items: start;
-  max-width: 100%;
-  cursor: pointer;
-  transition: all 0.3s ease;
+  padding: 2rem 0;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 /* verkefni text section */
 .project-text {
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
+  gap: 0.5rem;
   color: #1a1a1a;
 }
 
@@ -38,26 +54,51 @@
   color: #7c3aed;
 }
 
+.project-item.expanded .project-text {
+  gap: 0.75rem;
+}
+
 .project-title {
   font-size: 0.75rem;
   font-weight: 600;
-  color: inherit; 
+  color: inherit;
   line-height: 1.1;
   margin: 0;
 }
 
 .project-tag {
-  font-size: 1.875rem;
+  font-size: 1.25rem;
   font-weight: 700;
   color: inherit;
   letter-spacing: 0.5px;
   text-transform: uppercase;
   margin: 0;
-  order: -1;
+}
+
+.project-item.expanded .project-tag {
+  font-size: 1.875rem;
   border-bottom: 1px solid #e0e0e0;
   padding-bottom: 1rem;
-  display: inline-block; 
-  width: fit-content; 
+  display: inline-block;
+  width: fit-content;
+}
+
+/* Summary - one line description */
+.project-summary {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #666;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.project-item.expanded .project-summary {
+  display: none;
+}
+
+/* Details - shown when expanded */
+.project-details {
+  margin-top: 1rem;
 }
 
 .project-description {
@@ -67,6 +108,22 @@
   line-height: 1.6;
   margin: 0;
   margin-top: 1rem;
+}
+
+.project-link {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #7c3aed;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.project-link:hover {
+  background-color: #6d28d9;
 }
 
 /* visual section */
@@ -125,7 +182,7 @@
 
 /* responsive */
 @media (max-width: 968px) {
-  .project-item {
+  .project-item.expanded {
     grid-template-columns: 1fr;
     gap: 2rem;
     display: flex;
@@ -146,12 +203,16 @@
     margin-bottom: 3rem;
   }
 
-  .projects-list {
-    gap: 4rem;
-  }
-  
   .project-tag {
+    font-size: 1.125rem;
+  }
+
+  .project-item.expanded .project-tag {
     font-size: 1.5rem;
+  }
+
+  .project-summary {
+    font-size: 0.9rem;
   }
 
   .project-description {
@@ -164,12 +225,13 @@
     padding: 1rem 1.5rem;
   }
 
-  .projects-list {
-    gap: 3rem;
+  .project-item {
+    padding: 1.25rem 0;
   }
 
-  .project-item {
+  .project-item.expanded {
     gap: 1.5rem;
+    padding: 1.5rem 0;
   }
 
   .project-text {
@@ -177,8 +239,16 @@
   }
 
   .project-tag {
+    font-size: 1.1rem;
+  }
+
+  .project-item.expanded .project-tag {
     font-size: 1.25rem;
     padding-bottom: 0.75rem;
+  }
+
+  .project-summary {
+    font-size: 0.85rem;
   }
 
   .project-description {
@@ -198,8 +268,20 @@
     margin-bottom: 2rem;
   }
 
+  .project-item {
+    padding: 1rem 0;
+  }
+
   .project-tag {
+    font-size: 1rem;
+  }
+
+  .project-item.expanded .project-tag {
     font-size: 1.1rem;
+  }
+
+  .project-summary {
+    font-size: 0.8rem;
   }
 
   .project-description {
@@ -209,10 +291,6 @@
 
   .project-visual {
     height: 250px;
-  }
-
-  .projects-list {
-    gap: 2.5rem;
   }
 }
 
@@ -225,11 +303,28 @@
     font-size: 1.5rem;
   }
 
+  .project-item {
+    padding: 0.875rem 0;
+  }
+
   .project-tag {
+    font-size: 0.95rem;
+  }
+
+  .project-item.expanded .project-tag {
     font-size: 1rem;
+  }
+
+  .project-summary {
+    font-size: 0.75rem;
   }
 
   .project-visual {
     height: 220px;
+  }
+
+  .project-link {
+    font-size: 0.9rem;
+    padding: 0.625rem 1.25rem;
   }
 }
