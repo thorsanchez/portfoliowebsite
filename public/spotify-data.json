@@ -1,147 +1,123 @@
 {
-  "lastUpdated": "2025-12-29T18:57:03.560011",
+  "lastUpdated": "2025-12-30T18:58:44.737117",
   "tracks": [
     {
-      "song": "Move On",
-      "artist": "Kevin Powers, Shaboozey",
-      "album": "Move On",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
-      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+      "song": "Nothing Without You",
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a048415db06a5b6fa7ec4e1a",
+      "spotifyUrl": "https://open.spotify.com/track/3Te3gG6MPEDNqLGzWrjKC3"
+    },
+    {
+      "song": "Vienna",
+      "artist": "Billy Joel",
+      "album": "The Stranger (Legacy Edition)",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+      "spotifyUrl": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+    },
+    {
+      "song": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future, Drake, Tems",
+      "album": "I NEVER LIKED YOU",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048511692599c8c0f98e470c68106",
+      "spotifyUrl": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "song": "Headlines",
+      "artist": "Drake",
+      "album": "Take Care (Deluxe)",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c7ea04a9b455e3f68ef82550",
+      "spotifyUrl": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
     },
     {
       "song": "Move On",
       "artist": "Kevin Powers, Shaboozey",
       "album": "Move On",
-      "played": "Dec 29, 2025",
+      "played": "Dec 30, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
       "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
     },
     {
-      "song": "Move On",
-      "artist": "Kevin Powers, Shaboozey",
-      "album": "Move On",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
-      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
-    },
-    {
-      "song": "First Person Shooter (feat. J. Cole)",
-      "artist": "Drake, J. Cole",
-      "album": "For All The Dogs Scary Hours Edition",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d329886e89e51420478f4751",
-      "spotifyUrl": "https://open.spotify.com/track/6ltWTSzsV2TaSsOhoA8eBC"
-    },
-    {
-      "song": "Heartless (with Julia Michaels & Morgan Wallen)",
-      "artist": "Diplo, Julia Michaels, Morgan Wallen",
-      "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d79c10cdf4a58309a37d195a",
-      "spotifyUrl": "https://open.spotify.com/track/0VFQC71dmUjuW5bU5Ewdmg"
-    },
-    {
-      "song": "New Light",
-      "artist": "John Mayer",
-      "album": "Sob Rock",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851779063301154e835a91a35e0",
-      "spotifyUrl": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
-    },
-    {
-      "song": "Move On",
-      "artist": "Kevin Powers, Shaboozey",
-      "album": "Move On",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
-      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
-    },
-    {
-      "song": "Cheap Thrills (feat. Sean Paul)",
-      "artist": "Sia, Sean Paul",
-      "album": "This Is Acting",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fc36b265066a58e205ecbd5c",
-      "spotifyUrl": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
-    },
-    {
-      "song": "Catch & Release - Deepend Remix",
-      "artist": "Matt Simons, Deepend",
-      "album": "Catch & Release (Deepend Remix)",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485113011cb6b649a4eccddbdb04",
-      "spotifyUrl": "https://open.spotify.com/track/4X99feVnw46VIk2VNqWWL3"
-    },
-    {
-      "song": "I'll Show You",
-      "artist": "Justin Bieber",
-      "album": "Purpose (Deluxe)",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f46b9d202509a8f7384b90de",
-      "spotifyUrl": "https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc"
-    },
-    {
-      "song": "Rich & Sad",
+      "song": "92 Explorer",
       "artist": "Post Malone",
       "album": "beerbongs & bentleys",
-      "played": "Dec 29, 2025",
+      "played": "Dec 30, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
-      "spotifyUrl": "https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc"
+      "spotifyUrl": "https://open.spotify.com/track/1D2L6MefbXon28PzIk9I3r"
     },
     {
-      "song": "Bootsy Bellows",
-      "artist": "Wiz Khalifa",
-      "album": "Rolling Papers 2",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851393d29e88d493bdab8af1617",
-      "spotifyUrl": "https://open.spotify.com/track/1TFsOckh4vFv092jOS0SHj"
-    },
-    {
-      "song": "KICK OUT",
-      "artist": "Travis Scott",
-      "album": "JACKBOYS 2",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c9e25378bc8de02341f3db99",
-      "spotifyUrl": "https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw"
-    },
-    {
-      "song": "Bottomland",
-      "artist": "HARDY",
-      "album": "Bottomland",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bf3cf76b21a941993925cf8a",
-      "spotifyUrl": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
-    },
-    {
-      "song": "Your Place At My Place",
-      "artist": "Joshua Slone",
-      "album": "Thinking Too Much",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eef28bc00361c492918ef127",
-      "spotifyUrl": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
-    },
-    {
-      "song": "Cold (feat. Post Malone)",
-      "artist": "BigXthaPlug, Post Malone",
-      "album": "I Hope You're Happy (Deluxe)",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485137dae0cb3a9fdb6d7838b176",
-      "spotifyUrl": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
-    },
-    {
-      "song": "Heart of Stone",
-      "artist": "Jelly Roll",
-      "album": "Beautifully Broken (Pickin’ Up The Pieces)",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d48a214080d6d848654c5a41",
-      "spotifyUrl": "https://open.spotify.com/track/6kMhR33cCmIieswEFhgNjr"
+      "song": "Bærum Bitches (Mannschaft)",
+      "artist": "Søte & Rare",
+      "album": "Bærum Bitches (Mannschaft)",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517a4518001e82312f9bffe806",
+      "spotifyUrl": "https://open.spotify.com/track/3ZNOlf3hO8Lhnpvg2iF16D"
     },
     {
       "song": "Choosin' Texas",
       "artist": "Ella Langley",
       "album": "Choosin' Texas",
-      "played": "Dec 29, 2025",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485190958927fbba47a62c3e63f8",
+      "spotifyUrl": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "song": "Love$ick (feat. A$AP Rocky)",
+      "artist": "Mura Masa, A$AP Rocky",
+      "album": "Mura Masa",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516818aa231aa543cf87e1374a",
+      "spotifyUrl": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
+    },
+    {
+      "song": "Infinity 2008 - Klaas Vocal Edit",
+      "artist": "Guru Josh Project, Klaas",
+      "album": "Infinity 2008",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516500b68b5138f81d895654b5",
+      "spotifyUrl": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
+    },
+    {
+      "song": "21 Questions",
+      "artist": "50 Cent, Nate Dogg",
+      "album": "Get Rich Or Die Tryin'",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d843fabb75fef14010e30cae",
+      "spotifyUrl": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"
+    },
+    {
+      "song": "Move On",
+      "artist": "Kevin Powers, Shaboozey",
+      "album": "Move On",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
+      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+    },
+    {
+      "song": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "album": "Beauty Behind The Madness",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
+      "spotifyUrl": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+    },
+    {
+      "song": "Arms Around You (feat. Maluma & Swae Lee)",
+      "artist": "XXXTENTACION, Lil Pump, Swae Lee, Maluma",
+      "album": "Arms Around You (feat. Maluma & Swae Lee)",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048511b1d1823101ce99cfb488031",
+      "spotifyUrl": "https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh"
+    },
+    {
+      "song": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "album": "Choosin' Texas",
+      "played": "Dec 30, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485190958927fbba47a62c3e63f8",
       "spotifyUrl": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
@@ -149,17 +125,41 @@
       "song": "Move On",
       "artist": "Kevin Powers, Shaboozey",
       "album": "Move On",
-      "played": "Dec 29, 2025",
+      "played": "Dec 30, 2025",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
       "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
     },
     {
-      "song": "That's My N**** (with Meek Mill, YG & Snoop Dogg)",
-      "artist": "Meek Mill, YG, Snoop Dogg",
-      "album": "That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",
-      "played": "Dec 29, 2025",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512a2f776c2c91ad03ae4fbed2",
-      "spotifyUrl": "https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr"
+      "song": "Move On",
+      "artist": "Kevin Powers, Shaboozey",
+      "album": "Move On",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
+      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+    },
+    {
+      "song": "Move On",
+      "artist": "Kevin Powers, Shaboozey",
+      "album": "Move On",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
+      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+    },
+    {
+      "song": "Move On",
+      "artist": "Kevin Powers, Shaboozey",
+      "album": "Move On",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
+      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+    },
+    {
+      "song": "Overdrive",
+      "artist": "Post Malone",
+      "album": "Overdrive",
+      "played": "Dec 30, 2025",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485172694fed173af6d24d22eefb",
+      "spotifyUrl": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
     }
   ]
 }
