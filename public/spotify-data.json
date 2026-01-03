@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-01-02T18:56:31.481793",
+  "lastUpdated": "2026-01-03T18:55:31.172569",
   "tracks": [
+    {
+      "song": "Hun bruker meg (feat. Seyem)",
+      "artist": "Arif Murakami, Seyem",
+      "album": "Aldri & Alltid",
+      "played": "Jan 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485146499bb51872d2d05c653e84",
+      "spotifyUrl": "https://open.spotify.com/track/7gFz2qCxMV1ruaEpzxZwUn"
+    },
+    {
+      "song": "Going Bad (feat. Drake)",
+      "artist": "Meek Mill, Drake",
+      "album": "Championships",
+      "played": "Jan 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd63c5962050729d260077d6",
+      "spotifyUrl": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "song": "Feimin(n)",
+      "artist": "BRÍET, palmi., Aron Can",
+      "album": "Feimin(n)",
+      "played": "Jan 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512b36fdec6d66444ee7b17d93",
+      "spotifyUrl": "https://open.spotify.com/track/4ghyCuq2oPDacJOJUROSMS"
+    },
+    {
+      "song": "Move On",
+      "artist": "Kevin Powers, Shaboozey",
+      "album": "Move On",
+      "played": "Jan 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
+      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+    },
+    {
+      "song": "Way Down We Go",
+      "artist": "KALEO",
+      "album": "A/B",
+      "played": "Jan 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485121f46fc863130ef2d5ccd57d",
+      "spotifyUrl": "https://open.spotify.com/track/7ePk6EYEvFmKTJDhquomnj"
+    },
     {
       "song": "Way Down We Go",
       "artist": "KALEO",
@@ -120,46 +160,6 @@
       "played": "Jan 02, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048518752a7355996e64709247c53",
       "spotifyUrl": "https://open.spotify.com/track/7pas6O1LYbaeChEFQBhPFU"
-    },
-    {
-      "song": "DA WIZARD",
-      "artist": "Travis Scott",
-      "album": "JACKBOYS 2",
-      "played": "Jan 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c9e25378bc8de02341f3db99",
-      "spotifyUrl": "https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW"
-    },
-    {
-      "song": "What Now",
-      "artist": "Rihanna",
-      "album": "Unapologetic (Deluxe)",
-      "played": "Jan 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516dee21d6cd1823e4d6231d37",
-      "spotifyUrl": "https://open.spotify.com/track/2RWs4c3ZJ74WwXlVC3QCQN"
-    },
-    {
-      "song": "Somebody's Watching Me - Deepend Remix",
-      "artist": "Chico Rose, 71 Digits, Deepend",
-      "album": "Somebody's Watching Me (Deepend Remix)",
-      "played": "Jan 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38dc48ae9aca78b7befbbfc",
-      "spotifyUrl": "https://open.spotify.com/track/5f4eJd680Vy3ojJEgoX89g"
-    },
-    {
-      "song": "COFFEE BEAN",
-      "artist": "Travis Scott",
-      "album": "ASTROWORLD",
-      "played": "Jan 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851daec894c14c0ca42d76eeb32",
-      "spotifyUrl": "https://open.spotify.com/track/6vnfObZ4Ys70SBAtti1xZ9"
-    },
-    {
-      "song": "How You Remind Me",
-      "artist": "Nickelback",
-      "album": "Silver Side Up",
-      "played": "Jan 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851699a422d25adc550dc5aa11c",
-      "spotifyUrl": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
     }
   ]
 }
