@@ -10,7 +10,7 @@ function Verkefnivinnsla() {
 
   const content = {
     is: {
-      title: "Verkefni í vinnslu",
+      title: "Nýleg verkefni",
       projects: {
         finndu: {
           tag: "Finndu",
@@ -41,7 +41,7 @@ function Verkefnivinnsla() {
       }
     },
     en: {
-      title: "Projects in Progress",
+      title: "Recent Work",
       projects: {
         finndu: {
           tag: "Finndu",
@@ -72,7 +72,7 @@ function Verkefnivinnsla() {
     }
     },
     no: {
-      title: "Prosjekter under arbeid",
+      title: "Nylige prosjekter",
       projects: {
         finndu: {
           tag: "Finndu",
