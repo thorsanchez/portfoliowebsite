@@ -37,6 +37,11 @@ function Verkefnivinnsla() {
             "Notendur geta fylgst með tölfræði um árangur sinn, deilt afrekum og fengið hjálp þegar þeir eiga erfitt með löngun eða fráhvörf.",
             "Tæknistafli: React Native, Expo, TypeScript, AsyncStorage"
           ]
+        },
+        automation: {
+          tag: "Automation",
+          summary: "AI workflows",
+          description: "Repo af AI workflows til að automatisera incident responses, greina feedback og vinna úr data."
         }
       }
     },
@@ -68,6 +73,11 @@ function Verkefnivinnsla() {
             "Users can view progress statistics, share achievements, and get help when struggling with cravings or withdrawal.",
             "Tech stack: React Native, Expo, TypeScript, AsyncStorage"
           ]
+        },
+        automation: {
+          tag: "Automation",
+          summary: "AI workflows",
+          description: ["Collection of AI workflows I built for automating incident responses, analyzing feedback, and processing data"]
         }
     }
     },
@@ -99,6 +109,12 @@ function Verkefnivinnsla() {
             "Brukerne kan se statistikk over fremgangen sin, dele prestasjoner og få hjelp når de sliter med cravings eller abstinenser.",
             "Teknologistack: React Native, Expo, TypeScript, AsyncStorage"
           ]
+        },
+        automation: {
+          tag: "Automation",
+          summary: "AI workflows",
+          description: ["Repo av AI workflows jeg bygde",
+          "for å automatisere hendelsesrespons, analysere tilbakemeldinger og behandle data"]
         }
       }
     }
@@ -132,6 +148,13 @@ function Verkefnivinnsla() {
   const projects = [
     {
       id: 1,
+      tag: text.projects.automation.tag,
+      summary: text.projects.automation.summary,
+      description: text.projects.automation.description,
+      link: "https://github.com/thorsanchez/automation"
+    },
+    {
+      id: 2,
       tag: text.projects.haetta.tag,
       summary: text.projects.haetta.summary,
       description: text.projects.haetta.description,
@@ -139,7 +162,7 @@ function Verkefnivinnsla() {
 
     },
     {
-      id: 2,
+      id: 3,
       tag: text.projects.finndu.tag,
       summary: text.projects.finndu.summary,
       description: text.projects.finndu.description,
@@ -147,7 +170,7 @@ function Verkefnivinnsla() {
       link: "https://finnd2-0.vercel.app/login?next=/profile"
     },
     {
-      id: 3,
+      id: 4,
       tag: text.projects.primeDice.tag,
       summary: text.projects.primeDice.summary,
       description: text.projects.primeDice.description,
@@ -198,7 +221,7 @@ function Verkefnivinnsla() {
                           className="project-link"
                           onClick={(e) => e.stopPropagation()}
                         >
-                          Vefsíða →
+                          {project.id === 1 ? 'Repo →' : 'Vefsíða →'}
                         </a>
                       )}
                     </div>
