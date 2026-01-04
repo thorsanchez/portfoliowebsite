@@ -47,10 +47,10 @@ function CV() {
         backendList: "Node.js, Express, PostgreSQL, REST API, JWT, .NET",
         programming: "Gagnavinnsla & gervigreind:",
         programmingList: "Python (pandas, numpy), NLP, textaflokkun, transformer-líkön, grunnskilningur á mállíkönum",
-        ai: "Gervigreind / Gögn:",
-        aiList: "Reynsla af Python NLP bókasöfnum, textaflokkun og transformer-líkönum.",
-        blockchain: "Bálkakeðja:",
-        blockchainList: "Grunnskilningur á snjallsamningum og dApps"
+        webDev: "Veflausnir:",
+        webDevList: "HTML, CSS, React, Next.js, Tailwind CSS",
+        blockchain: "Annað:",
+        blockchainList: "Grunnskilningur á blockchain, snjallsamningum og dApps"
       },
       
       interestsList: [
@@ -94,10 +94,10 @@ function CV() {
         backendList: "Node.js, Express, REST API, JWT, PostgreSQL, .NET",
         programming: "Data Processing & Artificial Intelligence:",
         programmingList: "Python (pandas, numpy), NLP, text classification, transformer models, basic understanding of language models",
-        ai: "AI / Data:",
-        aiList: "Experience with Python NLP libraries, text classification, and transformer models.",
-        blockchain: "Blockchain:",
-        blockchainList: "Basic understanding of smart contracts and dApps"
+        webDev: "Web Solutions:",
+        webDevList: "HTML, CSS, React, Next.js, Tailwind CSS",
+        blockchain: "Other:",
+        blockchainList: "Basic understanding of blockchain, smart contracts, and dApps"
       },
       
       interestsList: [
@@ -141,10 +141,10 @@ function CV() {
         backendList: "Node.js, Express, REST API, JWT, PostgreSQL, .NET",
         programming: "Databehandling & kunstig intelligens:",
         programmingList: "Python (pandas, numpy), NLP, tekstklassifisering, transformer-modeller, grunnleggende forståelse av språkmodeller",
-        ai: "Kunstig intelligens / Data:",
-        aiList: "Erfaring med Python NLP-biblioteker, tekstklassifisering og transformermodeller.",
-        blockchain: "Blockchain:",
-        blockchainList: "Grunnleggende forståelse av smart contracts og dApps"
+        webDev: "Web Solutions:",
+        webDevList: "HTML, CSS, React, Next.js, Tailwind CSS",
+        blockchain: "Annet:",
+        blockchainList: "Grunnleggende forståelse av blockchain, smarte kontrakter og dApps"
       },
       
       interestsList: [
@@ -277,7 +277,7 @@ function CV() {
             <strong>{text.skills.codeLanguage}</strong> {text.skills.codeLanguageList}
             <p><strong>{text.skills.backend}</strong> {text.skills.backendList}</p>
             <p><strong>{text.skills.programming}</strong> {text.skills.programmingList}</p>
-            <p><strong>{text.skills.ai}</strong> {text.skills.aiList}</p>
+            <p><strong>{text.skills.webDev}</strong> {text.skills.webDevList}</p>
             <p><strong>{text.skills.blockchain}</strong> {text.skills.blockchainList}</p>
           </div>
         </div>
