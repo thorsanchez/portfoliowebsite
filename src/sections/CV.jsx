@@ -8,8 +8,8 @@ function CV() {
     // opna mismunandi cv eftir tungumal
     const cvFiles = {
       is: '/cv_thor_is.pdf',
-      en: '/cv-thor-en.pdf',
-      no: '/cv-thor-en.pdf' // a eftir að bua til norskt cv
+      en: '/cv_thor_en.pdf',
+      no: '/cv_thor_en.pdf' // a eftir að bua til norskt cv
     };
     // pdf i new tab
     window.open(cvFiles[currentLanguage]);
