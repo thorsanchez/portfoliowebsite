@@ -7,7 +7,7 @@ function CV() {
   const handleViewCV = () => {
     // opna mismunandi cv eftir tungumal
     const cvFiles = {
-      is: '/cv-thor-is.pdf',
+      is: '/cv_thor_is.pdf',
       en: '/cv-thor-en.pdf',
       no: '/cv-thor-en.pdf' // a eftir að bua til norskt cv
     };
@@ -55,12 +55,11 @@ function CV() {
       },
       
       interestsList: [
-        "Tækni og nýsköpun",
-        "Fótbolti, hlaup og líkamsrækt",
-        "Öpp og vefsíðugerð",
+        "Gervigreind og ný tækni",
+        "Fótbolti, þríþraut og líkamsrækt",
         "Fjármál",
         "Forritun",
-        "Gervigreind og LLM-módel"
+        "líkamsrækt"
       ]
     },
     
