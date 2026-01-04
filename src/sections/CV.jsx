@@ -28,7 +28,7 @@ function CV() {
       
       jobs: {
         dropp: "Skrifstofuvinna og sendill hjá Dropp",
-        cosan: "Skrifstofuvinna hjá Cosan",
+        cosan: "Tækniverktaki hjá Cosan & Ortopedia",
         fimir: "Byggingarvinnu hjá Fimir ehf"
       },
       
@@ -41,12 +41,12 @@ function CV() {
       },
       
       skills: {
-        webDev: "Vefþróun:",
-        webDevList: "React, Next.js, HTML, CSS, Tailwind CSS, JavaScript",
+        codeLanguage: "Forritunarmál:",
+        codeLanguageList: "Python, JavaScript, TypeScript, Java",
         backend: "Bakendi og API:",
         backendList: "Node.js, Express, PostgreSQL, REST API, JWT, .NET",
-        programming: "Forritunarmál:",
-        programmingList: "Java, Python, Kotlin, JavaScript, TypeScript, Morpho",
+        programming: "Gagnavinnsla & gervigreind:",
+        programmingList: "Python (pandas, numpy), NLP, textaflokkun, transformer-líkön, grunnskilningur á mállíkönum",
         ai: "Gervigreind / Gögn:",
         aiList: "Reynsla af Python NLP bókasöfnum, textaflokkun og transformer-líkönum.",
         blockchain: "Bálkakeðja:",
@@ -88,12 +88,12 @@ function CV() {
       },
       
       skills: {
-        webDev: "Web Development:",
-        webDevList: "React, Next.js, HTML, CSS, Tailwind CSS, JavaScript",
+        codeLanguage: "Programming Langauges:",
+        codeLanguageList: "Python, JavaScript, TypeScript, Java",
         backend: "Backend and API:",
-        backendList: "Node.js, Express, PostgreSQL, REST API, JWT, .NET",
-        programming: "Programming Languages:",
-        programmingList: "Java, Python, Kotlin, JavaScript, TypeScript, Morpho",
+        backendList: "Node.js, Express, REST API, JWT, PostgreSQL, .NET",
+        programming: "Data Processing & Artificial Intelligence:",
+        programmingList: "Python (pandas, numpy), NLP, text classification, transformer models, basic understanding of language models",
         ai: "AI / Data:",
         aiList: "Experience with Python NLP libraries, text classification, and transformer models.",
         blockchain: "Blockchain:",
@@ -135,12 +135,12 @@ function CV() {
       },
       
       skills: {
-        webDev: "Webutvikling:",
-        webDevList: "React, Next.js, HTML, CSS, Tailwind CSS, JavaScript",
+        codeLanguage: "Programmeringsspråk:",
+        codeLanguageList: "Python, JavaScript, TypeScript, Java",
         backend: "Backend og API:",
-        backendList: "Node.js, Express, PostgreSQL, REST API, JWT, .NET",
-        programming: "Programmeringsspråk:",
-        programmingList: "Java, Python, Kotlin, JavaScript, TypeScript, Morpho",
+        backendList: "Node.js, Express, REST API, JWT, PostgreSQL, .NET",
+        programming: "Databehandling & kunstig intelligens:",
+        programmingList: "Python (pandas, numpy), NLP, tekstklassifisering, transformer-modeller, grunnleggende forståelse av språkmodeller",
         ai: "Kunstig intelligens / Data:",
         aiList: "Erfaring med Python NLP-biblioteker, tekstklassifisering og transformermodeller.",
         blockchain: "Blockchain:",
@@ -274,7 +274,7 @@ function CV() {
         <div className="experience-period"><strong>{text.experience}</strong></div>
         <div className="experience-details">
           <div className="experience-title">
-            <strong>{text.skills.webDev}</strong> {text.skills.webDevList}
+            <strong>{text.skills.codeLanguage}</strong> {text.skills.codeLanguageList}
             <p><strong>{text.skills.backend}</strong> {text.skills.backendList}</p>
             <p><strong>{text.skills.programming}</strong> {text.skills.programmingList}</p>
             <p><strong>{text.skills.ai}</strong> {text.skills.aiList}</p>
