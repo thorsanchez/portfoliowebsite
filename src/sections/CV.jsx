@@ -21,7 +21,8 @@ function CV() {
       education: "Menntun",
       other: "Annað",
       languages: "Tungumál",
-      experience: "Ég hef ágætis reynslu í",
+      experience: `Ég hef ágætis
+      reynslu í`,
       interests: "Áhugamál",
       downloadCV: "Skoða ferilskrá",
       languagesList: "Íslenska, Norska og Enska",

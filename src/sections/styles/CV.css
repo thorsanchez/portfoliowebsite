@@ -32,6 +32,7 @@
     color: rgb(3, 0, 0);
     flex-shrink: 0;
     font-size: 0.95rem;
+    white-space: pre-line;
   }
   
   .experience-details {
