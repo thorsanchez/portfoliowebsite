@@ -1,6 +1,150 @@
 {
-  "lastUpdated": "2026-01-04T18:55:25.479165",
+  "lastUpdated": "2026-01-05T19:00:19.953565",
   "tracks": [
+    {
+      "song": "Vopn",
+      "artist": "Birnir, Aron Can",
+      "album": "Dyrnar",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
+      "spotifyUrl": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
+    },
+    {
+      "song": "Vopn",
+      "artist": "Birnir, Aron Can",
+      "album": "Dyrnar",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
+      "spotifyUrl": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
+    },
+    {
+      "song": "BUTTERFLY EFFECT",
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851daec894c14c0ca42d76eeb32",
+      "spotifyUrl": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
+    },
+    {
+      "song": "Ela É do Tipo (feat. Drake) [Remix]",
+      "artist": "MC Kevin o Chris, Drake",
+      "album": "Ela É do Tipo (feat. Drake) [Remix]",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485125c0a26ca22419123b3c5563",
+      "spotifyUrl": "https://open.spotify.com/track/5Wcvle7c2jTMh5FFimP6Dw"
+    },
+    {
+      "song": "Tall Boy",
+      "artist": "Shaboozey",
+      "album": "Cowboys Live Forever, Outlaws Never Die",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bde800b5e63d8874bd427614",
+      "spotifyUrl": "https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H"
+    },
+    {
+      "song": "Call Waiting",
+      "artist": "Wiz Khalifa",
+      "album": "Khalifa",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519ea6475714bbe0e9c5747fe8",
+      "spotifyUrl": "https://open.spotify.com/track/0FFLIz3Tl2A85Dhsa7ayrT"
+    },
+    {
+      "song": "Hurricane",
+      "artist": "Kanye West, The Weeknd, Lil Baby",
+      "album": "Donda",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cad190f1a73c024e5a40dddd",
+      "spotifyUrl": "https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF"
+    },
+    {
+      "song": "I'm On A Boat",
+      "artist": "The Lonely Island, T-Pain",
+      "album": "Incredibad",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851380381d633bf3b5a8357f17f",
+      "spotifyUrl": "https://open.spotify.com/track/3IQSYqnKsCTMLWn2xE3HFT"
+    },
+    {
+      "song": "Ivy",
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+      "spotifyUrl": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+    },
+    {
+      "song": "Family Matters",
+      "artist": "Drake",
+      "album": "Family Matters",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a0ac23f4b446a7264e67bf0e",
+      "spotifyUrl": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "song": "Lætur mig",
+      "artist": "GDRN, Floni, Ra:tio",
+      "album": "Hvað ef",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485191a448b075d7cdf76e8c776f",
+      "spotifyUrl": "https://open.spotify.com/track/3Vm9BiZiTiAJJomqGExQbb"
+    },
+    {
+      "song": "Your Place At My Place",
+      "artist": "Joshua Slone",
+      "album": "Thinking Too Much",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eef28bc00361c492918ef127",
+      "spotifyUrl": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
+    },
+    {
+      "song": "Your Place At My Place",
+      "artist": "Joshua Slone",
+      "album": "Thinking Too Much",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eef28bc00361c492918ef127",
+      "spotifyUrl": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
+    },
+    {
+      "song": "Vopn",
+      "artist": "Birnir, Aron Can",
+      "album": "Dyrnar",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
+      "spotifyUrl": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
+    },
+    {
+      "song": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "album": "Choosin' Texas",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485190958927fbba47a62c3e63f8",
+      "spotifyUrl": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "song": "Move On",
+      "artist": "Kevin Powers, Shaboozey",
+      "album": "Move On",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
+      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+    },
+    {
+      "song": "Your Place At My Place",
+      "artist": "Joshua Slone",
+      "album": "Thinking Too Much",
+      "played": "Jan 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eef28bc00361c492918ef127",
+      "spotifyUrl": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
+    },
+    {
+      "song": "DUMMY (feat. TrifeDrew)",
+      "artist": "6ix9ine, TrifeDrew",
+      "album": "DUMMY BOY (Revised)",
+      "played": "Jan 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510a4da3f1a72e4ecaabb76370",
+      "spotifyUrl": "https://open.spotify.com/track/5XJ3VZJ5sY6eueofr2QyF0"
+    },
     {
       "song": "Replace Me (feat. Big Sean & Don Toliver)",
       "artist": "Nas, Big Sean, Don Toliver",
@@ -16,150 +160,6 @@
       "played": "Jan 04, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048516ff25c2481eeaf6e7284d461",
       "spotifyUrl": "https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a"
-    },
-    {
-      "song": "Your Place At My Place",
-      "artist": "Joshua Slone",
-      "album": "Thinking Too Much",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eef28bc00361c492918ef127",
-      "spotifyUrl": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
-    },
-    {
-      "song": "Tappat",
-      "artist": "Victor Leksell",
-      "album": "Fånga mig när jag faller",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485169bd44e2bd1761d4979d0c1f",
-      "spotifyUrl": "https://open.spotify.com/track/6pgZeXZxdJM8uG7DB52SPj"
-    },
-    {
-      "song": "Move On",
-      "artist": "Kevin Powers, Shaboozey",
-      "album": "Move On",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
-      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
-    },
-    {
-      "song": "'Til You Can't",
-      "artist": "Cody Johnson",
-      "album": "Human The Double Album",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d249311c1e8dcf6d91d35558",
-      "spotifyUrl": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
-    },
-    {
-      "song": "Hvar á ég að byrja?",
-      "artist": "Aron Can",
-      "album": "Trúpíter",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851006161a49d04098b4d7edbcf",
-      "spotifyUrl": "https://open.spotify.com/track/6NYwRaRRzU4NmaxdnQrcV5"
-    },
-    {
-      "song": "Roses - Imanbek Remix",
-      "artist": "SAINt JHN, Imanbek",
-      "album": "Roses (Imanbek Remix)",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b340b496cb7c38d727ff40be",
-      "spotifyUrl": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
-    },
-    {
-      "song": "Your Place At My Place",
-      "artist": "Joshua Slone",
-      "album": "Thinking Too Much",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eef28bc00361c492918ef127",
-      "spotifyUrl": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
-    },
-    {
-      "song": "Jeg vil ha (Parlamentet)",
-      "artist": "Fjellrev, Roc Meiniac",
-      "album": "Jeg vil ha (Parlamentet)",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485123d6c12a8f8c4e58550d1674",
-      "spotifyUrl": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
-    },
-    {
-      "song": "Brother Run Fast",
-      "artist": "KALEO",
-      "album": "Surface Sounds",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
-      "spotifyUrl": "https://open.spotify.com/track/2MPMTqQ1lC8IuagDsd46bE"
-    },
-    {
-      "song": "Rólegur kúreki",
-      "artist": "BRÍET",
-      "album": "Kveðja, Bríet",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485165a6cb121b944cc9a6d5e752",
-      "spotifyUrl": "https://open.spotify.com/track/1Riv4d4nqpQVxArPLsk4s0"
-    },
-    {
-      "song": "Far",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/47aQ5I2w61UjVrSv27gFdp"
-    },
-    {
-      "song": "It Feels So Good",
-      "artist": "Matt Sassari, HUGEL, Sonique",
-      "album": "It Feels So Good",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851aa7df9183be7f3bb8c8ad4bc",
-      "spotifyUrl": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
-    },
-    {
-      "song": "Last Night",
-      "artist": "Rivo",
-      "album": "Last Night",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a4bc71d87401102f82c431e3",
-      "spotifyUrl": "https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"
-    },
-    {
-      "song": "Kisses (feat. bbyclose)",
-      "artist": "BL3SS, CamrinWatsin, bbyclose",
-      "album": "Kisses (feat. bbyclose)",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512501aee4227a3288fe0000b5",
-      "spotifyUrl": "https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA"
-    },
-    {
-      "song": "Give It To Me Good",
-      "artist": "SIDEPIECE, Disco Lines",
-      "album": "Give It To Me Good",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485123c01f2613f5683572b9bbf8",
-      "spotifyUrl": "https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK"
-    },
-    {
-      "song": "Heaven",
-      "artist": "Sara Landry, Alt8",
-      "album": "Spiritual Driveby",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851886ef7ee3d832305902b8909",
-      "spotifyUrl": "https://open.spotify.com/track/79nRqde4cRssDzkJcu275a"
-    },
-    {
-      "song": "First Person Shooter (feat. J. Cole)",
-      "artist": "Drake, J. Cole",
-      "album": "For All The Dogs",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
-      "spotifyUrl": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "song": "Sýna mér",
-      "artist": "Birnir, GDRN",
-      "album": "Dyrnar",
-      "played": "Jan 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/35SIiZONHSAKFf1iQLfQnI"
     }
   ]
 }
