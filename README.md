@@ -57,4 +57,3 @@ Eitt af því sem reyndist mér erfitt var að ákveða nákvæmlega hvernig ég
 
 (þarf að laga mobile view næst fyrir listening og cv)
 
-

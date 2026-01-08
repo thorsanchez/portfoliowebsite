@@ -42,6 +42,16 @@ function Verkefnivinnsla() {
           tag: "Automation",
           summary: "AI workflows",
           description: "Repo af AI workflows til að automatisera incident responses, greina feedback og vinna úr data."
+        },
+        arionbanki: {
+          tag: "Banka eyðsluyfirlit",
+          summary: "AI-drifið greinartól fyrir bankayfirlit frá Arion banka",
+          description: [
+            "Forrit sem greinir bankaútgjöld frá Arion banka. Notendur geta hlaðið upp bankayfirlitum og fengið ítarlega innsýn í útgjöld sín, með sjálfvirkri flokkun og tölfræðigreiningu.",
+            "Bakendinn notar FastAPI og Pandas fyrir gagnaúrvinnslu, með Gemma 2 líkani til að flokka færslur sjálfkrafa. Framendinn er byggður á React og TypeScript með Vite.",
+            "**Staða:** Í vinnslu",
+            "**Tækni:** React, TypeScript, Python, FastAPI, Pandas, Gemma 2, Vite"
+          ]
         }
       }
     },
@@ -78,6 +88,16 @@ function Verkefnivinnsla() {
           tag: "Automation",
           summary: "AI workflows",
           description: ["Collection of AI workflows I built for automating incident responses, analyzing feedback, and processing data"]
+        },
+        arionbanki: {
+          tag: "Bank Analyzer",
+          summary: "AI-powered spending analysis tool for Arion Bank statements",
+          description: [
+            "Application that analyzes bank spending from Arion Bank. Users can upload bank statements and receive detailed insights into their expenses, with automatic categorization and statistical analysis.",
+            "The backend uses **FastAPI** and **Pandas** for data processing, with **Gemma 2 AI** model (running locally) to automatically categorize transactions. The frontend is built with **React + TypeScript** and **Vite**.",
+            "**Status:** Work in Progress",
+            "**Tech Stack:** React, TypeScript, Python, FastAPI, Pandas, Gemma 2 AI, Vite"
+          ]
         }
     }
     },
@@ -115,6 +135,16 @@ function Verkefnivinnsla() {
           summary: "AI workflows",
           description: ["Repo av AI workflows jeg bygde",
           "for å automatisere hendelsesrespons, analysere tilbakemeldinger og behandle data"]
+        },
+        arionbanki: {
+          tag: "Bank Analysator",
+          summary: "AI-drevet forbruksanalyseverktøy for Arion Bank-utskrifter",
+          description: [
+            "Applikasjon som analyserer bankforbruk fra Arion Bank. Brukere kan laste opp kontoutskrifter og få detaljert innsikt i utgiftene sine, med automatisk kategorisering og statistisk analyse.",
+            "Backend bruker **FastAPI** og **Pandas** for databehandling, med **Gemma 2 AI** modell (kjører lokalt) for å automatisk kategorisere transaksjoner. Frontend er bygget med **React + TypeScript** og **Vite**.",
+            "**Status:** Under utvikling",
+            "**Tech Stack:** React, TypeScript, Python, FastAPI, Pandas, Gemma 2 AI, Vite"
+          ]
         }
       }
     }
@@ -155,6 +185,13 @@ function Verkefnivinnsla() {
     },
     {
       id: 2,
+      tag: text.projects.arionbanki.tag,
+      summary: text.projects.arionbanki.summary,
+      description: text.projects.arionbanki.description,
+      link: "https://github.com/thorsanchez/arionbanki-eydsluyfirlit"
+    },
+    {
+      id: 3,
       tag: text.projects.haetta.tag,
       summary: text.projects.haetta.summary,
       description: text.projects.haetta.description,
@@ -162,7 +199,7 @@ function Verkefnivinnsla() {
 
     },
     {
-      id: 3,
+      id: 4,
       tag: text.projects.finndu.tag,
       summary: text.projects.finndu.summary,
       description: text.projects.finndu.description,
@@ -170,7 +207,7 @@ function Verkefnivinnsla() {
       link: "https://finnd2-0.vercel.app/login?next=/profile"
     },
     {
-      id: 4,
+      id: 5,
       tag: text.projects.primeDice.tag,
       summary: text.projects.primeDice.summary,
       description: text.projects.primeDice.description,
@@ -221,7 +258,7 @@ function Verkefnivinnsla() {
                           className="project-link"
                           onClick={(e) => e.stopPropagation()}
                         >
-                          {project.id === 1 ? 'Repo →' : 'Vefsíða →'}
+                          {project.id === 1 || project.id === 2 ? 'Repo →' : 'Vefsíða →'}
                         </a>
                       )}
                     </div>
