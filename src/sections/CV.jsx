@@ -23,6 +23,8 @@ function CV() {
       languages: "Tungumál",
       experience: `Ég hef ágætis
       reynslu í`,
+      competitions: "Keppnir",
+      competitionEntry: <><strong>Gervigreindarkeppni Íslands 2026:</strong> 7. sæti í opnum flokki og 9. sæti í heildarkeppni af 81 liðum</>,
       interests: "Áhugamál",
       downloadCV: "Skoða ferilskrá",
       languagesList: "Íslenska, Norska og Enska",
@@ -69,6 +71,8 @@ function CV() {
       other: "Other",
       languages: "Languages",
       experience: "I have decent experience in",
+      competitions: "Competitions",
+      competitionEntry: <><strong>Iceland AI Competition 2026:</strong> 7th place in open category and 9th place overall out of 81 teams</>,
       interests: "Interests",
       downloadCV: "View CV",
       languagesList: "Icelandic, Norwegian and English",
@@ -116,6 +120,8 @@ function CV() {
       other: "Annet",
       languages: "Språk",
       experience: "Jeg har god erfaring med",
+      competitions: "Konkurranser",
+      competitionEntry: <><strong>Islands KI-konkurranse 2026:</strong> 7. plass i åpen kategori og 9. plass totalt av 81 lag</>,
       interests: "Interesser",
       downloadCV: "Se CV",
       languagesList: "Islandsk, Norsk og Engelsk",
@@ -279,6 +285,19 @@ function CV() {
             <p><strong>{text.skills.programming}</strong> {text.skills.programmingList}</p>
             <p><strong>{text.skills.webDev}</strong> {text.skills.webDevList}</p>
             <p><strong>{text.skills.blockchain}</strong> {text.skills.blockchainList}</p>
+          </div>
+        </div>
+      </div>
+
+      <div className="experience-item">
+        <div className="experience-period"><strong>{text.competitions}</strong></div>
+        <div className="experience-details">
+          <div className="experience-title">
+            {text.competitionEntry}
+            <br />
+            <a href="https://github.com/thorsanchez/Gervigreindarkeppni_Islands_2026" target="_blank" rel="noopener noreferrer" style={{ color: '#755540' }}>
+              GitHub: Gervigreindarkeppni_Islands_2026
+            </a>
           </div>
         </div>
       </div>
