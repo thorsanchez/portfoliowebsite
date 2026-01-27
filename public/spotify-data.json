@@ -1,6 +1,142 @@
 {
-  "lastUpdated": "2026-01-26T19:03:28.759904",
+  "lastUpdated": "2026-01-27T19:14:32.621314",
   "tracks": [
+    {
+      "song": "Berzerk",
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP2 (Deluxe)",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c6338d684995af10c2bf0533",
+      "spotifyUrl": "https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ"
+    },
+    {
+      "song": "What's Luv",
+      "artist": "Tory Lanez, Nyce",
+      "album": "Chixtapes (Trilogy)",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514bcf03a94384725cb1ff2438",
+      "spotifyUrl": "https://open.spotify.com/track/7yCda5oNO7tkEZYF1wwJkz"
+    },
+    {
+      "song": "Beautiful Things",
+      "artist": "Benson Boone",
+      "album": "Beautiful Things",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bef221ea02a821e7feeda9cf",
+      "spotifyUrl": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "song": "ily (i love you baby) (feat. Emilee)",
+      "artist": "Surf Mesa, Emilee",
+      "album": "ily (i love you baby) (feat. Emilee)",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b3de5764cc02f94714487c86",
+      "spotifyUrl": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "song": "Trust Issues",
+      "artist": "Drake",
+      "album": "Care Package",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
+      "spotifyUrl": "https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq"
+    },
+    {
+      "song": "Backbone",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
+      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "song": "Smoothies In 1991",
+      "artist": "Larry June",
+      "album": "Out The Trunk",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485127e41ce6f9954c4f833bcde2",
+      "spotifyUrl": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa"
+    },
+    {
+      "song": "Feel No Ways",
+      "artist": "Drake",
+      "album": "Views",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+    },
+    {
+      "song": "Mona Lisa (feat. Kendrick Lamar)",
+      "artist": "Lil Wayne, Kendrick Lamar",
+      "album": "Tha Carter V",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bb1138165ad4ec2306f4e886",
+      "spotifyUrl": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
+    },
+    {
+      "song": "Lianer",
+      "artist": "Unge Ferrari, Stig Brenner",
+      "album": "Til Mine Venner",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851355fe0ac842077e3d193864a",
+      "spotifyUrl": "https://open.spotify.com/track/514Ba6TEHYFYCJivvSUaFU"
+    },
+    {
+      "song": "Too Young",
+      "artist": "Post Malone",
+      "album": "Stoney (Deluxe)",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
+      "spotifyUrl": "https://open.spotify.com/track/4SYUUlkScpNR1QvPscXf8t"
+    },
+    {
+      "song": "Wish I Never Met You - Prison Tapes",
+      "artist": "Tory Lanez",
+      "album": "Wish I Never Met You (Prison Tapes)",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a0d99927dabb2a8fc5014760",
+      "spotifyUrl": "https://open.spotify.com/track/7MOjhqpSpGkeRyT4agpg12"
+    },
+    {
+      "song": "Feel No Ways",
+      "artist": "Drake",
+      "album": "Views",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+    },
+    {
+      "song": "Whoopty",
+      "artist": "CJ",
+      "album": "Whoopty",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048515038c2513329a3123b62923d",
+      "spotifyUrl": "https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA"
+    },
+    {
+      "song": "Late Night Messages",
+      "artist": "Wiz Khalifa",
+      "album": "Rolling Papers 2",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851393d29e88d493bdab8af1617",
+      "spotifyUrl": "https://open.spotify.com/track/3T6Wt1QsnkiRXgTSKSCHPs"
+    },
+    {
+      "song": "Big Checks (feat. YG)",
+      "artist": "Yung Pinch, YG",
+      "album": "4EVERFRIDAY SZN TWO",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514bb8275c43b82e0de4eed4fc",
+      "spotifyUrl": "https://open.spotify.com/track/5ooVpVEd7ejGRGuJjk8ZRm"
+    },
+    {
+      "song": "Feel No Ways",
+      "artist": "Drake",
+      "album": "Views",
+      "played": "Jan 27, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+    },
     {
       "song": "If the World Was Ending (feat. Julia Michaels)",
       "artist": "JP Saxe, Julia Michaels",
@@ -24,142 +160,6 @@
       "played": "Jan 26, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851352d50345c6be3755f743fd2",
       "spotifyUrl": "https://open.spotify.com/track/0hlygDT1sZNFPP4tIXVPMN"
-    },
-    {
-      "song": "Summers Over.",
-      "artist": "MuhTeyOh",
-      "album": "Summers Over.",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485132738592dbcc79fcc9451973",
-      "spotifyUrl": "https://open.spotify.com/track/7EPDbwf4Lzklimv1CTVseB"
-    },
-    {
-      "song": "Blue Lights",
-      "artist": "Jorja Smith",
-      "album": "Lost & Found",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485178378dcaccec9e965e0d6351",
-      "spotifyUrl": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
-    },
-    {
-      "song": "We Caa Done (feat. Drake)",
-      "artist": "Popcaan, Drake",
-      "album": "We Caa Done (feat. Drake)",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485131964d5b752d199f3febe389",
-      "spotifyUrl": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
-    },
-    {
-      "song": "Feel No Ways",
-      "artist": "Drake",
-      "album": "Views",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "song": "Sky Walker (feat. Travis Scott)",
-      "artist": "Miguel, Travis Scott",
-      "album": "War & Leisure",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851ee1ae7d44f10961722736148",
-      "spotifyUrl": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
-    },
-    {
-      "song": "Falling",
-      "artist": "Trevor Daniel",
-      "album": "Nicotine",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514dbf782532ca5d09012dc2d5",
-      "spotifyUrl": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
-    },
-    {
-      "song": "Feel No Ways",
-      "artist": "Drake",
-      "album": "Views",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "song": "Acquainted",
-      "artist": "The Weeknd",
-      "album": "Beauty Behind The Madness",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
-      "spotifyUrl": "https://open.spotify.com/track/7uJH0YdSZL6psjxI6Xy08b"
-    },
-    {
-      "song": "Rockstar Lifestyle",
-      "artist": "Ken Carson",
-      "album": "A Great Chaos",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bc2fbaa359030887a9a60d7e",
-      "spotifyUrl": "https://open.spotify.com/track/5I8LS9jiW5xju1lzakh1s3"
-    },
-    {
-      "song": "Higher (feat. Nipsey Hussle & John Legend)",
-      "artist": "DJ Khaled, Nipsey Hussle, John Legend",
-      "album": "Higher",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485105ab42b5340a7f1f5dade8e4",
-      "spotifyUrl": "https://open.spotify.com/track/62jiUv5B0Ps4E1s6lAzYyr"
-    },
-    {
-      "song": "Feel No Ways",
-      "artist": "Drake",
-      "album": "Views",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "song": "From Time",
-      "artist": "Drake, Jhené Aiko",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr"
-    },
-    {
-      "song": "Feel No Ways",
-      "artist": "Drake",
-      "album": "Views",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "song": "Empire State Of Mind",
-      "artist": "JAY-Z, Alicia Keys",
-      "album": "The Blueprint 3",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fec1b815bb3c50a64a90fd10",
-      "spotifyUrl": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
-    },
-    {
-      "song": "Haien Kommer (Sharkdog)",
-      "artist": "Kudos, GOLF",
-      "album": "Haien Kommer (Sharkdog)",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cbb3a3c8c04e4ad9dec963d2",
-      "spotifyUrl": "https://open.spotify.com/track/2sbvNhKsY8OUEwlbZb7hXV"
-    },
-    {
-      "song": "Kung Fu Fighting",
-      "artist": "Carl Douglas",
-      "album": "Kung Fu Fighter",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851131815c9e03c070a5a953a43",
-      "spotifyUrl": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g"
-    },
-    {
-      "song": "Dark Times",
-      "artist": "The Weeknd, Ed Sheeran",
-      "album": "Beauty Behind The Madness",
-      "played": "Jan 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
-      "spotifyUrl": "https://open.spotify.com/track/6J7PIkhtHwmFjPLq0SyuPj"
     }
   ]
 }
