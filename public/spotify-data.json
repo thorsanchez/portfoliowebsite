@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-02-03T19:34:18.288930",
+  "lastUpdated": "2026-02-04T19:27:34.314540",
   "tracks": [
+    {
+      "song": "Around Me (feat. Don Toliver)",
+      "artist": "Metro Boomin, Don Toliver",
+      "album": "HEROES & VILLAINS",
+      "played": "Feb 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c4fee55d7b51479627c31f89",
+      "spotifyUrl": "https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH"
+    },
+    {
+      "song": "What's Luv",
+      "artist": "Tory Lanez, Nyce",
+      "album": "Chixtapes (Trilogy)",
+      "played": "Feb 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514bcf03a94384725cb1ff2438",
+      "spotifyUrl": "https://open.spotify.com/track/7yCda5oNO7tkEZYF1wwJkz"
+    },
+    {
+      "song": "I'm The Man",
+      "artist": "50 Cent, Sonny Digital",
+      "album": "I'm The Man",
+      "played": "Feb 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f6753fb2198b7fb112f65627",
+      "spotifyUrl": "https://open.spotify.com/track/3LmuxO8mh3wwIfRUqHJFFy"
+    },
+    {
+      "song": "Stay High - Habits Remix",
+      "artist": "Tove Lo, Hippie Sabotage",
+      "album": "Queen Of The Clouds",
+      "played": "Feb 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485170cd79659edf4d5fec0840b8",
+      "spotifyUrl": "https://open.spotify.com/track/5JCi3pyggvk4B0yd0BK3ow"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Feb 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "Tuscan Leather",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "Feb 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
+    },
     {
       "song": "Tuscan Leather",
       "artist": "Drake",
@@ -112,54 +160,6 @@
       "played": "Feb 01, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
       "spotifyUrl": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
-    },
-    {
-      "song": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-      "artist": "Ty Dolla $ign, Juicy J, Quavo",
-      "album": "TYCOON",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851dcb7677617e1d7c4d5a136d7",
-      "spotifyUrl": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
-    },
-    {
-      "song": "Calling For You (feat. 21 Savage)",
-      "artist": "Drake, 21 Savage",
-      "album": "For All The Dogs",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
-      "spotifyUrl": "https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS"
-    },
-    {
-      "song": "Unforgettable",
-      "artist": "Drake, Jeezy",
-      "album": "Thank Me Later (Int'l Version)",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
-      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
-    },
-    {
-      "song": "Unforgettable",
-      "artist": "Drake, Jeezy",
-      "album": "Thank Me Later (Int'l Version)",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
-      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
-    },
-    {
-      "song": "Unforgettable",
-      "artist": "Drake, Jeezy",
-      "album": "Thank Me Later (Int'l Version)",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
-      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
-    },
-    {
-      "song": "Ocean",
-      "artist": "Wiz Khalifa",
-      "album": "Rolling Papers 2",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851393d29e88d493bdab8af1617",
-      "spotifyUrl": "https://open.spotify.com/track/3qNTqHjFfyJzMgZoYcUqjV"
     }
   ]
 }
