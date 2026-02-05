@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2026-02-04T19:27:34.314540",
+  "lastUpdated": "2026-02-05T19:26:51.013997",
   "tracks": [
+    {
+      "song": "You Stole The Show",
+      "artist": "SIENNA SPIRO",
+      "album": "You Stole The Show",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
+      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "For What (feat. Cash Cobain)",
+      "artist": "Lithe, Cash Cobain",
+      "album": "Euphoria",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f0c2c583c2dc5bfdd17611f0",
+      "spotifyUrl": "https://open.spotify.com/track/2RIicuBej0ebs8WXEmZudA"
+    },
+    {
+      "song": "keep steady",
+      "artist": "sosocamo",
+      "album": "no service",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f09da6140793f3e9a1ad37ef",
+      "spotifyUrl": "https://open.spotify.com/track/2VOt88FoSGjSOuzLaeqz5k"
+    },
+    {
+      "song": "made for this shit",
+      "artist": "Gunna",
+      "album": "The Last Wun",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517fd9dc3a93bd4fa2be8ed715",
+      "spotifyUrl": "https://open.spotify.com/track/1muR6CRm9uQ76HaJ7YBQaa"
+    },
+    {
+      "song": "Venetia",
+      "artist": "Lil Uzi Vert",
+      "album": "Eternal Atake",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851158b08c02c249bc651b3b47a",
+      "spotifyUrl": "https://open.spotify.com/track/3BYIzNZ3t9lRQCACXSMLrT"
+    },
+    {
+      "song": "E85",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485122d78c55313a187559efd93b",
+      "spotifyUrl": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+    },
+    {
+      "song": "You Stole The Show",
+      "artist": "SIENNA SPIRO",
+      "album": "You Stole The Show",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
+      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "Call Back",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485122d78c55313a187559efd93b",
+      "spotifyUrl": "https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7"
+    },
+    {
+      "song": "You Stole The Show",
+      "artist": "SIENNA SPIRO",
+      "album": "You Stole The Show",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
+      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Feb 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "Wish I Never Met You - Prison Tapes",
+      "artist": "Tory Lanez",
+      "album": "Wish I Never Met You (Prison Tapes)",
+      "played": "Feb 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a0d99927dabb2a8fc5014760",
+      "spotifyUrl": "https://open.spotify.com/track/7MOjhqpSpGkeRyT4agpg12"
+    },
     {
       "song": "Around Me (feat. Don Toliver)",
       "artist": "Metro Boomin, Don Toliver",
@@ -18,148 +130,36 @@
       "spotifyUrl": "https://open.spotify.com/track/7yCda5oNO7tkEZYF1wwJkz"
     },
     {
-      "song": "I'm The Man",
-      "artist": "50 Cent, Sonny Digital",
-      "album": "I'm The Man",
+      "song": "Secondhand (feat. Rema)",
+      "artist": "Don Toliver, Rema",
+      "album": "OCTANE",
       "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f6753fb2198b7fb112f65627",
-      "spotifyUrl": "https://open.spotify.com/track/3LmuxO8mh3wwIfRUqHJFFy"
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485122d78c55313a187559efd93b",
+      "spotifyUrl": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
     },
     {
-      "song": "Stay High - Habits Remix",
-      "artist": "Tove Lo, Hippie Sabotage",
-      "album": "Queen Of The Clouds",
+      "song": "Novacane",
+      "artist": "Frank Ocean",
+      "album": "Novacane",
       "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485170cd79659edf4d5fec0840b8",
-      "spotifyUrl": "https://open.spotify.com/track/5JCi3pyggvk4B0yd0BK3ow"
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485159a428dc7ef8e0c12b0fe18a",
+      "spotifyUrl": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
-      "song": "What You Saying",
-      "artist": "Lil Uzi Vert",
-      "album": "What You Saying",
+      "song": "Around Me (feat. Don Toliver)",
+      "artist": "Metro Boomin, Don Toliver",
+      "album": "HEROES & VILLAINS",
       "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
-      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c4fee55d7b51479627c31f89",
+      "spotifyUrl": "https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH"
     },
     {
-      "song": "Tuscan Leather",
-      "artist": "Drake",
-      "album": "Nothing Was The Same (Deluxe)",
+      "song": "What's Luv",
+      "artist": "Tory Lanez, Nyce",
+      "album": "Chixtapes (Trilogy)",
       "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
-    },
-    {
-      "song": "Tuscan Leather",
-      "artist": "Drake",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Feb 03, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
-    },
-    {
-      "song": "Unforgettable",
-      "artist": "Drake, Jeezy",
-      "album": "Thank Me Later (Int'l Version)",
-      "played": "Feb 03, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
-      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
-    },
-    {
-      "song": "Wish I Never Met You - Prison Tapes",
-      "artist": "Tory Lanez",
-      "album": "Wish I Never Met You (Prison Tapes)",
-      "played": "Feb 03, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a0d99927dabb2a8fc5014760",
-      "spotifyUrl": "https://open.spotify.com/track/7MOjhqpSpGkeRyT4agpg12"
-    },
-    {
-      "song": "What You Saying",
-      "artist": "Lil Uzi Vert",
-      "album": "What You Saying",
-      "played": "Feb 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
-      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "song": "True Colors",
-      "artist": "The Weeknd",
-      "album": "Starboy",
-      "played": "Feb 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a048415db06a5b6fa7ec4e1a",
-      "spotifyUrl": "https://open.spotify.com/track/6i759FCuKx713ZnYjtpQGU"
-    },
-    {
-      "song": "Unforgettable",
-      "artist": "Drake, Jeezy",
-      "album": "Thank Me Later (Int'l Version)",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
-      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
-    },
-    {
-      "song": "Unforgettable",
-      "artist": "Drake, Jeezy",
-      "album": "Thank Me Later (Int'l Version)",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
-      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
-    },
-    {
-      "song": "HOUSTONFORNICATION",
-      "artist": "Travis Scott",
-      "album": "ASTROWORLD",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851daec894c14c0ca42d76eeb32",
-      "spotifyUrl": "https://open.spotify.com/track/58TaFP5j5i9swOf584yon2"
-    },
-    {
-      "song": "TELEKINESIS (feat. SZA & Future)",
-      "artist": "Travis Scott, SZA, Future",
-      "album": "UTOPIA",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485104481c826dd292e5e4983b3f",
-      "spotifyUrl": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
-    },
-    {
-      "song": "Omertà",
-      "artist": "Drake",
-      "album": "The Best In The World Pack",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048513f3b653b0a7b9e889a712c3d",
-      "spotifyUrl": "https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF"
-    },
-    {
-      "song": "Two Birds, One Stone",
-      "artist": "Drake",
-      "album": "Two Birds, One Stone",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514eb8ad9bb3a2d71526ca5ef9",
-      "spotifyUrl": "https://open.spotify.com/track/3m62bJJXGyQKdR9XyRocnl"
-    },
-    {
-      "song": "6PM In New York",
-      "artist": "Drake",
-      "album": "If You're Reading This It's Too Late",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
-      "spotifyUrl": "https://open.spotify.com/track/5mZJwWdxAOR4xUvSGZvvMU"
-    },
-    {
-      "song": "No Tellin'",
-      "artist": "Drake",
-      "album": "If You're Reading This It's Too Late",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
-      "spotifyUrl": "https://open.spotify.com/track/2durxb17bXcmQJHSt8JAdO"
-    },
-    {
-      "song": "Teenage Fever",
-      "artist": "Drake",
-      "album": "More Life",
-      "played": "Feb 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
-      "spotifyUrl": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514bcf03a94384725cb1ff2438",
+      "spotifyUrl": "https://open.spotify.com/track/7yCda5oNO7tkEZYF1wwJkz"
     }
   ]
 }
