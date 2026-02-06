@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-02-05T19:26:51.013997",
+  "lastUpdated": "2026-02-06T19:26:26.130168",
   "tracks": [
+    {
+      "song": "Under the Bridge",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "played": "Feb 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+      "spotifyUrl": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "song": "If I Can't",
+      "artist": "50 Cent",
+      "album": "Get Rich Or Die Tryin'",
+      "played": "Feb 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d843fabb75fef14010e30cae",
+      "spotifyUrl": "https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh"
+    },
+    {
+      "song": "Lose Yourself",
+      "artist": "Eminem",
+      "album": "Just Lose It",
+      "played": "Feb 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b6ef2ebd34efb08cb76f6eec",
+      "spotifyUrl": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
+    },
+    {
+      "song": "You Stole The Show",
+      "artist": "SIENNA SPIRO",
+      "album": "You Stole The Show",
+      "played": "Feb 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
+      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "song": "You Stole The Show",
+      "artist": "SIENNA SPIRO",
+      "album": "You Stole The Show",
+      "played": "Feb 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
+      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
     {
       "song": "You Stole The Show",
       "artist": "SIENNA SPIRO",
@@ -22,7 +62,7 @@
       "artist": "Lithe, Cash Cobain",
       "album": "Euphoria",
       "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f0c2c583c2dc5bfdd17611f0",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516e55e96ec8ad83f85d467469",
       "spotifyUrl": "https://open.spotify.com/track/2RIicuBej0ebs8WXEmZudA"
     },
     {
@@ -120,46 +160,6 @@
       "played": "Feb 04, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851c4fee55d7b51479627c31f89",
       "spotifyUrl": "https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH"
-    },
-    {
-      "song": "What's Luv",
-      "artist": "Tory Lanez, Nyce",
-      "album": "Chixtapes (Trilogy)",
-      "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514bcf03a94384725cb1ff2438",
-      "spotifyUrl": "https://open.spotify.com/track/7yCda5oNO7tkEZYF1wwJkz"
-    },
-    {
-      "song": "Secondhand (feat. Rema)",
-      "artist": "Don Toliver, Rema",
-      "album": "OCTANE",
-      "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485122d78c55313a187559efd93b",
-      "spotifyUrl": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
-    },
-    {
-      "song": "Novacane",
-      "artist": "Frank Ocean",
-      "album": "Novacane",
-      "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485159a428dc7ef8e0c12b0fe18a",
-      "spotifyUrl": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
-    },
-    {
-      "song": "Around Me (feat. Don Toliver)",
-      "artist": "Metro Boomin, Don Toliver",
-      "album": "HEROES & VILLAINS",
-      "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c4fee55d7b51479627c31f89",
-      "spotifyUrl": "https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH"
-    },
-    {
-      "song": "What's Luv",
-      "artist": "Tory Lanez, Nyce",
-      "album": "Chixtapes (Trilogy)",
-      "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514bcf03a94384725cb1ff2438",
-      "spotifyUrl": "https://open.spotify.com/track/7yCda5oNO7tkEZYF1wwJkz"
     }
   ]
 }
