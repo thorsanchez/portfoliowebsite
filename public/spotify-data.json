@@ -1,6 +1,150 @@
 {
-  "lastUpdated": "2026-02-06T19:26:26.130168",
+  "lastUpdated": "2026-02-07T19:04:23.644513",
   "tracks": [
+    {
+      "song": "Chicago Freestyle (feat. Giveon)",
+      "artist": "Drake, GIVĒON",
+      "album": "Dark Lane Demo Tapes",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+      "spotifyUrl": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
+    },
+    {
+      "song": "L$D",
+      "artist": "A$AP Rocky",
+      "album": "AT.LONG.LAST.A$AP",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485149efdc44d0733042f8b99d57",
+      "spotifyUrl": "https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud"
+    },
+    {
+      "song": "Unforgettable",
+      "artist": "Drake, Jeezy",
+      "album": "Thank Me Later (Int'l Version)",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
+      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
+    },
+    {
+      "song": "Backbone",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
+      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "song": "Care For You",
+      "artist": "Tory Lanez",
+      "album": "DAYSTAR",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
+      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
+    },
+    {
+      "song": "Care For You",
+      "artist": "Tory Lanez",
+      "album": "DAYSTAR",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
+      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
+    },
+    {
+      "song": "Care For You",
+      "artist": "Tory Lanez",
+      "album": "DAYSTAR",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
+      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "just say dat",
+      "artist": "Gunna",
+      "album": "The Last Wun",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517fd9dc3a93bd4fa2be8ed715",
+      "spotifyUrl": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
+    },
+    {
+      "song": "Headlines",
+      "artist": "Drake",
+      "album": "Take Care (Deluxe)",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c7ea04a9b455e3f68ef82550",
+      "spotifyUrl": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "7am On Bridle Path",
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "song": "10 F*CKS (with Mansa)",
+      "artist": "Tory Lanez, Mansa",
+      "album": "The New Toronto 3",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485153af8d1a7654351c6a03b5fe",
+      "spotifyUrl": "https://open.spotify.com/track/7DHNcoR73yUYCSn6PqBgkH"
+    },
+    {
+      "song": "Care For You",
+      "artist": "Tory Lanez",
+      "album": "DAYSTAR",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
+      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
+    },
+    {
+      "song": "Care For You",
+      "artist": "Tory Lanez",
+      "album": "DAYSTAR",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
+      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
+    },
+    {
+      "song": "What Up World",
+      "artist": "Roc Boyz",
+      "album": "Roc Boyz, Vol. 1",
+      "played": "Feb 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514657fec2245994aa3a562cd8",
+      "spotifyUrl": "https://open.spotify.com/track/2pkvOTNTNdzEoZB05YdoT7"
+    },
+    {
+      "song": "Unforgettable",
+      "artist": "Drake, Jeezy",
+      "album": "Thank Me Later (Int'l Version)",
+      "played": "Feb 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
+      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
+    },
+    {
+      "song": "Sing For The Moment",
+      "artist": "Eminem",
+      "album": "The Eminem Show",
+      "played": "Feb 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+      "spotifyUrl": "https://open.spotify.com/track/3CpoeW0cZSDzIRv5z34F87"
+    },
     {
       "song": "Under the Bridge",
       "artist": "Red Hot Chili Peppers",
@@ -16,150 +160,6 @@
       "played": "Feb 06, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851d843fabb75fef14010e30cae",
       "spotifyUrl": "https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh"
-    },
-    {
-      "song": "Lose Yourself",
-      "artist": "Eminem",
-      "album": "Just Lose It",
-      "played": "Feb 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b6ef2ebd34efb08cb76f6eec",
-      "spotifyUrl": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
-    },
-    {
-      "song": "You Stole The Show",
-      "artist": "SIENNA SPIRO",
-      "album": "You Stole The Show",
-      "played": "Feb 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
-      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
-    },
-    {
-      "song": "You Stole The Show",
-      "artist": "SIENNA SPIRO",
-      "album": "You Stole The Show",
-      "played": "Feb 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
-      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
-    },
-    {
-      "song": "You Stole The Show",
-      "artist": "SIENNA SPIRO",
-      "album": "You Stole The Show",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
-      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
-    },
-    {
-      "song": "What You Saying",
-      "artist": "Lil Uzi Vert",
-      "album": "What You Saying",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
-      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "song": "For What (feat. Cash Cobain)",
-      "artist": "Lithe, Cash Cobain",
-      "album": "Euphoria",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516e55e96ec8ad83f85d467469",
-      "spotifyUrl": "https://open.spotify.com/track/2RIicuBej0ebs8WXEmZudA"
-    },
-    {
-      "song": "keep steady",
-      "artist": "sosocamo",
-      "album": "no service",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f09da6140793f3e9a1ad37ef",
-      "spotifyUrl": "https://open.spotify.com/track/2VOt88FoSGjSOuzLaeqz5k"
-    },
-    {
-      "song": "made for this shit",
-      "artist": "Gunna",
-      "album": "The Last Wun",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517fd9dc3a93bd4fa2be8ed715",
-      "spotifyUrl": "https://open.spotify.com/track/1muR6CRm9uQ76HaJ7YBQaa"
-    },
-    {
-      "song": "Venetia",
-      "artist": "Lil Uzi Vert",
-      "album": "Eternal Atake",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851158b08c02c249bc651b3b47a",
-      "spotifyUrl": "https://open.spotify.com/track/3BYIzNZ3t9lRQCACXSMLrT"
-    },
-    {
-      "song": "E85",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485122d78c55313a187559efd93b",
-      "spotifyUrl": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
-    },
-    {
-      "song": "You Stole The Show",
-      "artist": "SIENNA SPIRO",
-      "album": "You Stole The Show",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
-      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
-    },
-    {
-      "song": "What You Saying",
-      "artist": "Lil Uzi Vert",
-      "album": "What You Saying",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
-      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "song": "Call Back",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485122d78c55313a187559efd93b",
-      "spotifyUrl": "https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7"
-    },
-    {
-      "song": "You Stole The Show",
-      "artist": "SIENNA SPIRO",
-      "album": "You Stole The Show",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
-      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
-    },
-    {
-      "song": "What You Saying",
-      "artist": "Lil Uzi Vert",
-      "album": "What You Saying",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
-      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "song": "What You Saying",
-      "artist": "Lil Uzi Vert",
-      "album": "What You Saying",
-      "played": "Feb 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
-      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "song": "Wish I Never Met You - Prison Tapes",
-      "artist": "Tory Lanez",
-      "album": "Wish I Never Met You (Prison Tapes)",
-      "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a0d99927dabb2a8fc5014760",
-      "spotifyUrl": "https://open.spotify.com/track/7MOjhqpSpGkeRyT4agpg12"
-    },
-    {
-      "song": "Around Me (feat. Don Toliver)",
-      "artist": "Metro Boomin, Don Toliver",
-      "album": "HEROES & VILLAINS",
-      "played": "Feb 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c4fee55d7b51479627c31f89",
-      "spotifyUrl": "https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH"
     }
   ]
 }
