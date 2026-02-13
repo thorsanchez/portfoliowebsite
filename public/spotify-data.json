@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-02-12T19:38:17.131841",
+  "lastUpdated": "2026-02-13T19:29:23.188187",
   "tracks": [
+    {
+      "song": "Care For You",
+      "artist": "Tory Lanez",
+      "album": "DAYSTAR",
+      "played": "Feb 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
+      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
+    },
+    {
+      "song": "Heartless",
+      "artist": "Kanye West",
+      "album": "808s & Heartbreak",
+      "played": "Feb 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
+      "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "song": "Can't Stop Playing (Makes Me High) [feat. Ane Brun] - Oliver Heldens & Gregor Salto Vocal Mix Edit",
+      "artist": "DR. KUCHO!, Gregor Salto, Ane Brun, Oliver Heldens",
+      "album": "Can't Stop Playing (Remixes)",
+      "played": "Feb 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e13d3af819bcb7624a1c7337",
+      "spotifyUrl": "https://open.spotify.com/track/1MOGJQsVeaRcXY6heJz5UZ"
+    },
     {
       "song": "Kisses (feat. bbyclose)",
       "artist": "BL3SS, CamrinWatsin, bbyclose",
@@ -136,30 +160,6 @@
       "played": "Feb 12, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851232a4dce4425693c25950e72",
       "spotifyUrl": "https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA"
-    },
-    {
-      "song": "The Days - NOTION Remix",
-      "artist": "Chrystal, NOTION",
-      "album": "The Days (NOTION Remix)",
-      "played": "Feb 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519041b9965925059507fb44af",
-      "spotifyUrl": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
-    },
-    {
-      "song": "palm of my hands - Odd Mob Remix",
-      "artist": "John Summit, Odd Mob, venbee",
-      "album": "palm of my hands (Odd Mob Remix)",
-      "played": "Feb 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851008666415b2bd8010fb2247e",
-      "spotifyUrl": "https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"
-    },
-    {
-      "song": "We Are The People - ARTBAT Remix",
-      "artist": "Empire Of The Sun, ARTBAT",
-      "album": "We Are The People (Reimagined)",
-      "played": "Feb 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851854dc173d13eb17caade644f",
-      "spotifyUrl": "https://open.spotify.com/track/7p7gqBkkvDFIepji8U0Lgh"
     }
   ]
 }
