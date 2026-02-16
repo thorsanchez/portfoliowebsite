@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-02-15T19:05:05.109338",
+  "lastUpdated": "2026-02-16T19:21:34.950317",
   "tracks": [
+    {
+      "song": "Care For You",
+      "artist": "Tory Lanez",
+      "album": "DAYSTAR",
+      "played": "Feb 16, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
+      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
+    },
+    {
+      "song": "Emotionless",
+      "artist": "Drake",
+      "album": "Scorpion",
+      "played": "Feb 16, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+      "spotifyUrl": "https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM"
+    },
+    {
+      "song": "BACK TO BLONDE",
+      "artist": "SIENNA SPIRO",
+      "album": "BACK TO BLONDE",
+      "played": "Feb 16, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514d9878db07cd8db9cfbcaa9c",
+      "spotifyUrl": "https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08"
+    },
     {
       "song": "SPEED DEMON",
       "artist": "Justin Bieber",
@@ -136,30 +160,6 @@
       "played": "Feb 14, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
       "spotifyUrl": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
-    },
-    {
-      "song": "First Class",
-      "artist": "Jack Harlow",
-      "album": "Come Home The Kids Miss You",
-      "played": "Feb 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
-      "spotifyUrl": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "song": "First Person Shooter (feat. J. Cole)",
-      "artist": "Drake, J. Cole",
-      "album": "For All The Dogs Scary Hours Edition",
-      "played": "Feb 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d329886e89e51420478f4751",
-      "spotifyUrl": "https://open.spotify.com/track/6ltWTSzsV2TaSsOhoA8eBC"
-    },
-    {
-      "song": "First Class",
-      "artist": "Jack Harlow",
-      "album": "Come Home The Kids Miss You",
-      "played": "Feb 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518e55edb69ca44a25b52b17bb",
-      "spotifyUrl": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     }
   ]
 }
