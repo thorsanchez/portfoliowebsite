@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-02-18T19:34:36.537851",
+  "lastUpdated": "2026-02-19T19:28:33.658423",
   "tracks": [
+    {
+      "song": "Feel No Ways",
+      "artist": "Drake",
+      "album": "Views",
+      "played": "Feb 19, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+    },
+    {
+      "song": "Tuscan Leather",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "Feb 19, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
+    },
+    {
+      "song": "Ivy",
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "played": "Feb 19, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+      "spotifyUrl": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+    },
+    {
+      "song": "Nobody Gets Me",
+      "artist": "SZA",
+      "album": "SOS",
+      "played": "Feb 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bc18bdade69ec5ef0bb25b17",
+      "spotifyUrl": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "song": "Heartless",
+      "artist": "Kanye West",
+      "album": "808s & Heartbreak",
+      "played": "Feb 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
+      "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
     {
       "song": "Ivy",
       "artist": "Frank Ocean",
@@ -120,46 +160,6 @@
       "played": "Feb 16, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
       "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
-    },
-    {
-      "song": "Care For You",
-      "artist": "Tory Lanez",
-      "album": "DAYSTAR",
-      "played": "Feb 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
-      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
-    },
-    {
-      "song": "Emotionless",
-      "artist": "Drake",
-      "album": "Scorpion",
-      "played": "Feb 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
-      "spotifyUrl": "https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM"
-    },
-    {
-      "song": "BACK TO BLONDE",
-      "artist": "SIENNA SPIRO",
-      "album": "BACK TO BLONDE",
-      "played": "Feb 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514d9878db07cd8db9cfbcaa9c",
-      "spotifyUrl": "https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08"
-    },
-    {
-      "song": "SPEED DEMON",
-      "artist": "Justin Bieber",
-      "album": "SWAG II",
-      "played": "Feb 15, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a958d093e94944dd0e7258b2",
-      "spotifyUrl": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"
-    },
-    {
-      "song": "Rape Me",
-      "artist": "Nirvana",
-      "album": "In Utero (Deluxe Edition)",
-      "played": "Feb 15, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851aca059cebc1841277db22d1c",
-      "spotifyUrl": "https://open.spotify.com/track/5Rizj5FLb2AyNKu9esjYY6"
     }
   ]
 }
