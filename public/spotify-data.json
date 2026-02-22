@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-02-21T19:04:07.150136",
+  "lastUpdated": "2026-02-22T19:04:13.415660",
   "tracks": [
+    {
+      "song": "Win win",
+      "artist": "Birnir",
+      "album": "Dyrnar",
+      "played": "Feb 22, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
+      "spotifyUrl": "https://open.spotify.com/track/1uPjJDIpFRnkhr84AQS1on"
+    },
+    {
+      "song": "Unforgettable",
+      "artist": "Drake, Jeezy",
+      "album": "Thank Me Later (Int'l Version)",
+      "played": "Feb 22, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
+      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
+    },
+    {
+      "song": "MOTH BALLS",
+      "artist": "PARTYNEXTDOOR, Drake",
+      "album": "$ome $exy $ongs 4 U",
+      "played": "Feb 22, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+      "spotifyUrl": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
+    },
+    {
+      "song": "Free the Slave",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Feb 21, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
+      "spotifyUrl": "https://open.spotify.com/track/4Ux0OxCoPN8SZ9SWbGKbtT"
+    },
+    {
+      "song": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+      "artist": "Ty Dolla $ign, Quavo, Juicy J",
+      "album": "TYCOON",
+      "played": "Feb 21, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851712be553f73989a1b7607674",
+      "spotifyUrl": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
+    },
+    {
+      "song": "Furthest Thing",
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "played": "Feb 21, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
+      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
+    },
+    {
+      "song": "Tiramisu",
+      "artist": "Don Toliver",
+      "album": "Tiramisu",
+      "played": "Feb 21, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517cbe48ffc093bb6350e8064c",
+      "spotifyUrl": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
+    },
+    {
+      "song": "Backbone",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Feb 21, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fbe6f18abcdf1f565f34e73d",
+      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "song": "Tuscan Leather",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "Feb 21, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
+    },
+    {
+      "song": "Feel No Ways",
+      "artist": "Drake",
+      "album": "Views",
+      "played": "Feb 21, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+    },
     {
       "song": "Calling For You (feat. 21 Savage)",
       "artist": "Drake, 21 Savage",
@@ -80,86 +160,6 @@
       "played": "Feb 21, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485191a448b075d7cdf76e8c776f",
       "spotifyUrl": "https://open.spotify.com/track/3Vm9BiZiTiAJJomqGExQbb"
-    },
-    {
-      "song": "Falskar ástir",
-      "artist": "Floni",
-      "album": "Floni 2",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851db0c682af68574be3e574059",
-      "spotifyUrl": "https://open.spotify.com/track/4I6E6Tku36NOmDNL7LcIw9"
-    },
-    {
-      "song": "LXS",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
-    },
-    {
-      "song": "Vopn",
-      "artist": "Birnir, Aron Can",
-      "album": "Dyrnar",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
-    },
-    {
-      "song": "Tuscan Leather",
-      "artist": "Drake",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
-    },
-    {
-      "song": "Feel No Ways",
-      "artist": "Drake",
-      "album": "Views",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "song": "Care For You",
-      "artist": "Tory Lanez",
-      "album": "DAYSTAR",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
-      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
-    },
-    {
-      "song": "Nobody Gets Me",
-      "artist": "SZA",
-      "album": "SOS",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bc18bdade69ec5ef0bb25b17",
-      "spotifyUrl": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
-    },
-    {
-      "song": "Heartless",
-      "artist": "Kanye West",
-      "album": "808s & Heartbreak",
-      "played": "Feb 20, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
-      "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
-    },
-    {
-      "song": "Ivy",
-      "artist": "Frank Ocean",
-      "album": "Blonde",
-      "played": "Feb 20, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
-      "spotifyUrl": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
-    },
-    {
-      "song": "LXS",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Feb 20, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
     }
   ]
 }
