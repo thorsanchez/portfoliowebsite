@@ -14,6 +14,18 @@ dist-ssr
 
 # Environment variables
 .env
+.env.local
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfvars.json
+
+# Lambda build artifacts
+lambda_dist/
+lambda_function_payload.zip
 
 # Spotify refresh token script (only for local use)
 scripts/get_refresh_token.py
@@ -29,3 +41,13 @@ scripts/README.md
 *.njsproj
 *.sln
 *.sw?
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.venv
+env/
+chatbot-backend/venv/
+chatbot-backend/__pycache__/

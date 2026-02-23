@@ -10,6 +10,7 @@ import './App.css';
 import { Analytics } from "@vercel/analytics/react";
 import Verkefnivinnsla from './sections/VerkefniVinnslu';
 import { LanguageProvider } from './contexts/LanguageContext';
+import ChatBot from './components/ChatBot';
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
         {/* tracka page view */}
         <Analytics />
       </div>
+      <ChatBot />
     </div>
   </LanguageProvider>
   );
