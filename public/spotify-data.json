@@ -1,165 +1,165 @@
 {
-  "lastUpdated": "2026-02-23T19:43:02.752698",
+  "lastUpdated": "2026-02-24T19:38:10.739695",
   "tracks": [
     {
-      "song": "Homecoming",
-      "artist": "Kanye West, Chris Martin",
-      "album": "Graduation",
-      "played": "Feb 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
-      "spotifyUrl": "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe"
-    },
-    {
-      "song": "Can't Get Enough",
-      "artist": "J. Cole, Trey Songz",
-      "album": "Cole World: The Sideline Story",
-      "played": "Feb 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485199da48a530f6ca2ef86da3cc",
-      "spotifyUrl": "https://open.spotify.com/track/3mTpegrOwRn0oJjv4TSbEE"
-    },
-    {
-      "song": "Window Shopper",
-      "artist": "50 Cent",
-      "album": "Window Shopper",
-      "played": "Feb 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514a3de788d0aecc7c9b06cfc8",
-      "spotifyUrl": "https://open.spotify.com/track/0NJu93oln1kkgbHLFzLJ4h"
-    },
-    {
-      "song": "Care For You",
-      "artist": "Tory Lanez",
-      "album": "DAYSTAR",
-      "played": "Feb 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
-      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
-    },
-    {
-      "song": "Litty (feat. Tory Lanez)",
-      "artist": "Meek Mill, Sound M.O.B., Tory Lanez",
-      "album": "DC4",
-      "played": "Feb 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510a6f4e78a01fd779ebaace83",
-      "spotifyUrl": "https://open.spotify.com/track/5J5PXmMdQ2nh1lZOal8KmK"
-    },
-    {
-      "song": "Favour",
-      "artist": "Avenoir",
-      "album": "Favour",
-      "played": "Feb 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851713f9d753c8b418102db1a10",
-      "spotifyUrl": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
-    },
-    {
-      "song": "MadMan - Lost Tapes 2020",
-      "artist": "Tory Lanez",
-      "album": "MadMan (Lost Tapes 2020)",
-      "played": "Feb 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851ef227bfba1756c6b6b0d5501",
-      "spotifyUrl": "https://open.spotify.com/track/1YDSblKST0GeFq4IiyeB1o"
-    },
-    {
-      "song": "Circumstances - Lost Tapes 2016",
-      "artist": "Tory Lanez",
-      "album": "Circumstances (Lost Tapes 2016)",
-      "played": "Feb 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485100562d622c14c003aa0e57c6",
-      "spotifyUrl": "https://open.spotify.com/track/4PMyc26OwpBIFM2bDExP5Z"
-    },
-    {
-      "song": "Win win",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Feb 22, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/1uPjJDIpFRnkhr84AQS1on"
-    },
-    {
-      "song": "Unforgettable",
-      "artist": "Drake, Jeezy",
-      "album": "Thank Me Later (Int'l Version)",
-      "played": "Feb 22, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
-      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
-    },
-    {
-      "song": "MOTH BALLS",
-      "artist": "PARTYNEXTDOOR, Drake",
-      "album": "$ome $exy $ongs 4 U",
-      "played": "Feb 22, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-      "spotifyUrl": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
-    },
-    {
-      "song": "Free the Slave",
-      "artist": "KALEO",
-      "album": "Surface Sounds",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
-      "spotifyUrl": "https://open.spotify.com/track/4Ux0OxCoPN8SZ9SWbGKbtT"
-    },
-    {
-      "song": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-      "artist": "Ty Dolla $ign, Quavo, Juicy J",
-      "album": "TYCOON",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851712be553f73989a1b7607674",
-      "spotifyUrl": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
-    },
-    {
-      "song": "Furthest Thing",
-      "artist": "Drake",
-      "album": "Nothing Was The Same",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
-      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
-    },
-    {
-      "song": "Tiramisu",
-      "artist": "Don Toliver",
-      "album": "Tiramisu",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517cbe48ffc093bb6350e8064c",
-      "spotifyUrl": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
-    },
-    {
-      "song": "Backbone",
-      "artist": "KALEO",
-      "album": "Surface Sounds",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
-      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
-    },
-    {
-      "song": "Tuscan Leather",
+      "song": "Wu-Tang Forever",
       "artist": "Drake",
       "album": "Nothing Was The Same (Deluxe)",
-      "played": "Feb 21, 2026",
+      "played": "Feb 24, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
+      "spotifyUrl": "https://open.spotify.com/track/1HnhCD1u0c4dHSMazmWGyM"
     },
     {
-      "song": "Feel No Ways",
+      "song": "Can't Have Everything",
       "artist": "Drake",
-      "album": "Views",
-      "played": "Feb 21, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+      "album": "More Life",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
+      "spotifyUrl": "https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W"
+    },
+    {
+      "song": "Money In The Grave (Drake ft. Rick Ross)",
+      "artist": "Drake, Rick Ross",
+      "album": "The Best In The World Pack",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048513f3b653b0a7b9e889a712c3d",
+      "spotifyUrl": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
+    },
+    {
+      "song": "Diplomatic Immunity",
+      "artist": "Drake",
+      "album": "Diplomatic Immunity",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517a9ca2b596e77061a6aab9ae",
+      "spotifyUrl": "https://open.spotify.com/track/4haJoBPbPj9QFKNpp9e8kx"
     },
     {
       "song": "Calling For You (feat. 21 Savage)",
       "artist": "Drake, 21 Savage",
       "album": "For All The Dogs",
-      "played": "Feb 21, 2026",
+      "played": "Feb 24, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
       "spotifyUrl": "https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS"
+    },
+    {
+      "song": "Lemon Pepper Freestyle (feat. Rick Ross)",
+      "artist": "Drake, Rick Ross",
+      "album": "Scary Hours 2",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518b20e4631fa15d3953528bbc",
+      "spotifyUrl": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
+    },
+    {
+      "song": "Gyalchester",
+      "artist": "Drake",
+      "album": "More Life",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
+      "spotifyUrl": "https://open.spotify.com/track/6UjfByV1lDLW0SOVQA4NAi"
+    },
+    {
+      "song": "What’s Next",
+      "artist": "Drake",
+      "album": "Scary Hours 2",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518b20e4631fa15d3953528bbc",
+      "spotifyUrl": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "song": "Look Alive (feat. Drake)",
+      "artist": "BlocBoy JB, Drake",
+      "album": "Simi",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485159ba1bf8385cb016e62a26c0",
+      "spotifyUrl": "https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf"
+    },
+    {
+      "song": "It Feels So Good",
+      "artist": "Matt Sassari, HUGEL, Sonique",
+      "album": "It Feels So Good",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851aa7df9183be7f3bb8c8ad4bc",
+      "spotifyUrl": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+    },
+    {
+      "song": "Let It Go",
+      "artist": "NOTSOBAD, MA:RK",
+      "album": "Let It Go",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851aefb1a16c91ef2161df915d3",
+      "spotifyUrl": "https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR"
+    },
+    {
+      "song": "We Are The People - ARTBAT Remix",
+      "artist": "Empire Of The Sun, ARTBAT",
+      "album": "We Are The People (Reimagined)",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851854dc173d13eb17caade644f",
+      "spotifyUrl": "https://open.spotify.com/track/7p7gqBkkvDFIepji8U0Lgh"
+    },
+    {
+      "song": "made for this shit",
+      "artist": "Gunna",
+      "album": "The Last Wun",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517fd9dc3a93bd4fa2be8ed715",
+      "spotifyUrl": "https://open.spotify.com/track/1muR6CRm9uQ76HaJ7YBQaa"
+    },
+    {
+      "song": "Last Night",
+      "artist": "Kamakaze, Massappeals, Morgan Munroe",
+      "album": "Last Night",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851440297e340b3bb6b33f560ac",
+      "spotifyUrl": "https://open.spotify.com/track/6XJjuznS0OuyxsdHfx3zwL"
+    },
+    {
+      "song": "MUNYUN",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
+      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
     },
     {
       "song": "Unforgettable",
       "artist": "Drake, Jeezy",
       "album": "Thank Me Later (Int'l Version)",
-      "played": "Feb 21, 2026",
+      "played": "Feb 24, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
       "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
+    },
+    {
+      "song": "PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)",
+      "artist": "Don Toliver, Future, Metro Boomin",
+      "album": "HARDSTONE PSYCHO",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5050e0d58c704da6bb519e1",
+      "spotifyUrl": "https://open.spotify.com/track/7i8ncEfBk3s0w5YoG43SV9"
+    },
+    {
+      "song": "Unforgettable",
+      "artist": "Drake, Jeezy",
+      "album": "Thank Me Later (Int'l Version)",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
+      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
+    },
+    {
+      "song": "Care For You",
+      "artist": "Tory Lanez",
+      "album": "DAYSTAR",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
+      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
+    },
+    {
+      "song": "MAYBE.",
+      "artist": "SIENNA SPIRO",
+      "album": "MAYBE.",
+      "played": "Feb 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e177c11e07acf1f4e1c5c2e7",
+      "spotifyUrl": "https://open.spotify.com/track/6yA2GnuThv4oDuEimu4Rmg"
     }
   ]
 }
