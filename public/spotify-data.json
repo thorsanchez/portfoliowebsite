@@ -1,19 +1,83 @@
 {
-  "lastUpdated": "2026-03-05T19:46:15.560224",
+  "lastUpdated": "2026-03-06T19:22:21.693293",
   "tracks": [
     {
-      "song": "Fancy",
-      "artist": "Drake, T.I., Swizz Beatz",
+      "song": "Unforgettable",
+      "artist": "Drake, Jeezy",
       "album": "Thank Me Later (Int'l Version)",
-      "played": "Mar 05, 2026",
+      "played": "Mar 06, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
-      "spotifyUrl": "https://open.spotify.com/track/238Sekyg7DyN2XDm0z4oWY"
+      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
+    },
+    {
+      "song": "Care For You",
+      "artist": "Tory Lanez",
+      "album": "DAYSTAR",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
+      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
+    },
+    {
+      "song": "Heartless",
+      "artist": "Kanye West",
+      "album": "808s & Heartbreak",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
+      "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "Lost in the Fire (feat. The Weeknd)",
+      "artist": "Gesaffelstein, The Weeknd",
+      "album": "Hyperion",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517842fd51802451ff61483dcf",
+      "spotifyUrl": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
+    },
+    {
+      "song": "Company",
+      "artist": "Drake, Travis Scott",
+      "album": "If You're Reading This It's Too Late",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
+    },
+    {
+      "song": "Company",
+      "artist": "Drake, Travis Scott",
+      "album": "If You're Reading This It's Too Late",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
+    },
+    {
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
+    },
+    {
+      "song": "COMË N GO",
+      "artist": "Yeat",
+      "album": "DANGEROUS SUMMER",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
+      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
       "song": "GOT DAMN",
       "artist": "Gunna",
       "album": "GOT DAMN",
-      "played": "Mar 05, 2026",
+      "played": "Mar 06, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
       "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
@@ -21,145 +85,81 @@
       "song": "Thoughts from a Balcony",
       "artist": "Mac Miller",
       "album": "Macadelic",
-      "played": "Mar 05, 2026",
+      "played": "Mar 06, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485121b78c31ba158c4cf2e363b8",
       "spotifyUrl": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
     },
     {
-      "song": "Thoughts from a Balcony",
-      "artist": "Mac Miller",
-      "album": "Macadelic",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485121b78c31ba158c4cf2e363b8",
-      "spotifyUrl": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
+      "song": "Break My Baby",
+      "artist": "KALEO",
+      "album": "I Want More / Break My Baby",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519d8652cc13471a1eba877ae2",
+      "spotifyUrl": "https://open.spotify.com/track/5NnFkbEjahUGx5T3qxbNCW"
     },
     {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+      "song": "I Want More",
+      "artist": "KALEO",
+      "album": "I Want More / Break My Baby",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519d8652cc13471a1eba877ae2",
+      "spotifyUrl": "https://open.spotify.com/track/4xQRRue5qsu2tULiz7UDKi"
     },
     {
-      "song": "Thoughts from a Balcony",
-      "artist": "Mac Miller",
-      "album": "Macadelic",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485121b78c31ba158c4cf2e363b8",
-      "spotifyUrl": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
+      "song": "Break My Baby",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/3BsoE7SgveujY2jeV2rVRw"
     },
     {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+      "song": "Broken Bones",
+      "artist": "KALEO",
+      "album": "A/B",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485121f46fc863130ef2d5ccd57d",
+      "spotifyUrl": "https://open.spotify.com/track/5vcTz5iUk8NsXYgw2siJHJ"
     },
     {
-      "song": "Thoughts from a Balcony",
-      "artist": "Mac Miller",
-      "album": "Macadelic",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485121b78c31ba158c4cf2e363b8",
-      "spotifyUrl": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
+      "song": "Memoirs",
+      "artist": "KALEO",
+      "album": "MIXED EMOTIONS",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a60f5674a8dc43e4be0bf521",
+      "spotifyUrl": "https://open.spotify.com/track/6afjmUBsw9UNPJP7QP0Krb"
     },
     {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+      "song": "Break My Baby",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/3BsoE7SgveujY2jeV2rVRw"
     },
     {
-      "song": "Those Eyes",
-      "artist": "New West",
-      "album": "Those Eyes",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511bb5dc21200bfc56d8f7ef41",
-      "spotifyUrl": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
+      "song": "Save Yourself",
+      "artist": "KALEO",
+      "album": "A/B",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485121f46fc863130ef2d5ccd57d",
+      "spotifyUrl": "https://open.spotify.com/track/1njzFKMmT5GDxEODvm1phL"
     },
     {
-      "song": "Those Eyes",
-      "artist": "New West",
-      "album": "Those Eyes",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511bb5dc21200bfc56d8f7ef41",
-      "spotifyUrl": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
+      "song": "Skinny",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/2C4jYVZId6mxISa3HrBvGM"
     },
     {
-      "song": "Those Eyes",
-      "artist": "New West",
-      "album": "Those Eyes",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511bb5dc21200bfc56d8f7ef41",
-      "spotifyUrl": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
-    },
-    {
-      "song": "Those Eyes",
-      "artist": "New West",
-      "album": "Those Eyes",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511bb5dc21200bfc56d8f7ef41",
-      "spotifyUrl": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
-    },
-    {
-      "song": "Sparks",
-      "artist": "Coldplay",
-      "album": "Parachutes",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a",
-      "spotifyUrl": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
-    },
-    {
-      "song": "Those Eyes",
-      "artist": "New West",
-      "album": "Those Eyes",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511bb5dc21200bfc56d8f7ef41",
-      "spotifyUrl": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
-    },
-    {
-      "song": "Borrowed Love (feat. Swae Lee & WizKid)",
-      "artist": "Metro Boomin, Swae Lee, Wizkid",
-      "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512887f8c05b5a9f1cb105be29",
-      "spotifyUrl": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
-    },
-    {
-      "song": "Sold Out Dates (feat. Lil Baby)",
-      "artist": "Gunna, Lil Baby",
-      "album": "Sold Out Dates (feat. Lil Baby)",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851303d8eca4b1bdbe410d1b454",
-      "spotifyUrl": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
-    },
-    {
-      "song": "Patient",
-      "artist": "Post Malone",
-      "album": "Stoney (Deluxe)",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-      "spotifyUrl": "https://open.spotify.com/track/5DLTuH4A5VZB2HKpqHQR6t"
-    },
-    {
-      "song": "Patient",
-      "artist": "Post Malone",
-      "album": "Stoney (Deluxe)",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-      "spotifyUrl": "https://open.spotify.com/track/5DLTuH4A5VZB2HKpqHQR6t"
-    },
-    {
-      "song": "Blue Notes",
-      "artist": "Meek Mill",
-      "album": "DC4",
-      "played": "Mar 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510a6f4e78a01fd779ebaace83",
-      "spotifyUrl": "https://open.spotify.com/track/7Gs3otHnZDq514kFHf0nx7"
+      "song": "USA Today",
+      "artist": "KALEO",
+      "album": "MIXED EMOTIONS",
+      "played": "Mar 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a60f5674a8dc43e4be0bf521",
+      "spotifyUrl": "https://open.spotify.com/track/2OBoyDAWz6LF3oBaZnfF4d"
     }
   ]
 }
