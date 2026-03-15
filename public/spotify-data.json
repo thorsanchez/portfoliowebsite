@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-03-14T19:14:22.823682",
+  "lastUpdated": "2026-03-15T19:15:58.796164",
   "tracks": [
+    {
+      "song": "Lose Yourself",
+      "artist": "Eminem",
+      "album": "Just Lose It",
+      "played": "Mar 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b6ef2ebd34efb08cb76f6eec",
+      "spotifyUrl": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
+    },
+    {
+      "song": "GOT DAMN",
+      "artist": "Gunna",
+      "album": "GOT DAMN",
+      "played": "Mar 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
+      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "song": "Thoughts from a Balcony",
+      "artist": "Mac Miller",
+      "album": "Macadelic",
+      "played": "Mar 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485121b78c31ba158c4cf2e363b8",
+      "spotifyUrl": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
+    },
+    {
+      "song": "7am On Bridle Path",
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "played": "Mar 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "song": "Apollo",
+      "artist": "St. Paul & The Broken Bones",
+      "album": "Young Sick Camellia",
+      "played": "Mar 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851aff0f524411824c03ab57302",
+      "spotifyUrl": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
+    },
+    {
+      "song": "Ekki Switcha",
+      "artist": "Birnir",
+      "album": "Ekki Switcha",
+      "played": "Mar 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048513248813a15505de8862f668a",
+      "spotifyUrl": "https://open.spotify.com/track/1nEjslQgoXyJXWewc8SUTN"
+    },
+    {
+      "song": "Over The Top (feat. Drake)",
+      "artist": "Smiley, Drake",
+      "album": "Buy or Bye 2",
+      "played": "Mar 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851029c7ad2659fcc983ba27b51",
+      "spotifyUrl": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
+    },
+    {
+      "song": "7am On Bridle Path",
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "played": "Mar 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "song": "GOT DAMN",
+      "artist": "Gunna",
+      "album": "GOT DAMN",
+      "played": "Mar 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
+      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
     {
       "song": "GOT DAMN",
       "artist": "Gunna",
@@ -88,78 +160,6 @@
       "played": "Mar 14, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
       "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
-    {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Mar 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "song": "7am On Bridle Path",
-      "artist": "Drake",
-      "album": "Certified Lover Boy",
-      "played": "Mar 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
-    {
-      "song": "7am On Bridle Path",
-      "artist": "Drake",
-      "album": "Certified Lover Boy",
-      "played": "Mar 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
-    {
-      "song": "Company",
-      "artist": "Drake, Travis Scott",
-      "album": "If You're Reading This It's Too Late",
-      "played": "Mar 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
-      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
-    },
-    {
-      "song": "The Percocet & Stripper Joint",
-      "artist": "Future",
-      "album": "DS2 (Deluxe)",
-      "played": "Mar 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
-      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
-    },
-    {
-      "song": "COMË N GO",
-      "artist": "Yeat",
-      "album": "DANGEROUS SUMMER",
-      "played": "Mar 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
-      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
-    },
-    {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Mar 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "song": "The Percocet & Stripper Joint",
-      "artist": "Future",
-      "album": "DS2 (Deluxe)",
-      "played": "Mar 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
-      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
-    },
-    {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Mar 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     }
   ]
 }
