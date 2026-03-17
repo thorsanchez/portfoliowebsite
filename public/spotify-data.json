@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-16T19:40:54.762168",
+  "lastUpdated": "2026-03-17T19:41:15.702993",
   "tracks": [
     {
       "song": "COMË N GO",
       "artist": "Yeat",
       "album": "DANGEROUS SUMMER",
-      "played": "Mar 16, 2026",
+      "played": "Mar 17, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
       "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
@@ -13,135 +13,31 @@
       "song": "GOT DAMN",
       "artist": "Gunna",
       "album": "GOT DAMN",
-      "played": "Mar 16, 2026",
+      "played": "Mar 17, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
       "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
-      "song": "MOTH BALLS",
-      "artist": "PARTYNEXTDOOR, Drake",
-      "album": "$ome $exy $ongs 4 U",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-      "spotifyUrl": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
-    },
-    {
-      "song": "MUNYUN",
-      "artist": "Playboi Carti",
-      "album": "MUSIC",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
-      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
-    },
-    {
-      "song": "Furthest Thing",
-      "artist": "Drake",
-      "album": "Nothing Was The Same",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
-      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
-    },
-    {
-      "song": "Tiramisu",
-      "artist": "Don Toliver",
-      "album": "Tiramisu",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517cbe48ffc093bb6350e8064c",
-      "spotifyUrl": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
-    },
-    {
-      "song": "Tuscan Leather",
-      "artist": "Drake",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
-    },
-    {
-      "song": "Feel No Ways",
-      "artist": "Drake",
-      "album": "Views",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "song": "Slide Away",
-      "artist": "Miley Cyrus",
-      "album": "SHE IS COMING",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cf4b197ffd35a6a0aa3474a6",
-      "spotifyUrl": "https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9"
-    },
-    {
-      "song": "NIGHTS LIKE THIS",
-      "artist": "The Kid LAROI",
-      "album": "THE FIRST TIME",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512a182fb516812ea67edde2b8",
-      "spotifyUrl": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
-    },
-    {
-      "song": "Heartless",
-      "artist": "Kanye West",
-      "album": "808s & Heartbreak",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
-      "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
-    },
-    {
-      "song": "What You Saying",
-      "artist": "Lil Uzi Vert",
-      "album": "What You Saying",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
-      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "song": "Tall Boy",
-      "artist": "Shaboozey",
-      "album": "Cowboys Live Forever, Outlaws Never Die",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bde800b5e63d8874bd427614",
-      "spotifyUrl": "https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H"
-    },
-    {
-      "song": "Lost in the Fire (feat. The Weeknd)",
-      "artist": "Gesaffelstein, The Weeknd",
-      "album": "Hyperion",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517842fd51802451ff61483dcf",
-      "spotifyUrl": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
+      "song": "COMË N GO",
+      "artist": "Yeat",
+      "album": "DANGEROUS SUMMER",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
+      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
       "song": "GOT DAMN",
       "artist": "Gunna",
       "album": "GOT DAMN",
-      "played": "Mar 16, 2026",
+      "played": "Mar 17, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
       "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
-      "song": "Company",
-      "artist": "Drake, Travis Scott",
-      "album": "If You're Reading This It's Too Late",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
-      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
-    },
-    {
       "song": "Thoughts from a Balcony",
       "artist": "Mac Miller",
       "album": "Macadelic",
-      "played": "Mar 16, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485121b78c31ba158c4cf2e363b8",
-      "spotifyUrl": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
-    },
-    {
-      "song": "Thoughts from a Balcony",
-      "artist": "Mac Miller",
-      "album": "Macadelic",
-      "played": "Mar 16, 2026",
+      "played": "Mar 17, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485121b78c31ba158c4cf2e363b8",
       "spotifyUrl": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
     },
@@ -149,7 +45,7 @@
       "song": "7am On Bridle Path",
       "artist": "Drake",
       "album": "Certified Lover Boy",
-      "played": "Mar 16, 2026",
+      "played": "Mar 17, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
       "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
@@ -157,9 +53,113 @@
       "song": "7am On Bridle Path",
       "artist": "Drake",
       "album": "Certified Lover Boy",
-      "played": "Mar 16, 2026",
+      "played": "Mar 17, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
       "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "song": "7am On Bridle Path",
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "song": "No Pole",
+      "artist": "Don Toliver",
+      "album": "Love Sick (Deluxe)",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851307323fa550564b0201b1d76",
+      "spotifyUrl": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+    },
+    {
+      "song": "FINE SHIT",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
+      "spotifyUrl": "https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL"
+    },
+    {
+      "song": "Martin & Gina",
+      "artist": "Polo G",
+      "album": "THE GOAT",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851339f780dfdbc38558ea0761d",
+      "spotifyUrl": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
+    },
+    {
+      "song": "MUNYUN",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
+      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
+    },
+    {
+      "song": "Blame (feat. John Newman)",
+      "artist": "Calvin Harris, John Newman",
+      "album": "Motion",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518fba5806a323efd272677c4d",
+      "spotifyUrl": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
+    },
+    {
+      "song": "Blame (feat. John Newman)",
+      "artist": "Calvin Harris, John Newman",
+      "album": "Motion",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518fba5806a323efd272677c4d",
+      "spotifyUrl": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
+    },
+    {
+      "song": "Superstars",
+      "artist": "GOLF",
+      "album": "Superstars",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485183825b133defaac5cde82743",
+      "spotifyUrl": "https://open.spotify.com/track/7r8FHPasw67Nl4Hqyd4685"
+    },
+    {
+      "song": "Superstars",
+      "artist": "GOLF",
+      "album": "Superstars",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485183825b133defaac5cde82743",
+      "spotifyUrl": "https://open.spotify.com/track/7r8FHPasw67Nl4Hqyd4685"
+    },
+    {
+      "song": "Backbone",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "song": "Spectrum (Say My Name) - Calvin Harris Remix",
+      "artist": "Florence + The Machine, Calvin Harris",
+      "album": "Ceremonials",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851ad73995480ca0ca7c7d1e882",
+      "spotifyUrl": "https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ"
+    },
+    {
+      "song": "Way Down We Go",
+      "artist": "KALEO",
+      "album": "A/B",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485121f46fc863130ef2d5ccd57d",
+      "spotifyUrl": "https://open.spotify.com/track/7ePk6EYEvFmKTJDhquomnj"
+    },
+    {
+      "song": "Got 2 Luv U (feat. Alexis Jordan)",
+      "artist": "Sean Paul, Alexis Jordan",
+      "album": "Tomahawk Technique",
+      "played": "Mar 17, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514e6f71844e69bf742eb6438c",
+      "spotifyUrl": "https://open.spotify.com/track/62pSYErgGri97X9aIyBzHm"
     }
   ]
 }
