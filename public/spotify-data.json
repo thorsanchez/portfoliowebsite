@@ -1,11 +1,19 @@
 {
-  "lastUpdated": "2026-03-17T19:41:15.702993",
+  "lastUpdated": "2026-03-18T19:36:32.677999",
   "tracks": [
+    {
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
+    },
     {
       "song": "COMË N GO",
       "artist": "Yeat",
       "album": "DANGEROUS SUMMER",
-      "played": "Mar 17, 2026",
+      "played": "Mar 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
       "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
@@ -13,15 +21,63 @@
       "song": "GOT DAMN",
       "artist": "Gunna",
       "album": "GOT DAMN",
-      "played": "Mar 17, 2026",
+      "played": "Mar 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
       "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
+      "song": "Move Along",
+      "artist": "Jack Harlow, James Savage",
+      "album": "Monica",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485131646844acc328f1aac59fea",
+      "spotifyUrl": "https://open.spotify.com/track/6wex38tbUhTco21wXPSo2a"
+    },
+    {
+      "song": "My Winter",
+      "artist": "Jack Harlow",
+      "album": "Monica",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485131646844acc328f1aac59fea",
+      "spotifyUrl": "https://open.spotify.com/track/0IxV9BTN4mFo7LBO4hP5se"
+    },
+    {
+      "song": "Prague",
+      "artist": "Jack Harlow",
+      "album": "Monica",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485131646844acc328f1aac59fea",
+      "spotifyUrl": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ"
+    },
+    {
+      "song": "Lonesome",
+      "artist": "Jack Harlow",
+      "album": "Monica",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485131646844acc328f1aac59fea",
+      "spotifyUrl": "https://open.spotify.com/track/6XeAixOyTbaI2DMOtBfC37"
+    },
+    {
+      "song": "Trade Places",
+      "artist": "Jack Harlow",
+      "album": "Monica",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485131646844acc328f1aac59fea",
+      "spotifyUrl": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
+    },
+    {
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
+    },
+    {
       "song": "COMË N GO",
       "artist": "Yeat",
       "album": "DANGEROUS SUMMER",
-      "played": "Mar 17, 2026",
+      "played": "Mar 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
       "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
@@ -29,7 +85,7 @@
       "song": "GOT DAMN",
       "artist": "Gunna",
       "album": "GOT DAMN",
-      "played": "Mar 17, 2026",
+      "played": "Mar 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
       "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
@@ -37,7 +93,7 @@
       "song": "Thoughts from a Balcony",
       "artist": "Mac Miller",
       "album": "Macadelic",
-      "played": "Mar 17, 2026",
+      "played": "Mar 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485121b78c31ba158c4cf2e363b8",
       "spotifyUrl": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
     },
@@ -45,7 +101,7 @@
       "song": "7am On Bridle Path",
       "artist": "Drake",
       "album": "Certified Lover Boy",
-      "played": "Mar 17, 2026",
+      "played": "Mar 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
       "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
@@ -53,113 +109,57 @@
       "song": "7am On Bridle Path",
       "artist": "Drake",
       "album": "Certified Lover Boy",
-      "played": "Mar 17, 2026",
+      "played": "Mar 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
       "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
     {
-      "song": "7am On Bridle Path",
-      "artist": "Drake",
-      "album": "Certified Lover Boy",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
     },
     {
-      "song": "No Pole",
-      "artist": "Don Toliver",
-      "album": "Love Sick (Deluxe)",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851307323fa550564b0201b1d76",
-      "spotifyUrl": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+      "song": "COMË N GO",
+      "artist": "Yeat",
+      "album": "DANGEROUS SUMMER",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
+      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
-      "song": "FINE SHIT",
-      "artist": "Playboi Carti",
-      "album": "MUSIC",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
-      "spotifyUrl": "https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL"
+      "song": "GOT DAMN",
+      "artist": "Gunna",
+      "album": "GOT DAMN",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
+      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
-      "song": "Martin & Gina",
-      "artist": "Polo G",
-      "album": "THE GOAT",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851339f780dfdbc38558ea0761d",
-      "spotifyUrl": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
     },
     {
-      "song": "MUNYUN",
-      "artist": "Playboi Carti",
-      "album": "MUSIC",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
-      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
+      "song": "COMË N GO",
+      "artist": "Yeat",
+      "album": "DANGEROUS SUMMER",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
+      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
-      "song": "Blame (feat. John Newman)",
-      "artist": "Calvin Harris, John Newman",
-      "album": "Motion",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518fba5806a323efd272677c4d",
-      "spotifyUrl": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
-    },
-    {
-      "song": "Blame (feat. John Newman)",
-      "artist": "Calvin Harris, John Newman",
-      "album": "Motion",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518fba5806a323efd272677c4d",
-      "spotifyUrl": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
-    },
-    {
-      "song": "Superstars",
-      "artist": "GOLF",
-      "album": "Superstars",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485183825b133defaac5cde82743",
-      "spotifyUrl": "https://open.spotify.com/track/7r8FHPasw67Nl4Hqyd4685"
-    },
-    {
-      "song": "Superstars",
-      "artist": "GOLF",
-      "album": "Superstars",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485183825b133defaac5cde82743",
-      "spotifyUrl": "https://open.spotify.com/track/7r8FHPasw67Nl4Hqyd4685"
-    },
-    {
-      "song": "Backbone",
-      "artist": "KALEO",
-      "album": "Surface Sounds",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
-      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
-    },
-    {
-      "song": "Spectrum (Say My Name) - Calvin Harris Remix",
-      "artist": "Florence + The Machine, Calvin Harris",
-      "album": "Ceremonials",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851ad73995480ca0ca7c7d1e882",
-      "spotifyUrl": "https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ"
-    },
-    {
-      "song": "Way Down We Go",
-      "artist": "KALEO",
-      "album": "A/B",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485121f46fc863130ef2d5ccd57d",
-      "spotifyUrl": "https://open.spotify.com/track/7ePk6EYEvFmKTJDhquomnj"
-    },
-    {
-      "song": "Got 2 Luv U (feat. Alexis Jordan)",
-      "artist": "Sean Paul, Alexis Jordan",
-      "album": "Tomahawk Technique",
-      "played": "Mar 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514e6f71844e69bf742eb6438c",
-      "spotifyUrl": "https://open.spotify.com/track/62pSYErgGri97X9aIyBzHm"
+      "song": "GOT DAMN",
+      "artist": "Gunna",
+      "album": "GOT DAMN",
+      "played": "Mar 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
+      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     }
   ]
 }
