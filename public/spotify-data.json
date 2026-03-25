@@ -1,91 +1,11 @@
 {
-  "lastUpdated": "2026-03-24T19:39:45.389792",
+  "lastUpdated": "2026-03-25T19:33:25.432063",
   "tracks": [
-    {
-      "song": "Brother Run Fast",
-      "artist": "KALEO",
-      "album": "Surface Sounds",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
-      "spotifyUrl": "https://open.spotify.com/track/2MPMTqQ1lC8IuagDsd46bE"
-    },
-    {
-      "song": "DUMBO",
-      "artist": "Travis Scott",
-      "album": "JACKBOYS 2",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c9e25378bc8de02341f3db99",
-      "spotifyUrl": "https://open.spotify.com/track/7y6RcmZyMDZ49yVupz7JdO"
-    },
-    {
-      "song": "7am On Bridle Path",
-      "artist": "Drake",
-      "album": "Certified Lover Boy",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
-    {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "song": "Sé ekki eftir neinu",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
-    },
-    {
-      "song": "Till I Collapse",
-      "artist": "Eminem, Nate Dogg",
-      "album": "The Eminem Show",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
-      "spotifyUrl": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "song": "Till I Collapse",
-      "artist": "Eminem, Nate Dogg",
-      "album": "The Eminem Show",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
-      "spotifyUrl": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "song": "Lose Yourself",
-      "artist": "Eminem",
-      "album": "Just Lose It",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b6ef2ebd34efb08cb76f6eec",
-      "spotifyUrl": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
-    },
-    {
-      "song": "Thoughts from a Balcony",
-      "artist": "Mac Miller",
-      "album": "Macadelic",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516d47a430275e8429ea38c22a",
-      "spotifyUrl": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
-    },
-    {
-      "song": "7am On Bridle Path",
-      "artist": "Drake",
-      "album": "Certified Lover Boy",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
     {
       "song": "No Role Modelz",
       "artist": "J. Cole",
       "album": "2014 Forest Hills Drive",
-      "played": "Mar 24, 2026",
+      "played": "Mar 25, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
       "spotifyUrl": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
@@ -93,63 +13,127 @@
       "song": "Sé ekki eftir neinu",
       "artist": "Birnir",
       "album": "Dyrnar",
-      "played": "Mar 24, 2026",
+      "played": "Mar 25, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
       "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
     },
     {
-      "song": "Sé ekki eftir neinu",
+      "song": "Hvítar Tennur",
       "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
+      "album": "Bushido",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514a722ee7e58d0ed7aeab3f00",
+      "spotifyUrl": "https://open.spotify.com/track/1DfcKHmZdWnfjb4VgasOzb"
     },
     {
-      "song": "COMË N GO",
-      "artist": "Yeat",
-      "album": "DANGEROUS SUMMER",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
-      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
+      "song": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "artist": "Lana Del Rey, Cedric Gervais",
+      "album": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f8cdf8e85bc179a475d581ba",
+      "spotifyUrl": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "song": "Ivy",
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+      "spotifyUrl": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+    },
+    {
+      "song": "Emotionless",
+      "artist": "Drake",
+      "album": "Scorpion",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+      "spotifyUrl": "https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM"
+    },
+    {
+      "song": "BACK TO BLONDE",
+      "artist": "SIENNA SPIRO",
+      "album": "BACK TO BLONDE",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514d9878db07cd8db9cfbcaa9c",
+      "spotifyUrl": "https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "Company",
+      "artist": "Drake, Travis Scott",
+      "album": "If You're Reading This It's Too Late",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
+    },
+    {
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
     },
     {
       "song": "GOT DAMN",
       "artist": "Gunna",
       "album": "GOT DAMN",
-      "played": "Mar 24, 2026",
+      "played": "Mar 25, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
       "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
-      "song": "Thoughts from a Balcony",
-      "artist": "Mac Miller",
-      "album": "Macadelic",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516d47a430275e8429ea38c22a",
-      "spotifyUrl": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
+      "song": "Sé ekki eftir neinu",
+      "artist": "Birnir",
+      "album": "Dyrnar",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
+      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
     },
     {
-      "song": "7am On Bridle Path",
-      "artist": "Drake",
-      "album": "Certified Lover Boy",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+      "song": "Sé ekki eftir neinu",
+      "artist": "Birnir",
+      "album": "Dyrnar",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
+      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
+    },
+    {
+      "song": "Company",
+      "artist": "Drake, Travis Scott",
+      "album": "If You're Reading This It's Too Late",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
+    },
+    {
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
+    },
+    {
+      "song": "COMË N GO",
+      "artist": "Yeat",
+      "album": "DANGEROUS SUMMER",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
+      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
       "song": "No Role Modelz",
       "artist": "J. Cole",
       "album": "2014 Forest Hills Drive",
-      "played": "Mar 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
-      "spotifyUrl": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
-    },
-    {
-      "song": "No Role Modelz",
-      "artist": "J. Cole",
-      "album": "2014 Forest Hills Drive",
-      "played": "Mar 24, 2026",
+      "played": "Mar 25, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
       "spotifyUrl": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
@@ -157,9 +141,25 @@
       "song": "Sé ekki eftir neinu",
       "artist": "Birnir",
       "album": "Dyrnar",
-      "played": "Mar 23, 2026",
+      "played": "Mar 25, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
       "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
+    },
+    {
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
+    },
+    {
+      "song": "COMË N GO",
+      "artist": "Yeat",
+      "album": "DANGEROUS SUMMER",
+      "played": "Mar 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
+      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     }
   ]
 }
