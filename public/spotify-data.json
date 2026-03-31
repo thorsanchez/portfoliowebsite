@@ -1,147 +1,59 @@
 {
-  "lastUpdated": "2026-03-30T19:40:11.571327",
+  "lastUpdated": "2026-03-31T19:40:26.623566",
   "tracks": [
     {
-      "song": "Recognize (feat. Drake)",
-      "artist": "PARTYNEXTDOOR, Drake",
-      "album": "PARTYNEXTDOOR TWO",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516cfa297b0178fd91dca5c4f1",
-      "spotifyUrl": "https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN"
+      "song": "Heartless",
+      "artist": "Kanye West",
+      "album": "808s & Heartbreak",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
+      "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "song": "GOT DAMN",
       "artist": "Gunna",
       "album": "GOT DAMN",
-      "played": "Mar 30, 2026",
+      "played": "Mar 31, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
       "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
-      "song": "SOMETHING ABOUT YOU",
-      "artist": "PARTYNEXTDOOR, Drake",
-      "album": "$ome $exy $ongs 4 U",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-      "spotifyUrl": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt"
+      "song": "Thoughts from a Balcony",
+      "artist": "Mac Miller",
+      "album": "Macadelic",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516d47a430275e8429ea38c22a",
+      "spotifyUrl": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
     },
     {
-      "song": "DIE TRYING",
-      "artist": "PARTYNEXTDOOR, Drake, Yebba",
-      "album": "$ome $exy $ongs 4 U",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-      "spotifyUrl": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-    },
-    {
-      "song": "GIMME A HUG",
+      "song": "7am On Bridle Path",
       "artist": "Drake",
-      "album": "$ome $exy $ongs 4 U",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-      "spotifyUrl": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
-    },
-    {
-      "song": "SOMEBODY LOVES ME",
-      "artist": "PARTYNEXTDOOR, Drake",
-      "album": "$ome $exy $ongs 4 U",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-      "spotifyUrl": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
-    },
-    {
-      "song": "2 Mazza (feat. Drake)",
-      "artist": "Smiley, Drake",
-      "album": "Don't Box Me In",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a897281ec4bc419fca9b41d7",
-      "spotifyUrl": "https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts"
-    },
-    {
-      "song": "NOKIA",
-      "artist": "Drake",
-      "album": "$ome $exy $ongs 4 U",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-      "spotifyUrl": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-    },
-    {
-      "song": "What Did I Miss?",
-      "artist": "Drake",
-      "album": "What Did I Miss?",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519d22b70fe52340efb60ab681",
-      "spotifyUrl": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
-    },
-    {
-      "song": "Which One (feat. Central Cee)",
-      "artist": "Drake, Central Cee",
-      "album": "Which One",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518028a7b8c9fce086d4a47ba7",
-      "spotifyUrl": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
-    },
-    {
-      "song": "Which One (feat. Central Cee)",
-      "artist": "Drake, Central Cee",
-      "album": "Which One",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518028a7b8c9fce086d4a47ba7",
-      "spotifyUrl": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
-    },
-    {
-      "song": "SOMEBODY LOVES ME PT. 2",
-      "artist": "PARTYNEXTDOOR, Drake, Cash Cobain",
-      "album": "SOMEBODY LOVES ME PT. 2",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485154da89f094a2e02a7b551022",
-      "spotifyUrl": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
-    },
-    {
-      "song": "DOG HOUSE (feat. Julia Wolf & Yeat)",
-      "artist": "Drake, Julia Wolf, Yeat",
-      "album": "DOG HOUSE",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519c2ab979bbe25f3d9e21f698",
-      "spotifyUrl": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
-    },
-    {
-      "song": "Hung Up",
-      "artist": "Madonna",
-      "album": "Confessions on a Dance Floor",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851aaa9d84415623c1e790cd07b",
-      "spotifyUrl": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
-    },
-    {
-      "song": "Dilemma",
-      "artist": "Nelly, Kelly Rowland",
-      "album": "Nellyville",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a8b9f97b9ea065b9a857e93f",
-      "spotifyUrl": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
+      "album": "Certified Lover Boy",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
     {
       "song": "Sé ekki eftir neinu",
       "artist": "Birnir",
       "album": "Dyrnar",
-      "played": "Mar 30, 2026",
+      "played": "Mar 31, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
       "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
-    },
-    {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Mar 30, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "song": "Hvítar Tennur",
       "artist": "Birnir",
       "album": "Bushido",
-      "played": "Mar 30, 2026",
+      "played": "Mar 31, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048514a722ee7e58d0ed7aeab3f00",
       "spotifyUrl": "https://open.spotify.com/track/1DfcKHmZdWnfjb4VgasOzb"
     },
@@ -149,7 +61,7 @@
       "song": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
       "artist": "Lana Del Rey, Cedric Gervais",
       "album": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
-      "played": "Mar 30, 2026",
+      "played": "Mar 31, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851f8cdf8e85bc179a475d581ba",
       "spotifyUrl": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
@@ -157,9 +69,97 @@
       "song": "APOLOGIZE",
       "artist": "Baby Keem",
       "album": "DIE FOR MY BITCH",
-      "played": "Mar 30, 2026",
+      "played": "Mar 31, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851683757f1fd40a7f7ef64bec1",
       "spotifyUrl": "https://open.spotify.com/track/4MQIDIQjNWkUvpXe5Je7TO"
+    },
+    {
+      "song": "The Emptiness Machine",
+      "artist": "Linkin Park",
+      "album": "The Emptiness Machine",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
+      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "song": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way (Deluxe Edition)",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "spotifyUrl": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "song": "Highway to Hell",
+      "artist": "AC/DC",
+      "album": "Highway to Hell",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485143058ea096fa35ac33c43587",
+      "spotifyUrl": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "song": "S&M",
+      "artist": "Rihanna",
+      "album": "Loud",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512ed326786e4c61c6b1dbf222",
+      "spotifyUrl": "https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m"
+    },
+    {
+      "song": "Mr. Brightside",
+      "artist": "The Killers",
+      "album": "Hot Fuss",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d",
+      "spotifyUrl": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "song": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "album": "Appetite For Destruction",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485121ebf49b3292c3f0f575f0f5",
+      "spotifyUrl": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "song": "The Emptiness Machine",
+      "artist": "Linkin Park",
+      "album": "The Emptiness Machine",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
+      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "song": "Love in This Club (feat. Young Jeezy)",
+      "artist": "USHER, Jeezy",
+      "album": "Here I Stand",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518be38d9324cc1ccb94ccafd9",
+      "spotifyUrl": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
+    },
+    {
+      "song": "Rehab",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f9f27162ab1ed45b8d7a7e98",
+      "spotifyUrl": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
+    },
+    {
+      "song": "Rehab",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f9f27162ab1ed45b8d7a7e98",
+      "spotifyUrl": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
+    },
+    {
+      "song": "Cry Me a River",
+      "artist": "Justin Timberlake",
+      "album": "Justified",
+      "played": "Mar 31, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851346a5742374ab4cf9ed32dee",
+      "spotifyUrl": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     }
   ]
 }
