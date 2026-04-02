@@ -1,165 +1,165 @@
 {
-  "lastUpdated": "2026-04-01T19:44:14.000563",
+  "lastUpdated": "2026-04-02T19:35:43.297611",
   "tracks": [
-    {
-      "song": "Closer - Presets Remix",
-      "artist": "Kings of Leon, The Presets",
-      "album": "Come Around Sundown (Expanded Edition)",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851496ed45f8f3dddaf410fd86e",
-      "spotifyUrl": "https://open.spotify.com/track/39AqQWRaP77mkS1MZfm2Nv"
-    },
     {
       "song": "Battle Scars (feat. Lupe Fiasco)",
       "artist": "Guy Sebastian, Lupe Fiasco",
       "album": "Armageddon",
-      "played": "Apr 01, 2026",
+      "played": "Apr 02, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851e14c3b550933adf95e97419a",
       "spotifyUrl": "https://open.spotify.com/track/2QUenCbs1tWfw1cQE4pV8C"
     },
     {
-      "song": "Love Lost",
-      "artist": "Mac Miller, The Temper Trap",
-      "album": "I Love Life, Thank You",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138d4d52b8a6127029d426757",
-      "spotifyUrl": "https://open.spotify.com/track/6WVdae8LbPfpOXAWuYdMnT"
+      "song": "Furthest Thing",
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
+      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
+    },
+    {
+      "song": "Chemical",
+      "artist": "Post Malone",
+      "album": "Chemical",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f76f8deeba5370c98ad38f1c",
+      "spotifyUrl": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "song": "Chemical",
+      "artist": "Post Malone",
+      "album": "Chemical",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f76f8deeba5370c98ad38f1c",
+      "spotifyUrl": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "song": "Chemical",
+      "artist": "Post Malone",
+      "album": "Chemical",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f76f8deeba5370c98ad38f1c",
+      "spotifyUrl": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "song": "Lost in the Fire (feat. The Weeknd)",
+      "artist": "Gesaffelstein, The Weeknd",
+      "album": "Hyperion",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517842fd51802451ff61483dcf",
+      "spotifyUrl": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
+    },
+    {
+      "song": "Company",
+      "artist": "Drake, Travis Scott",
+      "album": "If You're Reading This It's Too Late",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
+    },
+    {
+      "song": "Company",
+      "artist": "Drake, Travis Scott",
+      "album": "If You're Reading This It's Too Late",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
+    },
+    {
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
+    },
+    {
+      "song": "COMË N GO",
+      "artist": "Yeat",
+      "album": "DANGEROUS SUMMER",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
+      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
+    },
+    {
+      "song": "GOT DAMN",
+      "artist": "Gunna",
+      "album": "GOT DAMN",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
+      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "song": "Thoughts from a Balcony",
+      "artist": "Mac Miller",
+      "album": "Macadelic",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516d47a430275e8429ea38c22a",
+      "spotifyUrl": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
+    },
+    {
+      "song": "Thoughts from a Balcony",
+      "artist": "Mac Miller",
+      "album": "Macadelic",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516d47a430275e8429ea38c22a",
+      "spotifyUrl": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
+    },
+    {
+      "song": "7am On Bridle Path",
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
     {
       "song": "No Role Modelz",
       "artist": "J. Cole",
       "album": "2014 Forest Hills Drive",
-      "played": "Apr 01, 2026",
+      "played": "Apr 02, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
       "spotifyUrl": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
-      "song": "Sé ekki eftir neinu",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
-    },
-    {
-      "song": "Closer - Presets Remix",
-      "artist": "Kings of Leon, The Presets",
-      "album": "Come Around Sundown (Expanded Edition)",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851496ed45f8f3dddaf410fd86e",
-      "spotifyUrl": "https://open.spotify.com/track/39AqQWRaP77mkS1MZfm2Nv"
-    },
-    {
-      "song": "Highway to Hell",
-      "artist": "AC/DC",
-      "album": "Highway to Hell",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485143058ea096fa35ac33c43587",
-      "spotifyUrl": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
       "song": "The Emptiness Machine",
       "artist": "Linkin Park",
       "album": "The Emptiness Machine",
-      "played": "Apr 01, 2026",
+      "played": "Apr 02, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
       "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
-      "song": "Hate It Or Love It",
-      "artist": "The Game, 50 Cent",
-      "album": "The Documentary",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b1d860ab1ba847e778b2796d",
-      "spotifyUrl": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
-    },
-    {
-      "song": "Till I Collapse",
-      "artist": "Eminem, Nate Dogg",
-      "album": "The Eminem Show",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
-      "spotifyUrl": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "song": "Lose Yourself",
-      "artist": "Eminem",
-      "album": "Just Lose It",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b6ef2ebd34efb08cb76f6eec",
-      "spotifyUrl": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
-    },
-    {
-      "song": "Can't Stop",
-      "artist": "Red Hot Chili Peppers",
-      "album": "By the Way (Deluxe Edition)",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
-      "spotifyUrl": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "song": "Highway to Hell",
-      "artist": "AC/DC",
-      "album": "Highway to Hell",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485143058ea096fa35ac33c43587",
-      "spotifyUrl": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "song": "The Emptiness Machine",
-      "artist": "Linkin Park",
-      "album": "The Emptiness Machine",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
-      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "song": "Sé ekki eftir neinu",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
-    },
-    {
-      "song": "Hollywood's Bleeding",
+      "song": "Laugh It Off",
       "artist": "Post Malone",
-      "album": "Hollywood's Bleeding",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
-      "spotifyUrl": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
+      "album": "AUSTIN",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
+      "spotifyUrl": "https://open.spotify.com/track/26EjM7ZMAnWOKPAuKNOX24"
     },
     {
-      "song": "Till I Collapse",
-      "artist": "Eminem, Nate Dogg",
-      "album": "The Eminem Show",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
-      "spotifyUrl": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "song": "Closer - Presets Remix",
-      "artist": "Kings of Leon, The Presets",
-      "album": "Come Around Sundown (Expanded Edition)",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851496ed45f8f3dddaf410fd86e",
-      "spotifyUrl": "https://open.spotify.com/track/39AqQWRaP77mkS1MZfm2Nv"
-    },
-    {
-      "song": "Highway to Hell",
-      "artist": "AC/DC",
-      "album": "Highway to Hell",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485143058ea096fa35ac33c43587",
-      "spotifyUrl": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "song": "The Emptiness Machine",
+      "song": "What I've Done",
       "artist": "Linkin Park",
-      "album": "The Emptiness Machine",
-      "played": "Apr 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
-      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+      "album": "Minutes to Midnight",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213",
+      "spotifyUrl": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
+    },
+    {
+      "song": "Paradise",
+      "artist": "Coldplay",
+      "album": "Mylo Xyloto",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851de0cd11d7b31c3bd1fd5983d",
+      "spotifyUrl": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "song": "Where You Are",
+      "artist": "John Summit, HAYLA",
+      "album": "Comfort In Chaos",
+      "played": "Apr 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851ac2be70b09319ac92b074fde",
+      "spotifyUrl": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"
     }
   ]
 }
