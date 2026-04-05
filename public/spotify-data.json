@@ -1,139 +1,51 @@
 {
-  "lastUpdated": "2026-04-04T19:19:52.510607",
+  "lastUpdated": "2026-04-05T19:22:53.619739",
   "tracks": [
     {
-      "song": "Hvítar Tennur",
-      "artist": "Birnir",
-      "album": "Bushido",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514a722ee7e58d0ed7aeab3f00",
-      "spotifyUrl": "https://open.spotify.com/track/1DfcKHmZdWnfjb4VgasOzb"
+      "song": "Need You Now",
+      "artist": "Lady A",
+      "album": "Need You Now",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048515a8b541ca2a563671ff38ddf",
+      "spotifyUrl": "https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd"
     },
     {
-      "song": "The Emptiness Machine",
-      "artist": "Linkin Park",
-      "album": "The Emptiness Machine",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
-      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+      "song": "Believe (Jackyboom Piano Edit) - Cover",
+      "artist": "Jackyboom, nowifi",
+      "album": "Believe (Piano Edit) [Cover]",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516a15bf24f9a62919bc6fea9e",
+      "spotifyUrl": "https://open.spotify.com/track/7GmAIRZo719xQ2i2wG6Pxx"
     },
     {
-      "song": "Sé ekki eftir neinu",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
+      "song": "No Complaints (feat. Offset & Drake) (Bonus)",
+      "artist": "Metro Boomin, Offset, Drake",
+      "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512887f8c05b5a9f1cb105be29",
+      "spotifyUrl": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
     },
     {
-      "song": "The Emptiness Machine",
-      "artist": "Linkin Park",
-      "album": "The Emptiness Machine",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
-      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+      "song": "No Complaints (feat. Offset & Drake) (Bonus)",
+      "artist": "Metro Boomin, Offset, Drake",
+      "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512887f8c05b5a9f1cb105be29",
+      "spotifyUrl": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
     },
     {
-      "song": "Battle Scars (feat. Lupe Fiasco)",
-      "artist": "Guy Sebastian, Lupe Fiasco",
-      "album": "Armageddon",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e14c3b550933adf95e97419a",
-      "spotifyUrl": "https://open.spotify.com/track/2QUenCbs1tWfw1cQE4pV8C"
-    },
-    {
-      "song": "Closer - Presets Remix",
-      "artist": "Kings of Leon, The Presets",
-      "album": "Come Around Sundown (Expanded Edition)",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851496ed45f8f3dddaf410fd86e",
-      "spotifyUrl": "https://open.spotify.com/track/39AqQWRaP77mkS1MZfm2Nv"
-    },
-    {
-      "song": "Battle Scars (feat. Lupe Fiasco)",
-      "artist": "Guy Sebastian, Lupe Fiasco",
-      "album": "Armageddon",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e14c3b550933adf95e97419a",
-      "spotifyUrl": "https://open.spotify.com/track/2QUenCbs1tWfw1cQE4pV8C"
-    },
-    {
-      "song": "Closer - Presets Remix",
-      "artist": "Kings of Leon, The Presets",
-      "album": "Come Around Sundown (Expanded Edition)",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851496ed45f8f3dddaf410fd86e",
-      "spotifyUrl": "https://open.spotify.com/track/39AqQWRaP77mkS1MZfm2Nv"
-    },
-    {
-      "song": "Battle Scars (feat. Lupe Fiasco)",
-      "artist": "Guy Sebastian, Lupe Fiasco",
-      "album": "Armageddon",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e14c3b550933adf95e97419a",
-      "spotifyUrl": "https://open.spotify.com/track/2QUenCbs1tWfw1cQE4pV8C"
-    },
-    {
-      "song": "The Thrill",
-      "artist": "Wiz Khalifa, Empire Of The Sun",
-      "album": "The Thrill",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485102b0327e0d514a5ba0f8ae14",
-      "spotifyUrl": "https://open.spotify.com/track/42F7AY5a40owYmUeq0QQTl"
-    },
-    {
-      "song": "Window Shopper",
-      "artist": "50 Cent",
-      "album": "Window Shopper",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514a3de788d0aecc7c9b06cfc8",
-      "spotifyUrl": "https://open.spotify.com/track/0NJu93oln1kkgbHLFzLJ4h"
-    },
-    {
-      "song": "9",
-      "artist": "Drake",
-      "album": "Views",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-      "spotifyUrl": "https://open.spotify.com/track/1C7KSXR2GVxknex6I4ANco"
-    },
-    {
-      "song": "Everything I Am",
-      "artist": "Kanye West, DJ Premier",
-      "album": "Graduation",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
-      "spotifyUrl": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
-    },
-    {
-      "song": "All Falls Down",
-      "artist": "Kanye West, Syleena Johnson",
-      "album": "The College Dropout",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485125b055377757b3cdd6f26b78",
-      "spotifyUrl": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
-    },
-    {
-      "song": "What's Luv? (feat. Ja-Rule & Ashanti)",
-      "artist": "Fat Joe, Ja Rule, Ashanti",
-      "album": "Jealous Ones Still Envy (J.O.S.E)",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/7bb3a0b50c9c42572efd9772628c14140f70980a",
-      "spotifyUrl": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
-    },
-    {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+      "song": "Without You (feat. Usher)",
+      "artist": "David Guetta, USHER",
+      "album": "Nothing but the Beat (Ultimate Edition)",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485163bf1cd36632031eb3081cb0",
+      "spotifyUrl": "https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum"
     },
     {
       "song": "Thoughts from a Balcony",
       "artist": "Mac Miller",
       "album": "Macadelic",
-      "played": "Apr 04, 2026",
+      "played": "Apr 05, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048516d47a430275e8429ea38c22a",
       "spotifyUrl": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
     },
@@ -141,25 +53,113 @@
       "song": "7am On Bridle Path",
       "artist": "Drake",
       "album": "Certified Lover Boy",
-      "played": "Apr 04, 2026",
+      "played": "Apr 05, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
       "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
     {
-      "song": "No Role Modelz",
-      "artist": "J. Cole",
-      "album": "2014 Forest Hills Drive",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
-      "spotifyUrl": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+      "song": "Heartless",
+      "artist": "Kanye West",
+      "album": "808s & Heartbreak",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
+      "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     },
     {
-      "song": "Sé ekki eftir neinu",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Apr 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
+      "song": "Ivy",
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+      "spotifyUrl": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+    },
+    {
+      "song": "Emotionless",
+      "artist": "Drake",
+      "album": "Scorpion",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+      "spotifyUrl": "https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM"
+    },
+    {
+      "song": "BACK TO BLONDE",
+      "artist": "SIENNA SPIRO",
+      "album": "BACK TO BLONDE",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514d9878db07cd8db9cfbcaa9c",
+      "spotifyUrl": "https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08"
+    },
+    {
+      "song": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way (Deluxe Edition)",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "spotifyUrl": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "song": "Highway to Hell",
+      "artist": "AC/DC",
+      "album": "Highway to Hell",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485143058ea096fa35ac33c43587",
+      "spotifyUrl": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "song": "Closer - Presets Remix",
+      "artist": "Kings of Leon, The Presets",
+      "album": "Come Around Sundown (Expanded Edition)",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851496ed45f8f3dddaf410fd86e",
+      "spotifyUrl": "https://open.spotify.com/track/39AqQWRaP77mkS1MZfm2Nv"
+    },
+    {
+      "song": "Battle Scars (feat. Lupe Fiasco)",
+      "artist": "Guy Sebastian, Lupe Fiasco",
+      "album": "Armageddon",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e14c3b550933adf95e97419a",
+      "spotifyUrl": "https://open.spotify.com/track/2QUenCbs1tWfw1cQE4pV8C"
+    },
+    {
+      "song": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way (Deluxe Edition)",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "spotifyUrl": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "song": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Californication (Deluxe Edition)",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+      "spotifyUrl": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
+    },
+    {
+      "song": "Brother Run Fast",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/2MPMTqQ1lC8IuagDsd46bE"
+    },
+    {
+      "song": "DUMBO",
+      "artist": "Travis Scott",
+      "album": "JACKBOYS 2",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851efbd6db75af779c6028cb95c",
+      "spotifyUrl": "https://open.spotify.com/track/3GtxRYChLs84J8qohrjsDR"
+    },
+    {
+      "song": "DUMBO",
+      "artist": "Travis Scott",
+      "album": "JACKBOYS 2",
+      "played": "Apr 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851efbd6db75af779c6028cb95c",
+      "spotifyUrl": "https://open.spotify.com/track/3GtxRYChLs84J8qohrjsDR"
     }
   ]
 }
