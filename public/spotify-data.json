@@ -1,13 +1,141 @@
 {
-  "lastUpdated": "2026-04-07T19:42:29.727904",
+  "lastUpdated": "2026-04-08T19:48:28.893697",
   "tracks": [
     {
-      "song": "Jubel - Radio Edit",
-      "artist": "Klingande",
-      "album": "Jubel (Radio Edit)",
+      "song": "GOT DAMN",
+      "artist": "Gunna",
+      "album": "GOT DAMN",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
+      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "song": "Thoughts from a Balcony",
+      "artist": "Mac Miller",
+      "album": "Macadelic",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516d47a430275e8429ea38c22a",
+      "spotifyUrl": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
+    },
+    {
+      "song": "7am On Bridle Path",
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "song": "Sé ekki eftir neinu",
+      "artist": "Birnir",
+      "album": "Dyrnar",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
+      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
+    },
+    {
+      "song": "No Face",
+      "artist": "Drake",
+      "album": "No Face",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cf05fc616cf7e38c0e52b888",
+      "spotifyUrl": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
+    },
+    {
+      "song": "First Person Shooter (feat. J. Cole)",
+      "artist": "Drake, J. Cole",
+      "album": "For All The Dogs",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
+      "spotifyUrl": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "song": "Tyler Herro",
+      "artist": "Jack Harlow",
+      "album": "Thats What They All Say",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516c97899926c43255b4238dfa",
+      "spotifyUrl": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
+    },
+    {
+      "song": "on one tonight",
+      "artist": "Gunna",
+      "album": "One of Wun",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519a0cbe7c93bc691f48f356ed",
+      "spotifyUrl": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
+    },
+    {
+      "song": "What Did I Miss?",
+      "artist": "Drake",
+      "album": "What Did I Miss?",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519d22b70fe52340efb60ab681",
+      "spotifyUrl": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+    },
+    {
+      "song": "First Person Shooter (feat. J. Cole)",
+      "artist": "Drake, J. Cole",
+      "album": "For All The Dogs",
+      "played": "Apr 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
+      "spotifyUrl": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "song": "CRYING IN CHANEL",
+      "artist": "Drake",
+      "album": "$ome $exy $ongs 4 U",
       "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510a2052309e1633bc181b3ff2",
-      "spotifyUrl": "https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM"
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+      "spotifyUrl": "https://open.spotify.com/track/5aIEFCKhVUM5sKkwOSdFiM"
+    },
+    {
+      "song": "DIE TRYING",
+      "artist": "PARTYNEXTDOOR, Drake, Yebba",
+      "album": "$ome $exy $ongs 4 U",
+      "played": "Apr 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+      "spotifyUrl": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+    },
+    {
+      "song": "Worst Behavior",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "Apr 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/3X37NtwadSS0RM20dh2IgP"
+    },
+    {
+      "song": "Worst Behavior",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "Apr 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/3X37NtwadSS0RM20dh2IgP"
+    },
+    {
+      "song": "GIMME A HUG",
+      "artist": "Drake",
+      "album": "$ome $exy $ongs 4 U",
+      "played": "Apr 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+      "spotifyUrl": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
+    },
+    {
+      "song": "Under Ground Kings",
+      "artist": "Drake",
+      "album": "Take Care (Deluxe)",
+      "played": "Apr 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c7ea04a9b455e3f68ef82550",
+      "spotifyUrl": "https://open.spotify.com/track/1D9XLqQp2YYiOxrr5KLb8K"
+    },
+    {
+      "song": "First Person Shooter (feat. J. Cole)",
+      "artist": "Drake, J. Cole",
+      "album": "For All The Dogs",
+      "played": "Apr 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
+      "spotifyUrl": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
       "song": "Draft Day",
@@ -26,140 +154,12 @@
       "spotifyUrl": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
+      "song": "First Person Shooter (feat. J. Cole)",
+      "artist": "Drake, J. Cole",
+      "album": "For All The Dogs",
       "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "song": "Sé ekki eftir neinu",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
-    },
-    {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "song": "The Emptiness Machine",
-      "artist": "Linkin Park",
-      "album": "The Emptiness Machine",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
-      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "song": "Furthest Thing",
-      "artist": "Drake",
-      "album": "Nothing Was The Same",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
-      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
-    },
-    {
-      "song": "Can't Stop",
-      "artist": "Red Hot Chili Peppers",
-      "album": "By the Way (Deluxe Edition)",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
-      "spotifyUrl": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "song": "Can't Stop",
-      "artist": "Red Hot Chili Peppers",
-      "album": "By the Way (Deluxe Edition)",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
-      "spotifyUrl": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "song": "Highway to Hell",
-      "artist": "AC/DC",
-      "album": "Highway to Hell",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485143058ea096fa35ac33c43587",
-      "spotifyUrl": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "song": "Closer - Presets Remix",
-      "artist": "Kings of Leon, The Presets",
-      "album": "Come Around Sundown (Expanded Edition)",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851496ed45f8f3dddaf410fd86e",
-      "spotifyUrl": "https://open.spotify.com/track/39AqQWRaP77mkS1MZfm2Nv"
-    },
-    {
-      "song": "Battle Scars (feat. Lupe Fiasco)",
-      "artist": "Guy Sebastian, Lupe Fiasco",
-      "album": "Armageddon",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e14c3b550933adf95e97419a",
-      "spotifyUrl": "https://open.spotify.com/track/2QUenCbs1tWfw1cQE4pV8C"
-    },
-    {
-      "song": "Over The Top (feat. Drake)",
-      "artist": "Smiley, Drake",
-      "album": "Buy or Bye 2",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851ee8573392aa4597c92d33489",
-      "spotifyUrl": "https://open.spotify.com/track/3skWb4hadA0lTaowADujyY"
-    },
-    {
-      "song": "The Visitor",
-      "artist": "SIENNA SPIRO",
-      "album": "The Visitor",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512211aea789b9010379e43726",
-      "spotifyUrl": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
-    },
-    {
-      "song": "Can't Stop",
-      "artist": "Red Hot Chili Peppers",
-      "album": "By the Way (Deluxe Edition)",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
-      "spotifyUrl": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "song": "Highway to Hell",
-      "artist": "AC/DC",
-      "album": "Highway to Hell",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485143058ea096fa35ac33c43587",
-      "spotifyUrl": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "song": "Closer - Presets Remix",
-      "artist": "Kings of Leon, The Presets",
-      "album": "Come Around Sundown (Expanded Edition)",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851496ed45f8f3dddaf410fd86e",
-      "spotifyUrl": "https://open.spotify.com/track/39AqQWRaP77mkS1MZfm2Nv"
-    },
-    {
-      "song": "Battle Scars (feat. Lupe Fiasco)",
-      "artist": "Guy Sebastian, Lupe Fiasco",
-      "album": "Armageddon",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e14c3b550933adf95e97419a",
-      "spotifyUrl": "https://open.spotify.com/track/2QUenCbs1tWfw1cQE4pV8C"
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
+      "spotifyUrl": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     }
   ]
 }
