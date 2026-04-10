@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-04-09T19:49:28.446133",
+  "lastUpdated": "2026-04-10T19:31:15.527674",
   "tracks": [
+    {
+      "song": "Titanium (feat. Sia)",
+      "artist": "David Guetta, Sia",
+      "album": "Nothing but the Beat (Ultimate Edition)",
+      "played": "Apr 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485163bf1cd36632031eb3081cb0",
+      "spotifyUrl": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
+    },
+    {
+      "song": "Losses",
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "played": "Apr 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
+    },
+    {
+      "song": "Losses",
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "played": "Apr 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
+    },
     {
       "song": "4pm in Calabasas",
       "artist": "Drake",
@@ -136,30 +160,6 @@
       "played": "Apr 08, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048519a0cbe7c93bc691f48f356ed",
       "spotifyUrl": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
-    },
-    {
-      "song": "What Did I Miss?",
-      "artist": "Drake",
-      "album": "What Did I Miss?",
-      "played": "Apr 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519d22b70fe52340efb60ab681",
-      "spotifyUrl": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
-    },
-    {
-      "song": "First Person Shooter (feat. J. Cole)",
-      "artist": "Drake, J. Cole",
-      "album": "For All The Dogs",
-      "played": "Apr 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
-      "spotifyUrl": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "song": "CRYING IN CHANEL",
-      "artist": "Drake",
-      "album": "$ome $exy $ongs 4 U",
-      "played": "Apr 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-      "spotifyUrl": "https://open.spotify.com/track/5aIEFCKhVUM5sKkwOSdFiM"
     }
   ]
 }
