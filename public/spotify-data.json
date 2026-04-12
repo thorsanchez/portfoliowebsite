@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-04-11T19:24:06.166271",
+  "lastUpdated": "2026-04-12T19:27:11.027869",
   "tracks": [
+    {
+      "song": "Losses",
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "played": "Apr 12, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
+    },
+    {
+      "song": "Highway to Hell",
+      "artist": "AC/DC",
+      "album": "Highway to Hell",
+      "played": "Apr 12, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485143058ea096fa35ac33c43587",
+      "spotifyUrl": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "song": "7am On Bridle Path",
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "played": "Apr 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
     {
       "song": "GOT DAMN",
       "artist": "Gunna",
@@ -136,30 +160,6 @@
       "played": "Apr 11, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
       "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
-    },
-    {
-      "song": "Sé ekki eftir neinu",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Apr 11, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
-    },
-    {
-      "song": "Losses",
-      "artist": "Drake",
-      "album": "Dark Lane Demo Tapes",
-      "played": "Apr 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
-      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
-    },
-    {
-      "song": "Titanium (feat. Sia)",
-      "artist": "David Guetta, Sia",
-      "album": "Nothing but the Beat (Ultimate Edition)",
-      "played": "Apr 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485163bf1cd36632031eb3081cb0",
-      "spotifyUrl": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
     }
   ]
 }
