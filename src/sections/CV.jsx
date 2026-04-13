@@ -7,7 +7,7 @@ function CV() {
   const handleViewCV = () => {
     // opna mismunandi cv eftir tungumal
     const cvFiles = {
-      is: '/cv_thor_is.pdf',
+      is: '/cv_thor_is_3.pdf',
       en: '/cv_thor_en.pdf',
       no: '/cv_thor_en.pdf' // a eftir að bua til norskt cv
     };
