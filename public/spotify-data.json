@@ -1,37 +1,157 @@
 {
-  "lastUpdated": "2026-04-14T19:51:19.896688",
+  "lastUpdated": "2026-04-15T19:50:59.780712",
   "tracks": [
-    {
-      "song": "Titanium (feat. Sia)",
-      "artist": "David Guetta, Sia",
-      "album": "Nothing but the Beat (Ultimate Edition)",
-      "played": "Apr 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485163bf1cd36632031eb3081cb0",
-      "spotifyUrl": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
-    },
     {
       "song": "Losses",
       "artist": "Drake",
       "album": "Dark Lane Demo Tapes",
-      "played": "Apr 14, 2026",
+      "played": "Apr 15, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
       "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
     },
     {
-      "song": "Can't Stop",
-      "artist": "Red Hot Chili Peppers",
-      "album": "By the Way (Deluxe Edition)",
-      "played": "Apr 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
-      "spotifyUrl": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+      "song": "What's Luv",
+      "artist": "Tory Lanez, Nyce",
+      "album": "Chixtapes (Trilogy)",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514bcf03a94384725cb1ff2438",
+      "spotifyUrl": "https://open.spotify.com/track/7yCda5oNO7tkEZYF1wwJkz"
     },
     {
-      "song": "Highway to Hell",
-      "artist": "AC/DC",
-      "album": "Highway to Hell",
-      "played": "Apr 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485143058ea096fa35ac33c43587",
-      "spotifyUrl": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+      "song": "Rape Me",
+      "artist": "Nirvana",
+      "album": "In Utero (Deluxe Edition)",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851aca059cebc1841277db22d1c",
+      "spotifyUrl": "https://open.spotify.com/track/5Rizj5FLb2AyNKu9esjYY6"
+    },
+    {
+      "song": "Retro (Rough)",
+      "artist": "Childish Gambino",
+      "album": "Kauai",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851811e18d061fb03580767a0f3",
+      "spotifyUrl": "https://open.spotify.com/track/40DNN6CjgNEouHH0RsygcZ"
+    },
+    {
+      "song": "MOTH BALLS",
+      "artist": "PARTYNEXTDOOR, Drake",
+      "album": "$ome $exy $ongs 4 U",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+      "spotifyUrl": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
+    },
+    {
+      "song": "Free the Slave",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/4Ux0OxCoPN8SZ9SWbGKbtT"
+    },
+    {
+      "song": "Free the Slave",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/4Ux0OxCoPN8SZ9SWbGKbtT"
+    },
+    {
+      "song": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+      "artist": "Ty Dolla $ign, Quavo, Juicy J",
+      "album": "TYCOON",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851712be553f73989a1b7607674",
+      "spotifyUrl": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
+    },
+    {
+      "song": "Furthest Thing",
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
+      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
+    },
+    {
+      "song": "Tiramisu",
+      "artist": "Don Toliver",
+      "album": "Tiramisu",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517cbe48ffc093bb6350e8064c",
+      "spotifyUrl": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
+    },
+    {
+      "song": "From The Bottom",
+      "artist": "BigXthaPlug",
+      "album": "I Hope You're Happy (Deluxe)",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485137dae0cb3a9fdb6d7838b176",
+      "spotifyUrl": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
+    },
+    {
+      "song": "Backbone",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "song": "MOTH BALLS",
+      "artist": "PARTYNEXTDOOR, Drake",
+      "album": "$ome $exy $ongs 4 U",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+      "spotifyUrl": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
+    },
+    {
+      "song": "Free the Slave",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/4Ux0OxCoPN8SZ9SWbGKbtT"
+    },
+    {
+      "song": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+      "artist": "Ty Dolla $ign, Quavo, Juicy J",
+      "album": "TYCOON",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851712be553f73989a1b7607674",
+      "spotifyUrl": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
+    },
+    {
+      "song": "Furthest Thing",
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
+      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
+    },
+    {
+      "song": "Tiramisu",
+      "artist": "Don Toliver",
+      "album": "Tiramisu",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517cbe48ffc093bb6350e8064c",
+      "spotifyUrl": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
+    },
+    {
+      "song": "From The Bottom",
+      "artist": "BigXthaPlug",
+      "album": "I Hope You're Happy (Deluxe)",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485137dae0cb3a9fdb6d7838b176",
+      "spotifyUrl": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
+    },
+    {
+      "song": "Backbone",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Apr 15, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
     },
     {
       "song": "Closer - Presets Remix",
@@ -40,126 +160,6 @@
       "played": "Apr 14, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851496ed45f8f3dddaf410fd86e",
       "spotifyUrl": "https://open.spotify.com/track/39AqQWRaP77mkS1MZfm2Nv"
-    },
-    {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Apr 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "song": "Love Lost",
-      "artist": "Mac Miller, The Temper Trap",
-      "album": "I Love Life, Thank You",
-      "played": "Apr 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138d4d52b8a6127029d426757",
-      "spotifyUrl": "https://open.spotify.com/track/6WVdae8LbPfpOXAWuYdMnT"
-    },
-    {
-      "song": "Losses",
-      "artist": "Drake",
-      "album": "Dark Lane Demo Tapes",
-      "played": "Apr 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
-      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
-    },
-    {
-      "song": "8Ball (feat. Aon & Hooks)",
-      "artist": "Arif Murakami, AON, Hooks",
-      "album": "HighEnd / Asfalt",
-      "played": "Apr 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485118b26df4505602575ca8df2f",
-      "spotifyUrl": "https://open.spotify.com/track/5WGY9MgAYcQF8XbVf2sATZ"
-    },
-    {
-      "song": "SAMMEN",
-      "artist": "Marstein, Annika",
-      "album": "FRIHET I LENKER",
-      "played": "Apr 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485112b3c552fa4643026021b26a",
-      "spotifyUrl": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
-    },
-    {
-      "song": "Losses",
-      "artist": "Drake",
-      "album": "Dark Lane Demo Tapes",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
-      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
-    },
-    {
-      "song": "Losses",
-      "artist": "Drake",
-      "album": "Dark Lane Demo Tapes",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
-      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
-    },
-    {
-      "song": "No Role Modelz",
-      "artist": "J. Cole",
-      "album": "2014 Forest Hills Drive",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
-      "spotifyUrl": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
-    },
-    {
-      "song": "Sé ekki eftir neinu",
-      "artist": "Birnir",
-      "album": "Dyrnar",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
-      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
-    },
-    {
-      "song": "Losses",
-      "artist": "Drake",
-      "album": "Dark Lane Demo Tapes",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
-      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
-    },
-    {
-      "song": "Hvítar Tennur",
-      "artist": "Birnir",
-      "album": "Bushido",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514a722ee7e58d0ed7aeab3f00",
-      "spotifyUrl": "https://open.spotify.com/track/1DfcKHmZdWnfjb4VgasOzb"
-    },
-    {
-      "song": "The Emptiness Machine",
-      "artist": "Linkin Park",
-      "album": "The Emptiness Machine",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
-      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "song": "Battle Scars (feat. Lupe Fiasco)",
-      "artist": "Guy Sebastian, Lupe Fiasco",
-      "album": "Armageddon",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e14c3b550933adf95e97419a",
-      "spotifyUrl": "https://open.spotify.com/track/2QUenCbs1tWfw1cQE4pV8C"
-    },
-    {
-      "song": "Love Lost",
-      "artist": "Mac Miller, The Temper Trap",
-      "album": "I Love Life, Thank You",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138d4d52b8a6127029d426757",
-      "spotifyUrl": "https://open.spotify.com/track/6WVdae8LbPfpOXAWuYdMnT"
-    },
-    {
-      "song": "Losses",
-      "artist": "Drake",
-      "album": "Dark Lane Demo Tapes",
-      "played": "Apr 13, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
-      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
     }
   ]
 }
