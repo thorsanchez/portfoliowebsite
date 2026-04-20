@@ -1,165 +1,165 @@
 {
-  "lastUpdated": "2026-04-19T19:29:16.975968",
+  "lastUpdated": "2026-04-20T19:43:45.833242",
   "tracks": [
     {
-      "song": "Iris",
-      "artist": "The Goo Goo Dolls",
-      "album": "Dizzy up the Girl",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca",
-      "spotifyUrl": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+      "song": "Whistle",
+      "artist": "Flo Rida",
+      "album": "Wild Ones",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485115785fa4f22f8c50902b3a42",
+      "spotifyUrl": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
+    },
+    {
+      "song": "MAYBE.",
+      "artist": "SIENNA SPIRO",
+      "album": "MAYBE.",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e177c11e07acf1f4e1c5c2e7",
+      "spotifyUrl": "https://open.spotify.com/track/6yA2GnuThv4oDuEimu4Rmg"
+    },
+    {
+      "song": "You Stole The Show",
+      "artist": "SIENNA SPIRO",
+      "album": "You Stole The Show",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485144f5ec1ee542da255ae05bb0",
+      "spotifyUrl": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "song": "Stay",
+      "artist": "Rihanna, Mikky Ekko",
+      "album": "Unapologetic (Deluxe)",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516dee21d6cd1823e4d6231d37",
+      "spotifyUrl": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
+    },
+    {
+      "song": "Rehab",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f9f27162ab1ed45b8d7a7e98",
+      "spotifyUrl": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
+    },
+    {
+      "song": "Die On This Hill",
+      "artist": "SIENNA SPIRO",
+      "album": "Die On This Hill",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851ec4833919808083d733ca9af",
+      "spotifyUrl": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "song": "The Visitor",
+      "artist": "SIENNA SPIRO",
+      "album": "The Visitor",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512211aea789b9010379e43726",
+      "spotifyUrl": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+    },
+    {
+      "song": "BACK TO BLONDE",
+      "artist": "SIENNA SPIRO",
+      "album": "BACK TO BLONDE",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514d9878db07cd8db9cfbcaa9c",
+      "spotifyUrl": "https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08"
+    },
+    {
+      "song": "Believe (Jackyboom Piano Edit) - Cover",
+      "artist": "Jackyboom, nowifi",
+      "album": "Believe (Piano Edit) [Cover]",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516a15bf24f9a62919bc6fea9e",
+      "spotifyUrl": "https://open.spotify.com/track/7GmAIRZo719xQ2i2wG6Pxx"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138b6341d4c2a56836a650165",
+      "spotifyUrl": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "song": "Die On This Hill - At KOKO",
+      "artist": "SIENNA SPIRO",
+      "album": "Die On This Hill (At KOKO)",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517cb7026aa6755544638e1149",
+      "spotifyUrl": "https://open.spotify.com/track/0vYVxe1X7QOpzyIJzyVG3O"
+    },
+    {
+      "song": "Feel So Close - Radio Edit",
+      "artist": "Calvin Harris",
+      "album": "18 Months",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851dcef905cb144d4867119850b",
+      "spotifyUrl": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "song": "Love Me Again",
+      "artist": "John Newman",
+      "album": "Tribute",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
+      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
+    },
+    {
+      "song": "Without You (feat. Usher)",
+      "artist": "David Guetta, USHER",
+      "album": "Nothing but the Beat (Ultimate Edition)",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485163bf1cd36632031eb3081cb0",
+      "spotifyUrl": "https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum"
+    },
+    {
+      "song": "No Complaints (feat. Offset & Drake) (Bonus)",
+      "artist": "Metro Boomin, Offset, Drake",
+      "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512887f8c05b5a9f1cb105be29",
+      "spotifyUrl": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
+    },
+    {
+      "song": "Need You Now",
+      "artist": "Lady A",
+      "album": "Need You Now",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048515a8b541ca2a563671ff38ddf",
+      "spotifyUrl": "https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd"
+    },
+    {
+      "song": "Lights - Sped Up Version",
+      "artist": "Ellie Goulding, Speed Radio",
+      "album": "Lights (Sped Up Version)",
+      "played": "Apr 20, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bb4cc06a0334303c3684b776",
+      "spotifyUrl": "https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa"
     },
     {
       "song": "How to Save a Life",
       "artist": "The Fray",
       "album": "How To Save A Life",
-      "played": "Apr 18, 2026",
+      "played": "Apr 20, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485159b8b957f164ce660919f1f4",
       "spotifyUrl": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
-    },
-    {
-      "song": "Numb",
-      "artist": "Linkin Park",
-      "album": "Meteora",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048515f1f51d14e8bea89484ecd1b",
-      "spotifyUrl": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
     },
     {
       "song": "How to Save a Life",
       "artist": "The Fray",
       "album": "How To Save A Life",
-      "played": "Apr 18, 2026",
+      "played": "Apr 20, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485159b8b957f164ce660919f1f4",
       "spotifyUrl": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
-    },
-    {
-      "song": "Sex on Fire",
-      "artist": "Kings of Leon",
-      "album": "Only By The Night",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
-      "spotifyUrl": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
-    },
-    {
-      "song": "How You Remind Me",
-      "artist": "Nickelback",
-      "album": "Silver Side Up",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851699a422d25adc550dc5aa11c",
-      "spotifyUrl": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
-    },
-    {
-      "song": "How to Save a Life",
-      "artist": "The Fray",
-      "album": "How To Save A Life",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485159b8b957f164ce660919f1f4",
-      "spotifyUrl": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
-    },
-    {
-      "song": "PREACHER MAN",
-      "artist": "Kanye West, Ye",
-      "album": "BULLY",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
-      "spotifyUrl": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ"
-    },
-    {
-      "song": "WHATEVER WORKS",
-      "artist": "Kanye West, Ye",
-      "album": "BULLY",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
-      "spotifyUrl": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"
-    },
-    {
-      "song": "CIRCLES",
-      "artist": "Kanye West, Ye",
-      "album": "BULLY",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
-      "spotifyUrl": "https://open.spotify.com/track/1udGa2Ww3YIVSp5X4OMHFQ"
     },
     {
       "song": "FATHER (feat. Travis Scott)",
       "artist": "Kanye West, Ye, Travis Scott",
       "album": "BULLY",
-      "played": "Apr 18, 2026",
+      "played": "Apr 20, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
       "spotifyUrl": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
-    },
-    {
-      "song": "I CAN’T WAIT",
-      "artist": "Kanye West, Ye",
-      "album": "BULLY",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
-      "spotifyUrl": "https://open.spotify.com/track/163l4Itf8oDEK7ZYdVm22N"
-    },
-    {
-      "song": "HIGHS AND LOWS",
-      "artist": "Kanye West, Ye",
-      "album": "BULLY",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
-      "spotifyUrl": "https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw"
-    },
-    {
-      "song": "Devil In A New Dress",
-      "artist": "Kanye West, Rick Ross",
-      "album": "My Beautiful Dark Twisted Fantasy",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d9194aa18fa4c9362b47464f",
-      "spotifyUrl": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
-    },
-    {
-      "song": "Secondhand (feat. Rema)",
-      "artist": "Don Toliver, Rema",
-      "album": "OCTANE",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-      "spotifyUrl": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
-    },
-    {
-      "song": "Erase Me - Main",
-      "artist": "Kid Cudi, Kanye West",
-      "album": "Man On The Moon II: The Legend Of Mr. Rager",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485159e842b6a3566a141f27f815",
-      "spotifyUrl": "https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"
-    },
-    {
-      "song": "Devil In A New Dress",
-      "artist": "Kanye West, Rick Ross",
-      "album": "My Beautiful Dark Twisted Fantasy",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d9194aa18fa4c9362b47464f",
-      "spotifyUrl": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
-    },
-    {
-      "song": "Secondhand (feat. Rema)",
-      "artist": "Don Toliver, Rema",
-      "album": "OCTANE",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-      "spotifyUrl": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
-    },
-    {
-      "song": "Erase Me - Main",
-      "artist": "Kid Cudi, Kanye West",
-      "album": "Man On The Moon II: The Legend Of Mr. Rager",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485159e842b6a3566a141f27f815",
-      "spotifyUrl": "https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"
-    },
-    {
-      "song": "530",
-      "artist": "DONDA, Kanye West, Ye",
-      "album": "DONDA 2",
-      "played": "Apr 18, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517cd12a9cfd038d6f23c84a86",
-      "spotifyUrl": "https://open.spotify.com/track/79mEFisvTUZcVGUxPM0dYc"
     }
   ]
 }
