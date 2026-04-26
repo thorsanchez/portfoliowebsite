@@ -1,165 +1,165 @@
 {
-  "lastUpdated": "2026-04-25T19:32:28.824233",
+  "lastUpdated": "2026-04-26T19:34:11.924270",
   "tracks": [
+    {
+      "song": "X Gon' Give It To Ya",
+      "artist": "DMX",
+      "album": "The Definition Of X: Pick Of The Litter",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485101a6faf91e207748e8e32e0a",
+      "spotifyUrl": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "song": "In Da Club",
+      "artist": "50 Cent",
+      "album": "Get Rich Or Die Tryin'",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d843fabb75fef14010e30cae",
+      "spotifyUrl": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC"
+    },
+    {
+      "song": "Feel so Good",
+      "artist": "Mase",
+      "album": "Harlem World",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b950e2fa6cd0f5c0767b6650",
+      "spotifyUrl": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
+    },
     {
       "song": "FATHER (feat. Travis Scott)",
       "artist": "Kanye West, Ye, Travis Scott",
       "album": "BULLY",
-      "played": "Apr 25, 2026",
+      "played": "Apr 26, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
       "spotifyUrl": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
     },
     {
-      "song": "Thoughts from a Balcony",
-      "artist": "Mac Miller",
-      "album": "Macadelic",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516d47a430275e8429ea38c22a",
-      "spotifyUrl": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
+      "song": "Battle Scars (feat. Lupe Fiasco)",
+      "artist": "Guy Sebastian, Lupe Fiasco",
+      "album": "Armageddon",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e14c3b550933adf95e97419a",
+      "spotifyUrl": "https://open.spotify.com/track/2QUenCbs1tWfw1cQE4pV8C"
     },
     {
-      "song": "7am On Bridle Path",
+      "song": "Love Lost",
+      "artist": "Mac Miller, The Temper Trap",
+      "album": "I Love Life, Thank You",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485138d4d52b8a6127029d426757",
+      "spotifyUrl": "https://open.spotify.com/track/6WVdae8LbPfpOXAWuYdMnT"
+    },
+    {
+      "song": "Losses",
       "artist": "Drake",
-      "album": "Certified Lover Boy",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+      "album": "Dark Lane Demo Tapes",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
     },
     {
-      "song": "7am On Bridle Path",
+      "song": "21 Questions",
+      "artist": "50 Cent, Nate Dogg",
+      "album": "Get Rich Or Die Tryin'",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d843fabb75fef14010e30cae",
+      "spotifyUrl": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"
+    },
+    {
+      "song": "How We Do",
+      "artist": "The Game, 50 Cent",
+      "album": "The Documentary",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b1d860ab1ba847e778b2796d",
+      "spotifyUrl": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
+    },
+    {
+      "song": "Straight Outta Compton",
+      "artist": "N.W.A.",
+      "album": "Straight Outta Compton",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c79a70e8167cc1a4fab83781",
+      "spotifyUrl": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
+    },
+    {
+      "song": "Purple Pills",
+      "artist": "D12",
+      "album": "Devils Night",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519f2ea05aa0ad163b4bf35b89",
+      "spotifyUrl": "https://open.spotify.com/track/5IweeQZdY5XEzStLzUJG5t"
+    },
+    {
+      "song": "Forgot About Dre",
+      "artist": "Dr. Dre, Eminem",
+      "album": "2001",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+      "spotifyUrl": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
+    },
+    {
+      "song": "Just A Lil Bit",
+      "artist": "50 Cent",
+      "album": "The Massacre",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485191f7222996c531b981e7bb3d",
+      "spotifyUrl": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
+    },
+    {
+      "song": "Heartless",
+      "artist": "Kanye West",
+      "album": "808s & Heartbreak",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
+      "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "song": "Ivy",
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+      "spotifyUrl": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+    },
+    {
+      "song": "Emotionless",
       "artist": "Drake",
-      "album": "Certified Lover Boy",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+      "album": "Scorpion",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+      "spotifyUrl": "https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM"
     },
     {
-      "song": "Rape Me",
-      "artist": "Nirvana",
-      "album": "In Utero (Deluxe Edition)",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851aca059cebc1841277db22d1c",
-      "spotifyUrl": "https://open.spotify.com/track/5Rizj5FLb2AyNKu9esjYY6"
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485122e541a121e1c2fee630dbf3",
+      "spotifyUrl": "https://open.spotify.com/track/3DjMtj3Q1gUm1wIVnVekPC"
     },
     {
-      "song": "Retro (Rough)",
-      "artist": "Childish Gambino",
-      "album": "Kauai",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851811e18d061fb03580767a0f3",
-      "spotifyUrl": "https://open.spotify.com/track/40DNN6CjgNEouHH0RsygcZ"
+      "song": "Lost in the Fire (feat. The Weeknd)",
+      "artist": "Gesaffelstein, The Weeknd",
+      "album": "Hyperion",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517842fd51802451ff61483dcf",
+      "spotifyUrl": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {
-      "song": "MOTH BALLS",
-      "artist": "PARTYNEXTDOOR, Drake",
-      "album": "$ome $exy $ongs 4 U",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-      "spotifyUrl": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
+      "song": "Company",
+      "artist": "Drake, Travis Scott",
+      "album": "If You're Reading This It's Too Late",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
     },
     {
-      "song": "Free the Slave",
-      "artist": "KALEO",
-      "album": "Surface Sounds",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
-      "spotifyUrl": "https://open.spotify.com/track/4Ux0OxCoPN8SZ9SWbGKbtT"
-    },
-    {
-      "song": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-      "artist": "Ty Dolla $ign, Quavo, Juicy J",
-      "album": "TYCOON",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851712be553f73989a1b7607674",
-      "spotifyUrl": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
-    },
-    {
-      "song": "Furthest Thing",
-      "artist": "Drake",
-      "album": "Nothing Was The Same",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
-      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
-    },
-    {
-      "song": "Tiramisu",
-      "artist": "Don Toliver",
-      "album": "Tiramisu",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517cbe48ffc093bb6350e8064c",
-      "spotifyUrl": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
-    },
-    {
-      "song": "From The Bottom",
-      "artist": "BigXthaPlug",
-      "album": "I Hope You're Happy (Deluxe)",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485137dae0cb3a9fdb6d7838b176",
-      "spotifyUrl": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
-    },
-    {
-      "song": "Backbone",
-      "artist": "KALEO",
-      "album": "Surface Sounds",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
-      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
-    },
-    {
-      "song": "Tuscan Leather",
-      "artist": "Drake",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
-    },
-    {
-      "song": "Tuscan Leather",
-      "artist": "Drake",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/69gz9onZQNVw55cMQsaYii"
-    },
-    {
-      "song": "Feel No Ways",
-      "artist": "Drake",
-      "album": "Views",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-      "spotifyUrl": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "song": "Calling For You (feat. 21 Savage)",
-      "artist": "Drake, 21 Savage",
-      "album": "For All The Dogs",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
-      "spotifyUrl": "https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS"
-    },
-    {
-      "song": "Unforgettable",
-      "artist": "Drake, Jeezy",
-      "album": "Thank Me Later (Int'l Version)",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485172babba16ea5e3afe690b4f1",
-      "spotifyUrl": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
-    },
-    {
-      "song": "Care For You",
-      "artist": "Tory Lanez",
-      "album": "DAYSTAR",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
-      "spotifyUrl": "https://open.spotify.com/track/7FY9iaUUfT4zXQZpuTGsO6"
-    },
-    {
-      "song": "Nobody Gets Me",
-      "artist": "SZA",
-      "album": "SOS",
-      "played": "Apr 25, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bc18bdade69ec5ef0bb25b17",
-      "spotifyUrl": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+      "song": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "album": "DS2 (Deluxe)",
+      "played": "Apr 26, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
     }
   ]
 }
