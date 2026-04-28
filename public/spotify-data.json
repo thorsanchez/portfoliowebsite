@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-04-27T19:58:16.423528",
+  "lastUpdated": "2026-04-28T20:04:47.957844",
   "tracks": [
+    {
+      "song": "How to Save a Life",
+      "artist": "The Fray",
+      "album": "How To Save A Life",
+      "played": "Apr 28, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485159b8b957f164ce660919f1f4",
+      "spotifyUrl": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+    },
+    {
+      "song": "Gettin' Jiggy Wit It",
+      "artist": "Will Smith",
+      "album": "Big Willie Style",
+      "played": "Apr 28, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851ddf2f9edabd166c60047e3c4",
+      "spotifyUrl": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+    },
+    {
+      "song": "Own It",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "Apr 28, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/3EJ9ZuqkL1kwgouugqsLu8"
+    },
+    {
+      "song": "X Gon' Give It To Ya",
+      "artist": "DMX",
+      "album": "The Definition Of X: Pick Of The Litter",
+      "played": "Apr 28, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485101a6faf91e207748e8e32e0a",
+      "spotifyUrl": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "song": "How We Do",
+      "artist": "The Game, 50 Cent",
+      "album": "The Documentary",
+      "played": "Apr 28, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b1d860ab1ba847e778b2796d",
+      "spotifyUrl": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
+    },
     {
       "song": "Wu-Tang Forever",
       "artist": "Drake",
@@ -120,46 +160,6 @@
       "played": "Apr 26, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485110d209ae9f4cf0629696254b",
       "spotifyUrl": "https://open.spotify.com/track/72nLaDnt2dfxCA3ZAiEC2c"
-    },
-    {
-      "song": "In My Room",
-      "artist": "Frank Ocean",
-      "album": "In My Room",
-      "played": "Apr 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851db974f9533dd9b362891b5db",
-      "spotifyUrl": "https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL"
-    },
-    {
-      "song": "Gorgeous",
-      "artist": "Kanye West, Kid Cudi, Raekwon",
-      "album": "My Beautiful Dark Twisted Fantasy",
-      "played": "Apr 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d9194aa18fa4c9362b47464f",
-      "spotifyUrl": "https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2"
-    },
-    {
-      "song": "Oldie",
-      "artist": "Odd Future",
-      "album": "The OF Tape Vol. 2",
-      "played": "Apr 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511dd05262c971257279fcaf61",
-      "spotifyUrl": "https://open.spotify.com/track/53dkS3h9uTNsWYZTPacnpx"
-    },
-    {
-      "song": "What's The Difference",
-      "artist": "Dr. Dre, Eminem, Xzibit",
-      "album": "2001",
-      "played": "Apr 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
-      "spotifyUrl": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv"
-    },
-    {
-      "song": "What's The Difference",
-      "artist": "Dr. Dre, Eminem, Xzibit",
-      "album": "2001",
-      "played": "Apr 26, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
-      "spotifyUrl": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv"
     }
   ]
 }
