@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-05-02T19:41:27.671656",
+  "lastUpdated": "2026-05-03T19:40:25.646298",
   "tracks": [
+    {
+      "song": "Die With A Smile",
+      "artist": "Lady Gaga, Bruno Mars",
+      "album": "Die With A Smile",
+      "played": "May 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485182ea2e9e1858aa012c57cd45",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "song": "Talking to the Moon",
+      "artist": "Bruno Mars",
+      "album": "Doo-Wops & Hooligans",
+      "played": "May 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518a9eb5a1f701d1d367a5ea10",
+      "spotifyUrl": "https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ"
+    },
+    {
+      "song": "Talking to the Moon",
+      "artist": "Bruno Mars",
+      "album": "Doo-Wops & Hooligans",
+      "played": "May 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518a9eb5a1f701d1d367a5ea10",
+      "spotifyUrl": "https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ"
+    },
+    {
+      "song": "It Will Rain",
+      "artist": "Bruno Mars",
+      "album": "It Will Rain",
+      "played": "May 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851dec2e6bae5062b94fc4eeb84",
+      "spotifyUrl": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
+    },
+    {
+      "song": "Must've Never Met You",
+      "artist": "Luke Combs",
+      "album": "This One's for You Too (Deluxe Edition)",
+      "played": "May 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851493d0a872c97a661b9606e62",
+      "spotifyUrl": "https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4"
+    },
+    {
+      "song": "Move On",
+      "artist": "Kevin Powers, Shaboozey",
+      "album": "Move On",
+      "played": "May 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
+      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+    },
+    {
+      "song": "'Til You Can't",
+      "artist": "Cody Johnson",
+      "album": "Human The Double Album",
+      "played": "May 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048513063a4b9290f7419622ff231",
+      "spotifyUrl": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+    },
+    {
+      "song": "Down On The Farm",
+      "artist": "Tim McGraw",
+      "album": "Not A Moment Too Soon",
+      "played": "May 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485180abb42139a2464c7783ef2e",
+      "spotifyUrl": "https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr"
+    },
+    {
+      "song": "Fast Car",
+      "artist": "Luke Combs",
+      "album": "Gettin' Old",
+      "played": "May 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514f279906df8721c0534c0245",
+      "spotifyUrl": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "song": "Vegas - A COLORS SHOW",
+      "artist": "Shaboozey, COLORS",
+      "album": "Vegas - A COLORS SHOW",
+      "played": "May 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851ea04cd2e55a56e1dfe841682",
+      "spotifyUrl": "https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID"
+    },
+    {
+      "song": "Let It Burn",
+      "artist": "Shaboozey",
+      "album": "Where I've Been, Isn't Where I'm Going",
+      "played": "May 02, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485156eba42af07c1c96efdbbe65",
+      "spotifyUrl": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
+    },
     {
       "song": "Vegas - A COLORS SHOW",
       "artist": "Shaboozey, COLORS",
@@ -72,94 +160,6 @@
       "played": "May 02, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851c880f02afb5d20a74f10da96",
       "spotifyUrl": "https://open.spotify.com/track/7Amzk2hCLU2gTJvqYsWmk7"
-    },
-    {
-      "song": "'Til You Can't",
-      "artist": "Cody Johnson",
-      "album": "Human The Double Album",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048513063a4b9290f7419622ff231",
-      "spotifyUrl": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
-    },
-    {
-      "song": "Fast Car",
-      "artist": "Luke Combs",
-      "album": "Gettin' Old",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514f279906df8721c0534c0245",
-      "spotifyUrl": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "song": "How to Save a Life",
-      "artist": "The Fray",
-      "album": "How To Save A Life",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485159b8b957f164ce660919f1f4",
-      "spotifyUrl": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
-    },
-    {
-      "song": "FATHER (feat. Travis Scott)",
-      "artist": "Kanye West, Ye, Travis Scott",
-      "album": "BULLY",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
-      "spotifyUrl": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
-    },
-    {
-      "song": "Apologize",
-      "artist": "Timbaland, OneRepublic",
-      "album": "Shock Value",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851755a9f1e89ad8e8cf91d4956",
-      "spotifyUrl": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
-    },
-    {
-      "song": "Stopp",
-      "artist": "Birnir, tatjana",
-      "album": "Stopp",
-      "played": "May 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b385aad680d26a80227f1cb",
-      "spotifyUrl": "https://open.spotify.com/track/5B6HbortdKqmO6fnR1LqSV"
-    },
-    {
-      "song": "Stopp",
-      "artist": "Birnir, tatjana",
-      "album": "Stopp",
-      "played": "May 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b385aad680d26a80227f1cb",
-      "spotifyUrl": "https://open.spotify.com/track/5B6HbortdKqmO6fnR1LqSV"
-    },
-    {
-      "song": "Stopp",
-      "artist": "Birnir, tatjana",
-      "album": "Stopp",
-      "played": "May 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b385aad680d26a80227f1cb",
-      "spotifyUrl": "https://open.spotify.com/track/5B6HbortdKqmO6fnR1LqSV"
-    },
-    {
-      "song": "Stopp",
-      "artist": "Birnir, tatjana",
-      "album": "Stopp",
-      "played": "May 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b385aad680d26a80227f1cb",
-      "spotifyUrl": "https://open.spotify.com/track/5B6HbortdKqmO6fnR1LqSV"
-    },
-    {
-      "song": "Stopp",
-      "artist": "Birnir, tatjana",
-      "album": "Stopp",
-      "played": "May 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b385aad680d26a80227f1cb",
-      "spotifyUrl": "https://open.spotify.com/track/5B6HbortdKqmO6fnR1LqSV"
-    },
-    {
-      "song": "Pressure",
-      "artist": "Bad Boombox, mischluft",
-      "album": "Pressure",
-      "played": "May 01, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851727dcb80d7e40076a04be74d",
-      "spotifyUrl": "https://open.spotify.com/track/4r9V2WevIMc5W6yPc4f2Dc"
     }
   ]
 }
