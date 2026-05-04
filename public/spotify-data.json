@@ -1,6 +1,134 @@
 {
-  "lastUpdated": "2026-05-03T19:40:25.646298",
+  "lastUpdated": "2026-05-04T20:05:30.362732",
   "tracks": [
+    {
+      "song": "Losses",
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
+    },
+    {
+      "song": "Hold On, We're Going Home",
+      "artist": "Drake, Majid Jordan",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
+    },
+    {
+      "song": "How to Save a Life",
+      "artist": "The Fray",
+      "album": "How To Save A Life",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485159b8b957f164ce660919f1f4",
+      "spotifyUrl": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+    },
+    {
+      "song": "The Emptiness Machine",
+      "artist": "Linkin Park",
+      "album": "The Emptiness Machine",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
+      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "song": "8Ball (feat. Aon & Hooks)",
+      "artist": "Arif Murakami, AON, Hooks",
+      "album": "HighEnd / Asfalt",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485118b26df4505602575ca8df2f",
+      "spotifyUrl": "https://open.spotify.com/track/5WGY9MgAYcQF8XbVf2sATZ"
+    },
+    {
+      "song": "Furthest Thing",
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
+      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
+    },
+    {
+      "song": "Wu-Tang Forever",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/1HnhCD1u0c4dHSMazmWGyM"
+    },
+    {
+      "song": "Too Much",
+      "artist": "Drake, Sampha",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/5LnXWeA9tuWKI2C1H74iiJ"
+    },
+    {
+      "song": "GOT DAMN",
+      "artist": "Gunna",
+      "album": "GOT DAMN",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
+      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "song": "Thoughts from a Balcony",
+      "artist": "Mac Miller",
+      "album": "Macadelic",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516d47a430275e8429ea38c22a",
+      "spotifyUrl": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
+    },
+    {
+      "song": "7am On Bridle Path",
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+      "spotifyUrl": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "song": "No Role Modelz",
+      "artist": "J. Cole",
+      "album": "2014 Forest Hills Drive",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
+      "spotifyUrl": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "song": "Sé ekki eftir neinu",
+      "artist": "Birnir",
+      "album": "Dyrnar",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb5355ccb225396800899e47",
+      "spotifyUrl": "https://open.spotify.com/track/7KjyoKx0xMO0Dxkn0joqCW"
+    },
+    {
+      "song": "FATHER (feat. Travis Scott)",
+      "artist": "Kanye West, Ye, Travis Scott",
+      "album": "BULLY",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
+      "spotifyUrl": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
+    },
+    {
+      "song": "Apologize",
+      "artist": "Timbaland, OneRepublic",
+      "album": "Shock Value",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851755a9f1e89ad8e8cf91d4956",
+      "spotifyUrl": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
+    },
+    {
+      "song": "All Me",
+      "artist": "Drake, 2 Chainz, Big Sean",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/5ngydCLbzCEdtu8SEOXhPU"
+    },
     {
       "song": "Die With A Smile",
       "artist": "Lady Gaga, Bruno Mars",
@@ -32,134 +160,6 @@
       "played": "May 03, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851dec2e6bae5062b94fc4eeb84",
       "spotifyUrl": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
-    },
-    {
-      "song": "Must've Never Met You",
-      "artist": "Luke Combs",
-      "album": "This One's for You Too (Deluxe Edition)",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851493d0a872c97a661b9606e62",
-      "spotifyUrl": "https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4"
-    },
-    {
-      "song": "Move On",
-      "artist": "Kevin Powers, Shaboozey",
-      "album": "Move On",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
-      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
-    },
-    {
-      "song": "'Til You Can't",
-      "artist": "Cody Johnson",
-      "album": "Human The Double Album",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048513063a4b9290f7419622ff231",
-      "spotifyUrl": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
-    },
-    {
-      "song": "Down On The Farm",
-      "artist": "Tim McGraw",
-      "album": "Not A Moment Too Soon",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485180abb42139a2464c7783ef2e",
-      "spotifyUrl": "https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr"
-    },
-    {
-      "song": "Fast Car",
-      "artist": "Luke Combs",
-      "album": "Gettin' Old",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514f279906df8721c0534c0245",
-      "spotifyUrl": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "song": "Vegas - A COLORS SHOW",
-      "artist": "Shaboozey, COLORS",
-      "album": "Vegas - A COLORS SHOW",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851ea04cd2e55a56e1dfe841682",
-      "spotifyUrl": "https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID"
-    },
-    {
-      "song": "Let It Burn",
-      "artist": "Shaboozey",
-      "album": "Where I've Been, Isn't Where I'm Going",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485156eba42af07c1c96efdbbe65",
-      "spotifyUrl": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
-    },
-    {
-      "song": "Vegas - A COLORS SHOW",
-      "artist": "Shaboozey, COLORS",
-      "album": "Vegas - A COLORS SHOW",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851ea04cd2e55a56e1dfe841682",
-      "spotifyUrl": "https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID"
-    },
-    {
-      "song": "Let It Burn",
-      "artist": "Shaboozey",
-      "album": "Where I've Been, Isn't Where I'm Going",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485156eba42af07c1c96efdbbe65",
-      "spotifyUrl": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
-    },
-    {
-      "song": "Move On",
-      "artist": "Kevin Powers, Shaboozey",
-      "album": "Move On",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851814ec3afa16f4bf9b516bb40",
-      "spotifyUrl": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
-    },
-    {
-      "song": "The Git Up",
-      "artist": "Blanco Brown",
-      "album": "Honeysuckle & Lightning Bugs",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517d15866a2a7241462312d81d",
-      "spotifyUrl": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
-    },
-    {
-      "song": "Heartless (with Julia Michaels & Morgan Wallen)",
-      "artist": "Diplo, Julia Michaels, Morgan Wallen",
-      "album": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d79c10cdf4a58309a37d195a",
-      "spotifyUrl": "https://open.spotify.com/track/0VFQC71dmUjuW5bU5Ewdmg"
-    },
-    {
-      "song": "Tennessee Whiskey",
-      "artist": "Chris Stapleton",
-      "album": "Traveller",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851540fc1d083eac5bcff8dad21",
-      "spotifyUrl": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
-    },
-    {
-      "song": "Shine",
-      "artist": "Bishop Gunn",
-      "album": "Natchez",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c880f02afb5d20a74f10da96",
-      "spotifyUrl": "https://open.spotify.com/track/7Amzk2hCLU2gTJvqYsWmk7"
-    },
-    {
-      "song": "Down On The Farm",
-      "artist": "Tim McGraw",
-      "album": "Not A Moment Too Soon",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485180abb42139a2464c7783ef2e",
-      "spotifyUrl": "https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr"
-    },
-    {
-      "song": "Shine",
-      "artist": "Bishop Gunn",
-      "album": "Natchez",
-      "played": "May 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c880f02afb5d20a74f10da96",
-      "spotifyUrl": "https://open.spotify.com/track/7Amzk2hCLU2gTJvqYsWmk7"
     }
   ]
 }
