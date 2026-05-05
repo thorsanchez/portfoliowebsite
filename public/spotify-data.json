@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-05-04T20:05:30.362732",
+  "lastUpdated": "2026-05-05T19:59:46.543424",
   "tracks": [
+    {
+      "song": "Hold On, We're Going Home",
+      "artist": "Drake, Majid Jordan",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
+    },
+    {
+      "song": "Furthest Thing",
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "played": "May 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
+      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
+    },
+    {
+      "song": "Apologize",
+      "artist": "Timbaland, OneRepublic",
+      "album": "Shock Value",
+      "played": "May 04, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851755a9f1e89ad8e8cf91d4956",
+      "spotifyUrl": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
+    },
     {
       "song": "Losses",
       "artist": "Drake",
@@ -136,30 +160,6 @@
       "played": "May 03, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485182ea2e9e1858aa012c57cd45",
       "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "song": "Talking to the Moon",
-      "artist": "Bruno Mars",
-      "album": "Doo-Wops & Hooligans",
-      "played": "May 03, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518a9eb5a1f701d1d367a5ea10",
-      "spotifyUrl": "https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ"
-    },
-    {
-      "song": "Talking to the Moon",
-      "artist": "Bruno Mars",
-      "album": "Doo-Wops & Hooligans",
-      "played": "May 03, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518a9eb5a1f701d1d367a5ea10",
-      "spotifyUrl": "https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ"
-    },
-    {
-      "song": "It Will Rain",
-      "artist": "Bruno Mars",
-      "album": "It Will Rain",
-      "played": "May 03, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851dec2e6bae5062b94fc4eeb84",
-      "spotifyUrl": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
     }
   ]
 }
