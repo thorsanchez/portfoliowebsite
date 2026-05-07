@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-05-06T20:11:51.395792",
+  "lastUpdated": "2026-05-07T20:05:13.514705",
   "tracks": [
+    {
+      "song": "Come Thru",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/5Ggfa9cpkpfp5D6Rg0Yyw1"
+    },
+    {
+      "song": "The Language",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/5dHpbFmZjWucrol0M7aNGU"
+    },
+    {
+      "song": "Started From the Bottom",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf"
+    },
+    {
+      "song": "Connect",
+      "artist": "Drake",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/1Sj81sMg37Hd4omn7Ow2qR"
+    },
+    {
+      "song": "From Time",
+      "artist": "Drake, Jhené Aiko",
+      "album": "Nothing Was The Same (Deluxe)",
+      "played": "May 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+      "spotifyUrl": "https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr"
+    },
+    {
+      "song": "Furthest Thing",
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "played": "May 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
+      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
+    },
+    {
+      "song": "Apologize",
+      "artist": "Timbaland, OneRepublic",
+      "album": "Shock Value",
+      "played": "May 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851755a9f1e89ad8e8cf91d4956",
+      "spotifyUrl": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
+    },
+    {
+      "song": "FATHER (feat. Travis Scott)",
+      "artist": "Kanye West, Ye, Travis Scott",
+      "album": "BULLY",
+      "played": "May 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485195184f6a953569b683ca9a0d",
+      "spotifyUrl": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
+    },
+    {
+      "song": "Apologize",
+      "artist": "Timbaland, OneRepublic",
+      "album": "Shock Value",
+      "played": "May 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851755a9f1e89ad8e8cf91d4956",
+      "spotifyUrl": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
+    },
     {
       "song": "Furthest Thing",
       "artist": "Drake",
@@ -88,78 +160,6 @@
       "played": "May 05, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
       "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
-    },
-    {
-      "song": "Apologize",
-      "artist": "Timbaland, OneRepublic",
-      "album": "Shock Value",
-      "played": "May 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851755a9f1e89ad8e8cf91d4956",
-      "spotifyUrl": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
-    },
-    {
-      "song": "Losses",
-      "artist": "Drake",
-      "album": "Dark Lane Demo Tapes",
-      "played": "May 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
-      "spotifyUrl": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
-    },
-    {
-      "song": "Hold On, We're Going Home",
-      "artist": "Drake, Majid Jordan",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "May 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
-    },
-    {
-      "song": "How to Save a Life",
-      "artist": "The Fray",
-      "album": "How To Save A Life",
-      "played": "May 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485159b8b957f164ce660919f1f4",
-      "spotifyUrl": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
-    },
-    {
-      "song": "The Emptiness Machine",
-      "artist": "Linkin Park",
-      "album": "The Emptiness Machine",
-      "played": "May 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
-      "spotifyUrl": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "song": "8Ball (feat. Aon & Hooks)",
-      "artist": "Arif Murakami, AON, Hooks",
-      "album": "HighEnd / Asfalt",
-      "played": "May 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485118b26df4505602575ca8df2f",
-      "spotifyUrl": "https://open.spotify.com/track/5WGY9MgAYcQF8XbVf2sATZ"
-    },
-    {
-      "song": "Furthest Thing",
-      "artist": "Drake",
-      "album": "Nothing Was The Same",
-      "played": "May 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
-      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
-    },
-    {
-      "song": "Wu-Tang Forever",
-      "artist": "Drake",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "May 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/1HnhCD1u0c4dHSMazmWGyM"
-    },
-    {
-      "song": "Too Much",
-      "artist": "Drake, Sampha",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "May 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/5LnXWeA9tuWKI2C1H74iiJ"
     }
   ]
 }
