@@ -1,93 +1,133 @@
 {
-  "lastUpdated": "2026-05-17T19:48:27.498823",
+  "lastUpdated": "2026-05-18T20:18:19.155770",
   "tracks": [
     {
-      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake, Future, Molly Santana",
+      "song": "Make Them Pay",
+      "artist": "Drake",
       "album": "ICEMAN",
-      "played": "May 17, 2026",
+      "played": "May 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
-      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+      "spotifyUrl": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
+    },
+    {
+      "song": "National Treasures",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
     },
     {
       "song": "Janice STFU",
       "artist": "Drake",
       "album": "ICEMAN",
-      "played": "May 17, 2026",
+      "played": "May 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
       "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "song": "Burning Bridges",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
-      "spotifyUrl": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ"
-    },
-    {
-      "song": "Make Them Remember",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
-      "spotifyUrl": "https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO"
-    },
-    {
-      "song": "Make Them Remember",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
-      "spotifyUrl": "https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO"
-    },
-    {
-      "song": "Make Them Remember",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
-      "spotifyUrl": "https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO"
     },
     {
       "song": "Whisper My Name",
       "artist": "Drake",
       "album": "ICEMAN",
-      "played": "May 17, 2026",
+      "played": "May 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
       "spotifyUrl": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+    },
+    {
+      "song": "Dust",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+    },
+    {
+      "song": "Dust",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+    },
+    {
+      "song": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "B's On The Table (feat. 21 Savage)",
+      "artist": "Drake, 21 Savage",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
+    },
+    {
+      "song": "Burning Bridges",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ"
     },
     {
       "song": "Shabang",
       "artist": "Drake",
       "album": "ICEMAN",
-      "played": "May 17, 2026",
+      "played": "May 18, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
       "spotifyUrl": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
     },
     {
-      "song": "Bleeding Love",
-      "artist": "Leona Lewis",
-      "album": "Spirit",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485134fd9eb8cd48e518598aec55",
-      "spotifyUrl": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
+      "song": "Little Birdie",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/2XcmjSdYqdhFjyWFdbnBaY"
     },
     {
-      "song": "2 Hard 4 The Radio",
+      "song": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "song": "Make Them Cry",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
+    },
+    {
+      "song": "What Did I Miss?",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 18, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+    },
+    {
+      "song": "Don’t Worry",
       "artist": "Drake",
       "album": "ICEMAN",
       "played": "May 17, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
-      "spotifyUrl": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
-    },
-    {
-      "song": "2 Hard 4 The Radio",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
-      "spotifyUrl": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
+      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
     },
     {
       "song": "Dust",
@@ -98,68 +138,28 @@
       "spotifyUrl": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
     },
     {
-      "song": "Feel So Close - Radio Edit",
-      "artist": "Calvin Harris",
-      "album": "18 Months",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851dcef905cb144d4867119850b",
-      "spotifyUrl": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
-    },
-    {
-      "song": "Do Not Disturb",
+      "song": "2 Hard 4 The Radio",
       "artist": "Drake",
-      "album": "More Life",
+      "album": "ICEMAN",
       "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
-      "spotifyUrl": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384"
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
     },
     {
-      "song": "Fortworth (feat. PARTYNEXTDOOR)",
-      "artist": "Drake, PARTYNEXTDOOR",
-      "album": "HABIBTI",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/0F1rlXkOcI1Iqfz9Y3BdO4"
-    },
-    {
-      "song": "WNBA",
+      "song": "Plot Twist",
       "artist": "Drake",
-      "album": "HABIBTI",
+      "album": "ICEMAN",
       "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/6zZvy88xp6FIjJKhqwnJeQ"
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
     },
     {
-      "song": "White Bone",
+      "song": "Make Them Pay",
       "artist": "Drake",
-      "album": "HABIBTI",
+      "album": "ICEMAN",
       "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/6o6cIHT9YvlrUD2bOHo4hB"
-    },
-    {
-      "song": "Need You Now",
-      "artist": "Lady A",
-      "album": "Need You Now",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048515a8b541ca2a563671ff38ddf",
-      "spotifyUrl": "https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd"
-    },
-    {
-      "song": "No Complaints (feat. Offset & Drake) (Bonus)",
-      "artist": "Metro Boomin, Offset, Drake",
-      "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512887f8c05b5a9f1cb105be29",
-      "spotifyUrl": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
-    },
-    {
-      "song": "Without You (feat. Usher)",
-      "artist": "David Guetta, USHER",
-      "album": "Nothing but the Beat (Ultimate Edition)",
-      "played": "May 17, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485163bf1cd36632031eb3081cb0",
-      "spotifyUrl": "https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum"
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518e76f09489ebfa31ac920f08",
+      "spotifyUrl": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
     }
   ]
 }
