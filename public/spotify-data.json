@@ -1,75 +1,35 @@
 {
-  "lastUpdated": "2026-05-28T20:58:03.908053",
+  "lastUpdated": "2026-05-29T21:00:22.548540",
   "tracks": [
+    {
+      "song": "Hverfinu",
+      "artist": "Gísli Pálmi",
+      "album": "Gísli Pálmi",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485127a25404ad8dec5d1afc7dd8",
+      "spotifyUrl": "https://open.spotify.com/track/1t5OXCcZpGguwxTFyKjeGP"
+    },
+    {
+      "song": "STÍG Á KREIK",
+      "artist": "Gísli Pálmi",
+      "album": "2011-2012 CATALOG (REMASTERED)",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485188930508c59584020329bbb5",
+      "spotifyUrl": "https://open.spotify.com/track/0VXGj3xwcHcZMwL2v4Nev9"
+    },
     {
       "song": "Hours In Silence",
       "artist": "Drake, 21 Savage",
       "album": "Her Loss",
-      "played": "May 28, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
       "spotifyUrl": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-    },
-    {
-      "song": "National Treasures",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "May 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
-    },
-    {
-      "song": "White Iverson",
-      "artist": "Post Malone",
-      "album": "Stoney (Deluxe)",
-      "played": "May 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-      "spotifyUrl": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w"
-    },
-    {
-      "song": "Tiramisu",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "played": "May 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-      "spotifyUrl": "https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw"
-    },
-    {
-      "song": "at my purest (feat. Offset)",
-      "artist": "Gunna, Offset",
-      "album": "The Last Wun",
-      "played": "May 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485103a253cffd6d9e556ef4eec5",
-      "spotifyUrl": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
-    },
-    {
-      "song": "Too Comfortable",
-      "artist": "Future",
-      "album": "High Off Life",
-      "played": "May 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517459c852e9479c56eceae52a",
-      "spotifyUrl": "https://open.spotify.com/track/0biVzpdI2z0vAxwfU9xuuA"
-    },
-    {
-      "song": "Q&A",
-      "artist": "Drake",
-      "album": "MAID OF HONOUR",
-      "played": "May 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
-      "spotifyUrl": "https://open.spotify.com/track/7ppIKUHCFQGCQny1Se2jLV"
-    },
-    {
-      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake, Future, Molly Santana",
-      "album": "ICEMAN",
-      "played": "May 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "song": "Dust",
       "artist": "Drake",
       "album": "ICEMAN",
-      "played": "May 28, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
       "spotifyUrl": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
     },
@@ -77,7 +37,7 @@
       "song": "Road Trips",
       "artist": "Drake",
       "album": "MAID OF HONOUR",
-      "played": "May 28, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
       "spotifyUrl": "https://open.spotify.com/track/6p0Ai6wRjz9CmjqkhoKOwf"
     },
@@ -85,15 +45,7 @@
       "song": "Janice STFU",
       "artist": "Drake",
       "album": "ICEMAN",
-      "played": "May 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "song": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "May 28, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
       "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
@@ -101,7 +53,7 @@
       "song": "Hold On, We're Going Home",
       "artist": "Drake, Majid Jordan",
       "album": "Nothing Was The Same (Deluxe)",
-      "played": "May 27, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
       "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
     },
@@ -109,15 +61,55 @@
       "song": "Secondhand (feat. Rema)",
       "artist": "Don Toliver, Rema",
       "album": "OCTANE",
-      "played": "May 27, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
       "spotifyUrl": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+    },
+    {
+      "song": "Don’t Worry",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "The Pretender",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience & Grace",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519d957247c6c610cb7c4da1c5",
+      "spotifyUrl": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Dust",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
     },
     {
       "song": "Road Trips",
       "artist": "Drake",
       "album": "MAID OF HONOUR",
-      "played": "May 27, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
       "spotifyUrl": "https://open.spotify.com/track/6p0Ai6wRjz9CmjqkhoKOwf"
     },
@@ -125,7 +117,7 @@
       "song": "Janice STFU",
       "artist": "Drake",
       "album": "ICEMAN",
-      "played": "May 27, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
       "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
@@ -133,7 +125,7 @@
       "song": "Hold On, We're Going Home",
       "artist": "Drake, Majid Jordan",
       "album": "Nothing Was The Same (Deluxe)",
-      "played": "May 27, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
       "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
     },
@@ -141,25 +133,33 @@
       "song": "Secondhand (feat. Rema)",
       "artist": "Don Toliver, Rema",
       "album": "OCTANE",
-      "played": "May 27, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
       "spotifyUrl": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
     },
     {
-      "song": "Janice STFU",
+      "song": "Don’t Worry",
       "artist": "Drake",
       "album": "ICEMAN",
-      "played": "May 27, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
     },
     {
-      "song": "Janice STFU",
-      "artist": "Drake",
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
       "album": "ICEMAN",
-      "played": "May 27, 2026",
+      "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Hours In Silence",
+      "artist": "Drake, 21 Savage",
+      "album": "Her Loss",
+      "played": "May 28, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+      "spotifyUrl": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
     }
   ]
 }
