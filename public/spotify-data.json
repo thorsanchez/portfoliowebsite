@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-05-29T21:00:22.548540",
+  "lastUpdated": "2026-05-30T19:52:32.691568",
   "tracks": [
+    {
+      "song": "GOT DAMN",
+      "artist": "Gunna",
+      "album": "GOT DAMN",
+      "played": "May 30, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
+      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "song": "Good Morning",
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "played": "May 30, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+      "spotifyUrl": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
+    },
+    {
+      "song": "Good Morning",
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+      "spotifyUrl": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
+    },
+    {
+      "song": "Draumalandið",
+      "artist": "Gísli Pálmi",
+      "album": "Gísli Pálmi",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485127a25404ad8dec5d1afc7dd8",
+      "spotifyUrl": "https://open.spotify.com/track/1CefiJQdG732kKbq3cUsZL"
+    },
+    {
+      "song": "SET MIG Í GANG",
+      "artist": "Gísli Pálmi",
+      "album": "2011-2012 CATALOG (REMASTERED)",
+      "played": "May 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485188930508c59584020329bbb5",
+      "spotifyUrl": "https://open.spotify.com/track/1fHC9tLlDCuHzU53TCMB7h"
+    },
     {
       "song": "Hverfinu",
       "artist": "Gísli Pálmi",
@@ -120,46 +160,6 @@
       "played": "May 29, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
       "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "song": "Hold On, We're Going Home",
-      "artist": "Drake, Majid Jordan",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "May 29, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
-    },
-    {
-      "song": "Secondhand (feat. Rema)",
-      "artist": "Don Toliver, Rema",
-      "album": "OCTANE",
-      "played": "May 29, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-      "spotifyUrl": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
-    },
-    {
-      "song": "Don’t Worry",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "May 29, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
-    },
-    {
-      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake, Future, Molly Santana",
-      "album": "ICEMAN",
-      "played": "May 29, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "song": "Hours In Silence",
-      "artist": "Drake, 21 Savage",
-      "album": "Her Loss",
-      "played": "May 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
-      "spotifyUrl": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
     }
   ]
 }
