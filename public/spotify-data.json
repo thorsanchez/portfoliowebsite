@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-06-02T21:35:39.785748",
+  "lastUpdated": "2026-06-03T21:37:56.522551",
   "tracks": [
+    {
+      "song": "Road Trips",
+      "artist": "Drake",
+      "album": "MAID OF HONOUR",
+      "played": "Jun 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
+      "spotifyUrl": "https://open.spotify.com/track/6p0Ai6wRjz9CmjqkhoKOwf"
+    },
+    {
+      "song": "Missed Call",
+      "artist": "Treaty Oak Revival",
+      "album": "No Vacancy",
+      "played": "Jun 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c9821c79b260d77f2a55f7d7",
+      "spotifyUrl": "https://open.spotify.com/track/6ybZUqlfk938oS6WeBmDab"
+    },
+    {
+      "song": "weren't for the wind",
+      "artist": "Ella Langley",
+      "album": "still hungover",
+      "played": "Jun 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851edf9ec71330d53881ee0c2d9",
+      "spotifyUrl": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
+    },
+    {
+      "song": "Q&A",
+      "artist": "Drake",
+      "album": "MAID OF HONOUR",
+      "played": "Jun 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
+      "spotifyUrl": "https://open.spotify.com/track/7ppIKUHCFQGCQny1Se2jLV"
+    },
+    {
+      "song": "I'm The Problem",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "played": "Jun 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485135ea219ce47813b5e2dc3745",
+      "spotifyUrl": "https://open.spotify.com/track/7AeM1BGYM7emrqmQn1PuWv"
+    },
+    {
+      "song": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "artist": "Luke Combs",
+      "album": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "played": "Jun 03, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516f555ba312f3317dcbaa2cb9",
+      "spotifyUrl": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
     {
       "song": "You Should Probably Leave",
       "artist": "Chris Stapleton",
@@ -112,54 +160,6 @@
       "played": "Jun 02, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048512388354b23034efeef7ca117",
       "spotifyUrl": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
-    },
-    {
-      "song": "I know love (feat. The Kid LAROI)",
-      "artist": "Tate McRae, The Kid LAROI",
-      "album": "I know love (feat. The Kid LAROI)",
-      "played": "Jun 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c413f4a039fab3a64b4fe644",
-      "spotifyUrl": "https://open.spotify.com/track/57DTKgkc3CjkUxg0urNl1u"
-    },
-    {
-      "song": "It Will Rain",
-      "artist": "Bruno Mars",
-      "album": "It Will Rain",
-      "played": "Jun 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851dec2e6bae5062b94fc4eeb84",
-      "spotifyUrl": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
-    },
-    {
-      "song": "Say Something",
-      "artist": "A Great Big World, Christina Aguilera",
-      "album": "Is There Anybody Out There?",
-      "played": "Jun 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485152744973b0719cda89549292",
-      "spotifyUrl": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
-    },
-    {
-      "song": "C.R.E.A.M. (Cash Rules Everything Around Me)",
-      "artist": "Wu-Tang Clan",
-      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-      "played": "Jun 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048515901aaa980d3e714bf01171c",
-      "spotifyUrl": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
-    },
-    {
-      "song": "Regulate",
-      "artist": "Warren G, Nate Dogg",
-      "album": "Regulate… G Funk Era",
-      "played": "Jun 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f6b9b62ea130943d371b69ef",
-      "spotifyUrl": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
-    },
-    {
-      "song": "Boyz-N-The-Hood",
-      "artist": "Eazy-E",
-      "album": "N.W.A. And The Posse",
-      "played": "Jun 02, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485108a611d441af018b582009dd",
-      "spotifyUrl": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq"
     }
   ]
 }
