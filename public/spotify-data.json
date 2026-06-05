@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-04T20:51:43.142939",
+  "lastUpdated": "2026-06-05T20:31:53.837588",
   "tracks": [
+    {
+      "song": "Don’t Worry",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jun 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Good Morning",
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "played": "Jun 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+      "spotifyUrl": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
+    },
     {
       "song": "Hours In Silence",
       "artist": "Drake, 21 Savage",
@@ -136,30 +160,6 @@
       "played": "Jun 04, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
       "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "song": "Don’t Worry",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jun 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
-    },
-    {
-      "song": "Worst Way",
-      "artist": "Riley Green",
-      "album": "Worst Way",
-      "played": "Jun 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485127fffe3e84987cfae56d7111",
-      "spotifyUrl": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
-    },
-    {
-      "song": "Road Trips",
-      "artist": "Drake",
-      "album": "MAID OF HONOUR",
-      "played": "Jun 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
-      "spotifyUrl": "https://open.spotify.com/track/6p0Ai6wRjz9CmjqkhoKOwf"
     }
   ]
 }
