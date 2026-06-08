@@ -1,165 +1,165 @@
 {
-  "lastUpdated": "2026-06-07T19:59:37.776437",
+  "lastUpdated": "2026-06-08T21:05:56.376667",
   "tracks": [
+    {
+      "song": "NOKIA",
+      "artist": "Drake",
+      "album": "$ome $exy $ongs 4 U",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+      "spotifyUrl": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "song": "What Did I Miss?",
+      "artist": "Drake",
+      "album": "What Did I Miss?",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519d22b70fe52340efb60ab681",
+      "spotifyUrl": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+    },
+    {
+      "song": "Which One (feat. Central Cee)",
+      "artist": "Drake, Central Cee",
+      "album": "Which One",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518028a7b8c9fce086d4a47ba7",
+      "spotifyUrl": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+    },
+    {
+      "song": "SOMEBODY LOVES ME PT. 2",
+      "artist": "PARTYNEXTDOOR, Drake, Cash Cobain",
+      "album": "SOMEBODY LOVES ME PT. 2",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485154da89f094a2e02a7b551022",
+      "spotifyUrl": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
+    },
+    {
+      "song": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+      "artist": "Drake, Julia Wolf, Yeat",
+      "album": "DOG HOUSE",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519c2ab979bbe25f3d9e21f698",
+      "spotifyUrl": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
+    },
+    {
+      "song": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+      "artist": "Drake, Julia Wolf, Yeat",
+      "album": "DOG HOUSE",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519c2ab979bbe25f3d9e21f698",
+      "spotifyUrl": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
+    },
+    {
+      "song": "Dust",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+    },
+    {
+      "song": "Plot Twist",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
+    },
+    {
+      "song": "Plot Twist",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
+    },
+    {
+      "song": "What Did I Miss?",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+    },
+    {
+      "song": "2 Hard 4 The Radio",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
+    },
+    {
+      "song": "Shabang",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Whisper My Name",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+    },
+    {
+      "song": "One Dance",
+      "artist": "Drake, Wizkid, Kyla",
+      "album": "Views",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+      "spotifyUrl": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "song": "National Treasures",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+    },
     {
       "song": "Janice STFU",
       "artist": "Drake",
       "album": "ICEMAN",
-      "played": "Jun 06, 2026",
+      "played": "Jun 08, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
       "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
-      "song": "Hold On, We're Going Home",
-      "artist": "Drake, Majid Jordan",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
+      "song": "Sex on Fire",
+      "artist": "Kings of Leon",
+      "album": "Only By The Night",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "spotifyUrl": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
-      "song": "Secondhand (feat. Rema)",
-      "artist": "Don Toliver, Rema",
-      "album": "OCTANE",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-      "spotifyUrl": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+      "song": "Miami",
+      "artist": "Will Smith",
+      "album": "Big Willie Style",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851ddf2f9edabd166c60047e3c4",
+      "spotifyUrl": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
-      "song": "Hold On, We're Going Home",
-      "artist": "Drake, Majid Jordan",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
-    },
-    {
-      "song": "The Woo",
-      "artist": "Pop Smoke, 50 Cent, Roddy Ricch",
-      "album": "Shoot For The Stars Aim For The Moon",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514d87da4d821ab59f9ab48919",
-      "spotifyUrl": "https://open.spotify.com/track/0Xyapgw7NB8xf5ZvRQbwV6"
-    },
-    {
-      "song": "Company",
-      "artist": "Drake, Travis Scott",
-      "album": "If You're Reading This It's Too Late",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
-      "spotifyUrl": "https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk"
-    },
-    {
-      "song": "The Percocet & Stripper Joint",
-      "artist": "Future",
-      "album": "DS2 (Deluxe)",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
-      "spotifyUrl": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
-    },
-    {
-      "song": "COMË N GO",
-      "artist": "Yeat",
-      "album": "DANGEROUS SUMMER",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e35aad7bbe4508513f36fd58",
-      "spotifyUrl": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
-    },
-    {
-      "song": "GOT DAMN",
-      "artist": "Gunna",
-      "album": "GOT DAMN",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510edbab45c0b532024e30c1db",
-      "spotifyUrl": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "song": "Calling My Name",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/7sT7kZEYd1MrmzLLIRVZas"
-    },
-    {
-      "song": "Tie That Binds",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/1XsRwo2it6QHdV2OiT6IzF"
-    },
-    {
-      "song": "Tie That Binds",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/1XsRwo2it6QHdV2OiT6IzF"
-    },
-    {
-      "song": "Intro",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/1kNdtonJXHorsVpWerK8C2"
-    },
-    {
-      "song": "A Keeper",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
-    },
-    {
-      "song": "Flight's Booked",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO"
-    },
-    {
-      "song": "Down Hill",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/3N3d4OWbPVxTQVBFqNyykk"
-    },
-    {
-      "song": "Sticky",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
-    },
-    {
-      "song": "Currents",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B"
-    },
-    {
-      "song": "Texts Go Green",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
-    },
-    {
-      "song": "Calling My Name",
-      "artist": "Drake",
-      "album": "Honestly, Nevermind",
-      "played": "Jun 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
-      "spotifyUrl": "https://open.spotify.com/track/7sT7kZEYd1MrmzLLIRVZas"
+      "song": "Sex on Fire",
+      "artist": "Kings of Leon",
+      "album": "Only By The Night",
+      "played": "Jun 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "spotifyUrl": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     }
   ]
 }
