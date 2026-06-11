@@ -1,67 +1,115 @@
 {
-  "lastUpdated": "2026-06-10T21:13:02.622235",
+  "lastUpdated": "2026-06-11T21:07:54.086262",
   "tracks": [
     {
-      "song": "WNBA",
-      "artist": "Drake",
+      "song": "Slap The City (feat. Qendresa)",
+      "artist": "Drake, Qendresa",
       "album": "HABIBTI",
-      "played": "Jun 10, 2026",
+      "played": "Jun 11, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/6zZvy88xp6FIjJKhqwnJeQ"
+      "spotifyUrl": "https://open.spotify.com/track/3nwcQXP0mBmXmlrirQxCkz"
+    },
+    {
+      "song": "Wondering Why",
+      "artist": "The Red Clay Strays",
+      "album": "Moment of Truth",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485103fd430cb92bf7c49183ab6f",
+      "spotifyUrl": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
+    },
+    {
+      "song": "4×4×U",
+      "artist": "Lainey Wilson",
+      "album": "4×4×U",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518642e6add8c14edcfb39c775",
+      "spotifyUrl": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
+    },
+    {
+      "song": "Worst Way",
+      "artist": "Riley Green",
+      "album": "Worst Way",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485127fffe3e84987cfae56d7111",
+      "spotifyUrl": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
+    },
+    {
+      "song": "Tennessee Whiskey",
+      "artist": "Chris Stapleton",
+      "album": "Traveller",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851540fc1d083eac5bcff8dad21",
+      "spotifyUrl": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+    },
+    {
+      "song": "Boston",
+      "artist": "STELLA LEFTY",
+      "album": "Boston",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6cb19b02e38d18246ac334f",
+      "spotifyUrl": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "song": "I Had Some Help (Feat. Morgan Wallen)",
+      "artist": "Post Malone, Morgan Wallen",
+      "album": "I Had Some Help",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485197306976e3eb8aad53b754eb",
+      "spotifyUrl": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "song": "Be By You",
+      "artist": "Luke Combs",
+      "album": "Be By You",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485114f1e73e3ff3a0f4a6801fad",
+      "spotifyUrl": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
+    },
+    {
+      "song": "I Got Better",
+      "artist": "Morgan Wallen",
+      "album": "I’m The Problem",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485135ea219ce47813b5e2dc3745",
+      "spotifyUrl": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
+    },
+    {
+      "song": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "album": "A Bar Song (Tipsy)",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485180d86d636244b72a3a1eede2",
+      "spotifyUrl": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "song": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "album": "Choosin' Texas",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485190958927fbba47a62c3e63f8",
+      "spotifyUrl": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
     },
     {
       "song": "Rusty Intro",
       "artist": "Drake",
       "album": "HABIBTI",
-      "played": "Jun 10, 2026",
+      "played": "Jun 11, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
       "spotifyUrl": "https://open.spotify.com/track/41DHDnlRXQiNJf3GbisIYk"
-    },
-    {
-      "song": "Fortworth (feat. PARTYNEXTDOOR)",
-      "artist": "Drake, PARTYNEXTDOOR",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/0F1rlXkOcI1Iqfz9Y3BdO4"
-    },
-    {
-      "song": "I'm Spent (feat. Loe Shimmy)",
-      "artist": "Drake, Loe Shimmy",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/0SeTP12t4EwBJ6zsjHn9Wa"
-    },
-    {
-      "song": "Gen 5",
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/0s3NwbrNRsUTVJVdBeD5Wa"
-    },
-    {
-      "song": "Classic",
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
-    },
-    {
-      "song": "High Fives",
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/6vAg7qqbiIrQhQtxPegLw1"
     },
     {
       "song": "Prioritizing",
       "artist": "Drake",
       "album": "HABIBTI",
-      "played": "Jun 10, 2026",
+      "played": "Jun 11, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
       "spotifyUrl": "https://open.spotify.com/track/5BRkZvrogjXJlvPEzb4POg"
     },
@@ -69,15 +117,31 @@
       "song": "WNBA",
       "artist": "Drake",
       "album": "HABIBTI",
-      "played": "Jun 10, 2026",
+      "played": "Jun 11, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
       "spotifyUrl": "https://open.spotify.com/track/6zZvy88xp6FIjJKhqwnJeQ"
+    },
+    {
+      "song": "Rusty Intro",
+      "artist": "Drake",
+      "album": "HABIBTI",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
+      "spotifyUrl": "https://open.spotify.com/track/41DHDnlRXQiNJf3GbisIYk"
     },
     {
       "song": "Slap The City (feat. Qendresa)",
       "artist": "Drake, Qendresa",
       "album": "HABIBTI",
-      "played": "Jun 10, 2026",
+      "played": "Jun 11, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
+      "spotifyUrl": "https://open.spotify.com/track/3nwcQXP0mBmXmlrirQxCkz"
+    },
+    {
+      "song": "Slap The City (feat. Qendresa)",
+      "artist": "Drake, Qendresa",
+      "album": "HABIBTI",
+      "played": "Jun 11, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
       "spotifyUrl": "https://open.spotify.com/track/3nwcQXP0mBmXmlrirQxCkz"
     },
@@ -85,71 +149,7 @@
       "song": "White Bone",
       "artist": "Drake",
       "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/6o6cIHT9YvlrUD2bOHo4hB"
-    },
-    {
-      "song": "Rusty Intro",
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/41DHDnlRXQiNJf3GbisIYk"
-    },
-    {
-      "song": "I'm Spent (feat. Loe Shimmy)",
-      "artist": "Drake, Loe Shimmy",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/0SeTP12t4EwBJ6zsjHn9Wa"
-    },
-    {
-      "song": "Gen 5",
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/0s3NwbrNRsUTVJVdBeD5Wa"
-    },
-    {
-      "song": "Classic",
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
-    },
-    {
-      "song": "Classic",
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
-    },
-    {
-      "song": "Gen 5",
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/0s3NwbrNRsUTVJVdBeD5Wa"
-    },
-    {
-      "song": "I'm Spent (feat. Loe Shimmy)",
-      "artist": "Drake, Loe Shimmy",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-      "spotifyUrl": "https://open.spotify.com/track/0SeTP12t4EwBJ6zsjHn9Wa"
-    },
-    {
-      "song": "White Bone",
-      "artist": "Drake",
-      "album": "HABIBTI",
-      "played": "Jun 10, 2026",
+      "played": "Jun 11, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
       "spotifyUrl": "https://open.spotify.com/track/6o6cIHT9YvlrUD2bOHo4hB"
     },
@@ -157,7 +157,7 @@
       "song": "Fortworth (feat. PARTYNEXTDOOR)",
       "artist": "Drake, PARTYNEXTDOOR",
       "album": "HABIBTI",
-      "played": "Jun 10, 2026",
+      "played": "Jun 11, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
       "spotifyUrl": "https://open.spotify.com/track/0F1rlXkOcI1Iqfz9Y3BdO4"
     }
