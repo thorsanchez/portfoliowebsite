@@ -1,13 +1,149 @@
 {
-  "lastUpdated": "2026-06-12T20:54:56.438396",
+  "lastUpdated": "2026-06-13T20:06:03.644291",
   "tracks": [
     {
-      "song": "CÓMO SE SIENTE - Remix",
-      "artist": "JHAYCO, Bad Bunny",
-      "album": "CÓMO SE SIENTE (Remix)",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851464c8458b8b0cfcfb655fbfc",
-      "spotifyUrl": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
+      "song": "Yellow",
+      "artist": "Coldplay",
+      "album": "Parachutes",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a",
+      "spotifyUrl": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "song": "The Night We Met",
+      "artist": "Lord Huron",
+      "album": "Strange Trails",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b4916183f769aca218acb85f",
+      "spotifyUrl": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
+    },
+    {
+      "song": "What’s Next",
+      "artist": "Drake",
+      "album": "Scary Hours 2",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518b20e4631fa15d3953528bbc",
+      "spotifyUrl": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "song": "You & The 6",
+      "artist": "Drake",
+      "album": "If You're Reading This It's Too Late",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+      "spotifyUrl": "https://open.spotify.com/track/2YaDRtIlQiZ5WDDB2YuEOC"
+    },
+    {
+      "song": "Good Morning",
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+      "spotifyUrl": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
+    },
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
+    },
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
+    },
+    {
+      "song": "Good Morning",
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+      "spotifyUrl": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
+    },
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
+    },
+    {
+      "song": "Don’t Worry",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Good Morning",
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+      "spotifyUrl": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
+    },
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
+    },
+    {
+      "song": "Diced Pineapples",
+      "artist": "Rick Ross, Wale, Drake",
+      "album": "God Forgives, I Don't (Deluxe Edition)",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b3ed0d541b9c8508d3b6f729",
+      "spotifyUrl": "https://open.spotify.com/track/27mF2eUbhExYWiOT0y9cuc"
+    },
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
+    },
+    {
+      "song": "Good Morning",
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "played": "Jun 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+      "spotifyUrl": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
     },
     {
       "song": "LOYAL (feat. Drake and Bad Bunny) - Remix",
@@ -18,148 +154,12 @@
       "spotifyUrl": "https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp"
     },
     {
-      "song": "Santa",
-      "artist": "Rvssian, Rauw Alejandro, Ayra Starr",
-      "album": "Santa",
+      "song": "Diced Pineapples",
+      "artist": "Rick Ross, Wale, Drake",
+      "album": "God Forgives, I Don't (Deluxe Edition)",
       "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485107806b0dcd772f28d8e92d9c",
-      "spotifyUrl": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
-    },
-    {
-      "song": "Stjerner",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0xvwQpWsloKMkEO9pxttwk"
-    },
-    {
-      "song": "Whatcha Say",
-      "artist": "Jason Derulo",
-      "album": "Jason Derulo (International)",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851293e8055dd8814fcdf4742f7",
-      "spotifyUrl": "https://open.spotify.com/track/7xkQdy0cy5ymoWT7nedvLz"
-    },
-    {
-      "song": "Jaded",
-      "artist": "Drake",
-      "album": "Scorpion",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
-      "spotifyUrl": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
-    },
-    {
-      "song": "First Class",
-      "artist": "Jack Harlow",
-      "album": "Come Home The Kids Miss You",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048519ba41d0446dee0141062bbe1",
-      "spotifyUrl": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "song": "Won't Be Late (feat. Drake)",
-      "artist": "Swae Lee, Drake",
-      "album": "Won't Be Late (feat. Drake)",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485116755a5a392866488c4087f6",
-      "spotifyUrl": "https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa"
-    },
-    {
-      "song": "Furthest Thing",
-      "artist": "Drake",
-      "album": "Nothing Was The Same",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a90d170c61fb7d063d47161d",
-      "spotifyUrl": "https://open.spotify.com/track/7EdJ8z6IBotTjO50DfzzuV"
-    },
-    {
-      "song": "YUKON",
-      "artist": "Justin Bieber",
-      "album": "SWAG",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b",
-      "spotifyUrl": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-    },
-    {
-      "song": "Aston Martin Music",
-      "artist": "Rick Ross, Drake, Chrisette Michele",
-      "album": "Teflon Don",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510fbb5046ac2211a4aab5ecfa",
-      "spotifyUrl": "https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK"
-    },
-    {
-      "song": "Chemical",
-      "artist": "Post Malone",
-      "album": "AUSTIN",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
-      "spotifyUrl": "https://open.spotify.com/track/7jvtmQ3onpWeUm7dyFSSSc"
-    },
-    {
-      "song": "Don't Understand",
-      "artist": "Post Malone",
-      "album": "AUSTIN",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
-      "spotifyUrl": "https://open.spotify.com/track/4MTuL20LF3pWebeJbcNh7p"
-    },
-    {
-      "song": "Backbone",
-      "artist": "KALEO",
-      "album": "Surface Sounds",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
-      "spotifyUrl": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
-    },
-    {
-      "song": "Way Down We Go",
-      "artist": "KALEO",
-      "album": "A/B",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485121f46fc863130ef2d5ccd57d",
-      "spotifyUrl": "https://open.spotify.com/track/7ePk6EYEvFmKTJDhquomnj"
-    },
-    {
-      "song": "Apologize",
-      "artist": "Timbaland, OneRepublic",
-      "album": "Shock Value",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851755a9f1e89ad8e8cf91d4956",
-      "spotifyUrl": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
-    },
-    {
-      "song": "Chicken Fried",
-      "artist": "Zac Brown Band",
-      "album": "The Foundation",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851157d6d0762e17e7dc1ad5203",
-      "spotifyUrl": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
-    },
-    {
-      "song": "Sigue",
-      "artist": "Beny Jr, Morad, K y B",
-      "album": "Capítulo 1",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eb63a2f7274a563b3895b5aa",
-      "spotifyUrl": "https://open.spotify.com/track/4h8K833uG6koTyiykjQKnp"
-    },
-    {
-      "song": "Chemical",
-      "artist": "Post Malone",
-      "album": "AUSTIN",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
-      "spotifyUrl": "https://open.spotify.com/track/7jvtmQ3onpWeUm7dyFSSSc"
-    },
-    {
-      "song": "I Never Lie",
-      "artist": "Zach Top",
-      "album": "Cold Beer & Country Music",
-      "played": "Jun 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851eff0aba5b84f925e09f70b29",
-      "spotifyUrl": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b3ed0d541b9c8508d3b6f729",
+      "spotifyUrl": "https://open.spotify.com/track/27mF2eUbhExYWiOT0y9cuc"
     }
   ]
 }
