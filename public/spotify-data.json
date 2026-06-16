@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-06-15T21:35:29.213058",
+  "lastUpdated": "2026-06-16T21:34:42.207131",
   "tracks": [
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jun 16, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jun 16, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Don’t Worry",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 16, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jun 16, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jun 16, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
+    },
+    {
+      "song": "Hurt",
+      "artist": "Oliver Tree",
+      "album": "Ugly is Beautiful",
+      "played": "Jun 16, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c1bdf5564ed647ab6cb12f4b",
+      "spotifyUrl": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
+    },
     {
       "song": "Road Trips",
       "artist": "Drake",
@@ -112,54 +160,6 @@
       "played": "Jun 14, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
       "spotifyUrl": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-    },
-    {
-      "song": "Dust",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jun 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
-    },
-    {
-      "song": "Road Trips",
-      "artist": "Drake",
-      "album": "MAID OF HONOUR",
-      "played": "Jun 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
-      "spotifyUrl": "https://open.spotify.com/track/6p0Ai6wRjz9CmjqkhoKOwf"
-    },
-    {
-      "song": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jun 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "song": "Hold On, We're Going Home",
-      "artist": "Drake, Majid Jordan",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Jun 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
-    },
-    {
-      "song": "Don’t Worry",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jun 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
-    },
-    {
-      "song": "Don’t Worry",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jun 14, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
     }
   ]
 }
