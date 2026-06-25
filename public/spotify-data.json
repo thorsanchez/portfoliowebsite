@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2026-06-24T20:22:14.522408",
+  "lastUpdated": "2026-06-25T20:34:46.971936",
   "tracks": [
+    {
+      "song": "Hours In Silence",
+      "artist": "Drake, 21 Savage",
+      "album": "Her Loss",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+      "spotifyUrl": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "song": "Dust",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+    },
+    {
+      "song": "Secondhand (feat. Rema)",
+      "artist": "Don Toliver, Rema",
+      "album": "OCTANE",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
+      "spotifyUrl": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Good Morning",
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+      "spotifyUrl": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
+    },
+    {
+      "song": "High Fives",
+      "artist": "Drake",
+      "album": "HABIBTI",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
+      "spotifyUrl": "https://open.spotify.com/track/6vAg7qqbiIrQhQtxPegLw1"
+    },
+    {
+      "song": "Rusty Intro",
+      "artist": "Drake",
+      "album": "HABIBTI",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
+      "spotifyUrl": "https://open.spotify.com/track/41DHDnlRXQiNJf3GbisIYk"
+    },
+    {
+      "song": "Feel So Close - Radio Edit",
+      "artist": "Calvin Harris",
+      "album": "18 Months",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851dcef905cb144d4867119850b",
+      "spotifyUrl": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "song": "Ekki Switcha",
+      "artist": "Birnir",
+      "album": "Ekki Switcha",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048513248813a15505de8862f668a",
+      "spotifyUrl": "https://open.spotify.com/track/1nEjslQgoXyJXWewc8SUTN"
+    },
+    {
+      "song": "Run This Town",
+      "artist": "JAŸ-Z, Rihanna, Kanye West",
+      "album": "The Blueprint 3",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fec1b815bb3c50a64a90fd10",
+      "spotifyUrl": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
+    },
+    {
+      "song": "Lose Yourself",
+      "artist": "Eminem",
+      "album": "Just Lose It",
+      "played": "Jun 25, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b6ef2ebd34efb08cb76f6eec",
+      "spotifyUrl": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
+    },
+    {
+      "song": "Muse 2016 - Stabekkrussen",
+      "artist": "Technosnaus, Hilnigger",
+      "album": "Muse 2016 - Stabekkrussen",
+      "played": "Jun 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c304cbdd88fcd8534bfbdd74",
+      "spotifyUrl": "https://open.spotify.com/track/51FA3P51s6cEsqReSzwLuy"
+    },
+    {
+      "song": "Don’t Worry",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jun 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
+    },
+    {
+      "song": "Ride It",
+      "artist": "Regard",
+      "album": "Ride It",
+      "played": "Jun 24, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048515c27813ae019011fcb370c78",
+      "spotifyUrl": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
+    },
     {
       "song": "Yacht Club (feat. Juice WRLD)",
       "artist": "Lil Yachty, Juice WRLD",
@@ -48,118 +160,6 @@
       "played": "Jun 24, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
       "spotifyUrl": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
-    },
-    {
-      "song": "Tinted Eyes",
-      "artist": "DVBBS",
-      "album": "Tinted Eyes",
-      "played": "Jun 24, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fdd23e8d468cf7dba0a435f4",
-      "spotifyUrl": "https://open.spotify.com/track/6yhJwPZwzzYYtAV8Fk4utW"
-    },
-    {
-      "song": "BACK TO BLONDE",
-      "artist": "SIENNA SPIRO",
-      "album": "BACK TO BLONDE",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514d9878db07cd8db9cfbcaa9c",
-      "spotifyUrl": "https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08"
-    },
-    {
-      "song": "Ball For Me (feat. Nicki Minaj)",
-      "artist": "Post Malone, Nicki Minaj",
-      "album": "beerbongs & bentleys",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
-      "spotifyUrl": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
-    },
-    {
-      "song": "Tell Your Friends",
-      "artist": "The Weeknd",
-      "album": "Beauty Behind The Madness",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
-      "spotifyUrl": "https://open.spotify.com/track/1mhVXWduD8ReDwusfaHNwU"
-    },
-    {
-      "song": "True Colors",
-      "artist": "The Weeknd",
-      "album": "Starboy",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851a048415db06a5b6fa7ec4e1a",
-      "spotifyUrl": "https://open.spotify.com/track/6i759FCuKx713ZnYjtpQGU"
-    },
-    {
-      "song": "Way Down We Go",
-      "artist": "KALEO",
-      "album": "A/B",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485121f46fc863130ef2d5ccd57d",
-      "spotifyUrl": "https://open.spotify.com/track/7ePk6EYEvFmKTJDhquomnj"
-    },
-    {
-      "song": "Way Down We Go",
-      "artist": "KALEO",
-      "album": "A/B",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485121f46fc863130ef2d5ccd57d",
-      "spotifyUrl": "https://open.spotify.com/track/7ePk6EYEvFmKTJDhquomnj"
-    },
-    {
-      "song": "Mood Swings",
-      "artist": "Pop Smoke, Lil Tjay",
-      "album": "Shoot For The Stars Aim For The Moon",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485138cefb245a6327ef91a712a3",
-      "spotifyUrl": "https://open.spotify.com/track/5l0uFjA731wPYH8CkR7K1Y"
-    },
-    {
-      "song": "90210 (feat. Kacy Hill)",
-      "artist": "Travis Scott, Kacy Hill",
-      "album": "Rodeo",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d3b5affd8824b4ed301b7137",
-      "spotifyUrl": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
-    },
-    {
-      "song": "Lose You",
-      "artist": "Drake",
-      "album": "More Life",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
-      "spotifyUrl": "https://open.spotify.com/track/2Na0z2gfN67Rzf0vp74Wi3"
-    },
-    {
-      "song": "Big Jet Plane",
-      "artist": "Angus & Julia Stone",
-      "album": "Down The Way",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485172fe2d2befdc1990b43c9aa6",
-      "spotifyUrl": "https://open.spotify.com/track/7znAjItIP7xKKhyFzF5W1B"
-    },
-    {
-      "song": "Drinking Problem (feat. 27CLUB)",
-      "artist": "Arizona Zervas, 27CLUB",
-      "album": "Drinking Problem (feat. 27CLUB)",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851e8a7c52b2839085e28b04ce0",
-      "spotifyUrl": "https://open.spotify.com/track/7piU1yHaKMD9PaOPvEymOr"
-    },
-    {
-      "song": "4422",
-      "artist": "Drake, Sampha",
-      "album": "More Life",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
-      "spotifyUrl": "https://open.spotify.com/track/2fkeWbM6iqTw7oGHTYm2lw"
-    },
-    {
-      "song": "Hold On, We're Going Home",
-      "artist": "Drake, Majid Jordan",
-      "album": "Nothing Was The Same (Deluxe)",
-      "played": "Jun 23, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
-      "spotifyUrl": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
     }
   ]
 }
