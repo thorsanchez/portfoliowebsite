@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-06-29T20:30:38.535940",
+  "lastUpdated": "2026-06-30T20:32:11.714671",
   "tracks": [
+    {
+      "song": "LASERS",
+      "artist": "PARTYNEXTDOOR, Drake",
+      "album": "$ome $exy $ongs 4 U",
+      "played": "Jun 30, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+      "spotifyUrl": "https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik"
+    },
+    {
+      "song": "Family Matters",
+      "artist": "Drake",
+      "album": "Family Matters",
+      "played": "Jun 30, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a0ac23f4b446a7264e67bf0e",
+      "spotifyUrl": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "song": "CAROUSEL",
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "played": "Jun 30, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851daec894c14c0ca42d76eeb32",
+      "spotifyUrl": "https://open.spotify.com/track/7KZ5MMVgBVox9ycroB2UrI"
+    },
+    {
+      "song": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "album": "Franz Ferdinand",
+      "played": "Jun 30, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a5d1c06a8172d4861367953c",
+      "spotifyUrl": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "song": "90mph",
+      "artist": "JBEE, Sillage",
+      "album": "90mph",
+      "played": "Jun 30, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048517aee7c56bd63016a79ddc9d1",
+      "spotifyUrl": "https://open.spotify.com/track/6uT2TsDrCrXue7ROEfNeGN"
+    },
+    {
+      "song": "Love Me Again",
+      "artist": "John Newman",
+      "album": "Tribute",
+      "played": "Jun 30, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
+      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
+    },
+    {
+      "song": "7969 Santa",
+      "artist": "Drake",
+      "album": "For All The Dogs Scary Hours Edition",
+      "played": "Jun 29, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d329886e89e51420478f4751",
+      "spotifyUrl": "https://open.spotify.com/track/4p3nHCx38cbM7ZV4y8t2co"
+    },
     {
       "song": "Regulate",
       "artist": "Warren G, Nate Dogg",
@@ -104,62 +160,6 @@
       "played": "Jun 28, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
       "spotifyUrl": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2"
-    },
-    {
-      "song": "Nonstop",
-      "artist": "Drake",
-      "album": "Scorpion",
-      "played": "Jun 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
-      "spotifyUrl": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
-    },
-    {
-      "song": "Superstars",
-      "artist": "GOLF",
-      "album": "Golfklubb",
-      "played": "Jun 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485153d0993ca0839869af828640",
-      "spotifyUrl": "https://open.spotify.com/track/1MZDwOunvwRT8LLACRBv6h"
-    },
-    {
-      "song": "What You Saying",
-      "artist": "Lil Uzi Vert",
-      "album": "What You Saying",
-      "played": "Jun 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485122e541a121e1c2fee630dbf3",
-      "spotifyUrl": "https://open.spotify.com/track/3DjMtj3Q1gUm1wIVnVekPC"
-    },
-    {
-      "song": "L's",
-      "artist": "Nemzzz",
-      "album": "DO NOT DISTURB (DELUXE)",
-      "played": "Jun 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048513572c9649aa4534667c68c0d",
-      "spotifyUrl": "https://open.spotify.com/track/4eIkgU9qfmwwPicaCRUI55"
-    },
-    {
-      "song": "Love Me Again",
-      "artist": "John Newman",
-      "album": "Tribute",
-      "played": "Jun 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
-      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
-    },
-    {
-      "song": "La Difícil",
-      "artist": "Bad Bunny",
-      "album": "YHLQMDLG",
-      "played": "Jun 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851548f7ec52da7313de0c5e4a0",
-      "spotifyUrl": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
-    },
-    {
-      "song": "Nikes on My Feet",
-      "artist": "Mac Miller",
-      "album": "K.I.D.S. (Deluxe)",
-      "played": "Jun 28, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517414c28a11a87cbfd91dce10",
-      "spotifyUrl": "https://open.spotify.com/track/0m0GzwCkfuFcxOlLjgpudo"
     }
   ]
 }
