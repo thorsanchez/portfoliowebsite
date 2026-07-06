@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2026-07-05T19:56:30.169179",
+  "lastUpdated": "2026-07-06T20:32:58.180713",
   "tracks": [
+    {
+      "song": "Let You Down",
+      "artist": "NF",
+      "album": "Perception",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd733919ee57d0cc466e152f",
+      "spotifyUrl": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
+    },
+    {
+      "song": "Last Night",
+      "artist": "Kamakaze, Massappeals, Morgan Munroe",
+      "album": "Last Night",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048511028988bb288bd9a12fee1e9",
+      "spotifyUrl": "https://open.spotify.com/track/6XJjuznS0OuyxsdHfx3zwL"
+    },
+    {
+      "song": "Spoiled",
+      "artist": "Pop Smoke, Pharrell",
+      "album": "Faith",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851ca0d1926a7ba46a0834c58f1",
+      "spotifyUrl": "https://open.spotify.com/track/4R0DIUI8EuyWI65x3F2k4Z"
+    },
+    {
+      "song": "Reminder",
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514718e2b124f79258be7bc452",
+      "spotifyUrl": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
+    },
+    {
+      "song": "Read My Mind (Every time I talk)",
+      "artist": "STRAENGE",
+      "album": "Read My Mind (Every time I talk)",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514c0c62594c1d3184dd3f2cff",
+      "spotifyUrl": "https://open.spotify.com/track/6RQnb2p0XFTTULc00C59Ch"
+    },
+    {
+      "song": "Same Bitches (feat. G-Eazy & YG)",
+      "artist": "Post Malone, G-Eazy, YG",
+      "album": "beerbongs & bentleys",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
+      "spotifyUrl": "https://open.spotify.com/track/688QpQAwqsLdBR6lr13wK1"
+    },
+    {
+      "song": "Suicidal (feat. Juice WRLD) - Remix",
+      "artist": "YNW Melly, Juice WRLD",
+      "album": "Suicidal (Remix) [feat. Juice WRLD]",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b458693b51ec72c6a1e9c8e4",
+      "spotifyUrl": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ"
+    },
+    {
+      "song": "Pt. 2",
+      "artist": "Kanye West",
+      "album": "The Life Of Pablo",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512a7db835b912dc5014bd37f4",
+      "spotifyUrl": "https://open.spotify.com/track/1Wsbr1d2BouNGk2q92mIj7"
+    },
+    {
+      "song": "Snow White",
+      "artist": "Roy Woods",
+      "album": "Snow White",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514756dc9b89125b43b1c6f81a",
+      "spotifyUrl": "https://open.spotify.com/track/47UXC6AlmVuuRP90txhQm6"
+    },
+    {
+      "song": "Arms Around You (feat. Maluma & Swae Lee)",
+      "artist": "XXXTENTACION, Lil Pump, Swae Lee, Maluma",
+      "album": "Arms Around You (feat. Maluma & Swae Lee)",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851a7930491eaa76e6ae89f948f",
+      "spotifyUrl": "https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh"
+    },
+    {
+      "song": "Love Me Again",
+      "artist": "John Newman",
+      "album": "Tribute",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
+      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
+    },
+    {
+      "song": "MUNYUN",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "played": "Jul 06, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
+      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
+    },
+    {
+      "song": "MUNYUN",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "played": "Jul 05, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
+      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
+    },
     {
       "song": "Love Me Again",
       "artist": "John Newman",
@@ -56,110 +160,6 @@
       "played": "Jul 04, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
       "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "I'M ON ONE (feat. Drake)",
-      "artist": "Future, Drake",
-      "album": "I NEVER LIKED YOU",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511692599c8c0f98e470c68106",
-      "spotifyUrl": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
-    },
-    {
-      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake, Future, Molly Santana",
-      "album": "ICEMAN",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "song": "Squeaky Toy (Sound Effect)",
-      "artist": "Sounds Dogs Love",
-      "album": "Excite Your Dog",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d2fb1170e1f55b4a2e85a9b8",
-      "spotifyUrl": "https://open.spotify.com/track/5CJ055n08aoXH4AHTKbl9g"
-    },
-    {
-      "song": "Morning Birds Chirping",
-      "artist": "101 Noise, Forest Sounds, Nature Therapy",
-      "album": "Birds in Nature, Whistling Birds, Nature Sounds for Deep Sleep",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516fb312eae39212bc47fefc32",
-      "spotifyUrl": "https://open.spotify.com/track/1biHJNhjMWxdhRpzuU66rN"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "Lost One",
-      "artist": "JAŸ-Z, Chrisette Michele",
-      "album": "Kingdom Come",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851ffdd7a885159b73d0d15e0f9",
-      "spotifyUrl": "https://open.spotify.com/track/3Ls7gjDHSfF3nDyGm3e6Li"
-    },
-    {
-      "song": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "song": "Don’t Worry",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
-    },
-    {
-      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake, Future, Molly Santana",
-      "album": "ICEMAN",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "song": "White Iverson",
-      "artist": "Post Malone",
-      "album": "Stoney (Deluxe)",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-      "spotifyUrl": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w"
-    },
-    {
-      "song": "Love Me Again",
-      "artist": "John Newman",
-      "album": "Tribute",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
-      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
-    },
-    {
-      "song": "you broke my heart - instrumental",
-      "artist": "kobzx2z, Myla",
-      "album": "you broke my heart",
-      "played": "Jul 03, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048517a6097579ccc1d457f8be3fe",
-      "spotifyUrl": "https://open.spotify.com/track/1dM48s42WKMopRCtOPzK5Y"
     }
   ]
 }
