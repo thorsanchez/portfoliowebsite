@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-07-06T20:32:58.180713",
+  "lastUpdated": "2026-07-07T20:30:28.301634",
   "tracks": [
+    {
+      "song": "Love Me Again",
+      "artist": "John Newman",
+      "album": "Tribute",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
+      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "song": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "song": "Stjerner",
+      "artist": "Karpe",
+      "album": "Fire Vegger",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
+      "spotifyUrl": "https://open.spotify.com/track/0xvwQpWsloKMkEO9pxttwk"
+    },
+    {
+      "song": "Ashanti",
+      "artist": "Unge Ferrari, Stig Brenner",
+      "album": "Ashanti",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851d517100fb3c3cf98f462cb99",
+      "spotifyUrl": "https://open.spotify.com/track/3XaADTPx4bTF5UT5mcgfsV"
+    },
+    {
+      "song": "Stjerner",
+      "artist": "Karpe",
+      "album": "Fire Vegger",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
+      "spotifyUrl": "https://open.spotify.com/track/0xvwQpWsloKMkEO9pxttwk"
+    },
+    {
+      "song": "Regnvær",
+      "artist": "Karpe",
+      "album": "Fire Vegger",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
+      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
+    },
+    {
+      "song": "STARGAZING",
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851daec894c14c0ca42d76eeb32",
+      "spotifyUrl": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m"
+    },
+    {
+      "song": "STARGAZING",
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "played": "Jul 07, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851daec894c14c0ca42d76eeb32",
+      "spotifyUrl": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m"
+    },
     {
       "song": "Let You Down",
       "artist": "NF",
@@ -80,86 +160,6 @@
       "played": "Jul 06, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851a7930491eaa76e6ae89f948f",
       "spotifyUrl": "https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh"
-    },
-    {
-      "song": "Love Me Again",
-      "artist": "John Newman",
-      "album": "Tribute",
-      "played": "Jul 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
-      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
-    },
-    {
-      "song": "MUNYUN",
-      "artist": "Playboi Carti",
-      "album": "MUSIC",
-      "played": "Jul 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
-      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
-    },
-    {
-      "song": "MUNYUN",
-      "artist": "Playboi Carti",
-      "album": "MUSIC",
-      "played": "Jul 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048516b219c8d8462bfe254a20469",
-      "spotifyUrl": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
-    },
-    {
-      "song": "Love Me Again",
-      "artist": "John Newman",
-      "album": "Tribute",
-      "played": "Jul 05, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
-      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 04, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
     }
   ]
 }
