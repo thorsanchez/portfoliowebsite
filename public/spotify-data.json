@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2026-07-08T20:08:00.102203",
+  "lastUpdated": "2026-07-09T20:27:56.040718",
   "tracks": [
+    {
+      "song": "Right",
+      "artist": "Mac Miller",
+      "album": "Circles (Deluxe)",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048512f5de32853d6c64cb1d8c22b",
+      "spotifyUrl": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
+    },
+    {
+      "song": "Into My Mother's Arms",
+      "artist": "KALEO",
+      "album": "Surface Sounds",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e6c0c82dce5500529fe943a3",
+      "spotifyUrl": "https://open.spotify.com/track/45CtXS6ShntJUFCyWyCHnC"
+    },
+    {
+      "song": "Deja Vu",
+      "artist": "Post Malone, Justin Bieber",
+      "album": "Stoney (Deluxe)",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
+      "spotifyUrl": "https://open.spotify.com/track/0H8XeaJunhvpBdBFIYi6Sh"
+    },
+    {
+      "song": "Love Lost",
+      "artist": "Mac Miller, The Temper Trap",
+      "album": "I Love Life, Thank You",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048518bd48e2347b4cdaf8d6144f8",
+      "spotifyUrl": "https://open.spotify.com/track/6WVdae8LbPfpOXAWuYdMnT"
+    },
+    {
+      "song": "Emotionless",
+      "artist": "Drake",
+      "album": "Scorpion",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+      "spotifyUrl": "https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM"
+    },
+    {
+      "song": "Love Me Again",
+      "artist": "John Newman",
+      "album": "Tribute",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
+      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
+    },
+    {
+      "song": "Beautiful Pain",
+      "artist": "Eminem, Sia",
+      "album": "The Marshall Mathers LP2 (Deluxe)",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c6338d684995af10c2bf0533",
+      "spotifyUrl": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jul 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "song": "Do Not Disturb",
+      "artist": "Drake",
+      "album": "More Life",
+      "played": "Jul 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
+      "spotifyUrl": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384"
+    },
+    {
+      "song": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "artist": "Daft Punk, Pharrell Williams, Nile Rodgers",
+      "album": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "played": "Jul 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485119a88dd5c7118e87d7b1619e",
+      "spotifyUrl": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "song": "Bærum Bitches (Mannschaft)",
+      "artist": "Søte & Rare",
+      "album": "Bærum Bitches (Mannschaft)",
+      "played": "Jul 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851363a1105afe146e688a4e1b7",
+      "spotifyUrl": "https://open.spotify.com/track/3ZNOlf3hO8Lhnpvg2iF16D"
+    },
+    {
+      "song": "King",
+      "artist": "Wiz Khalifa",
+      "album": "Rolling Papers 2",
+      "played": "Jul 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851393d29e88d493bdab8af1617",
+      "spotifyUrl": "https://open.spotify.com/track/0oyRSb3n2FV5WYBXN9xg2H"
+    },
+    {
+      "song": "Sorry",
+      "artist": "Justin Bieber",
+      "album": "Purpose (Deluxe)",
+      "played": "Jul 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851f46b9d202509a8f7384b90de",
+      "spotifyUrl": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "song": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "played": "Jul 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake, Future, Molly Santana",
+      "album": "ICEMAN",
+      "played": "Jul 08, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
     {
       "song": "Regnvær",
       "artist": "Karpe",
@@ -40,126 +160,6 @@
       "played": "Jul 08, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048515901aaa980d3e714bf01171c",
       "spotifyUrl": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
-    },
-    {
-      "song": "Kygo Jo (feat. Lyng) - Kygo Remix",
-      "artist": "Kygo, Flow Kingz, JMK, Lyng",
-      "album": "Kygo Jo (feat. Lyng) [Kygo Remix]",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048510b00c491971f061b7cf617db",
-      "spotifyUrl": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
-    },
-    {
-      "song": "The Most High",
-      "artist": "Tory Lanez",
-      "album": "DAYSTAR",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d04f74803f2210efee796c7d",
-      "spotifyUrl": "https://open.spotify.com/track/7BvrETGltiKW75pwf7S1XL"
-    },
-    {
-      "song": "Love Me Again",
-      "artist": "John Newman",
-      "album": "Tribute",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
-      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
-    },
-    {
-      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake, Future, Molly Santana",
-      "album": "ICEMAN",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "song": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "song": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "song": "Stjerner",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0xvwQpWsloKMkEO9pxttwk"
-    },
-    {
-      "song": "Ashanti",
-      "artist": "Unge Ferrari, Stig Brenner",
-      "album": "Ashanti",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d517100fb3c3cf98f462cb99",
-      "spotifyUrl": "https://open.spotify.com/track/3XaADTPx4bTF5UT5mcgfsV"
-    },
-    {
-      "song": "Stjerner",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0xvwQpWsloKMkEO9pxttwk"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "STARGAZING",
-      "artist": "Travis Scott",
-      "album": "ASTROWORLD",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851daec894c14c0ca42d76eeb32",
-      "spotifyUrl": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m"
-    },
-    {
-      "song": "STARGAZING",
-      "artist": "Travis Scott",
-      "album": "ASTROWORLD",
-      "played": "Jul 07, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851daec894c14c0ca42d76eeb32",
-      "spotifyUrl": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m"
-    },
-    {
-      "song": "Let You Down",
-      "artist": "NF",
-      "album": "Perception",
-      "played": "Jul 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851cd733919ee57d0cc466e152f",
-      "spotifyUrl": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
-    },
-    {
-      "song": "Last Night",
-      "artist": "Kamakaze, Massappeals, Morgan Munroe",
-      "album": "Last Night",
-      "played": "Jul 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511028988bb288bd9a12fee1e9",
-      "spotifyUrl": "https://open.spotify.com/track/6XJjuznS0OuyxsdHfx3zwL"
-    },
-    {
-      "song": "Spoiled",
-      "artist": "Pop Smoke, Pharrell",
-      "album": "Faith",
-      "played": "Jul 06, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851ca0d1926a7ba46a0834c58f1",
-      "spotifyUrl": "https://open.spotify.com/track/4R0DIUI8EuyWI65x3F2k4Z"
     }
   ]
 }
