@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2026-07-09T20:27:56.040718",
+  "lastUpdated": "2026-07-10T20:04:51.142786",
   "tracks": [
+    {
+      "song": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048515901aaa980d3e714bf01171c",
+      "spotifyUrl": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+    },
+    {
+      "song": "Jocelyn Flores",
+      "artist": "XXXTENTACION",
+      "album": "17",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851203c89bd4391468eea4cc3f5",
+      "spotifyUrl": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "song": "Heartless",
+      "artist": "Kanye West",
+      "album": "808s & Heartbreak",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
+      "spotifyUrl": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "song": "Headlights",
+      "artist": "Eminem, Nate Ruess",
+      "album": "The Marshall Mathers LP2 (Deluxe)",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851c6338d684995af10c2bf0533",
+      "spotifyUrl": "https://open.spotify.com/track/222dTwr5XeEgAzEtsrQA0R"
+    },
+    {
+      "song": "Patient",
+      "artist": "Post Malone",
+      "album": "Stoney (Deluxe)",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
+      "spotifyUrl": "https://open.spotify.com/track/5DLTuH4A5VZB2HKpqHQR6t"
+    },
+    {
+      "song": "WAKA (feat. A Boogie Wit da Hoodie)",
+      "artist": "6ix9ine, A Boogie Wit da Hoodie",
+      "album": "DUMMY BOY (Revised)",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048510a4da3f1a72e4ecaabb76370",
+      "spotifyUrl": "https://open.spotify.com/track/4uax9U22ZAdqUxTMF1beUf"
+    },
+    {
+      "song": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "album": "What You Saying",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485122e541a121e1c2fee630dbf3",
+      "spotifyUrl": "https://open.spotify.com/track/3DjMtj3Q1gUm1wIVnVekPC"
+    },
+    {
+      "song": "Pretty Little Fears (feat. J. Cole)",
+      "artist": "6LACK, J. Cole",
+      "album": "East Atlanta Love Letter",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851e1530b42603367fdb2208d88",
+      "spotifyUrl": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "song": "Love Me Again",
+      "artist": "John Newman",
+      "album": "Tribute",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
+      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
+    },
+    {
+      "song": "Love Me Again",
+      "artist": "John Newman",
+      "album": "Tribute",
+      "played": "Jul 10, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
+      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
+    },
+    {
+      "song": "Stan",
+      "artist": "Eminem, Dido",
+      "album": "The Marshall Mathers LP",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851dbb3dd82da45b7d7f31b1b42",
+      "spotifyUrl": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
+    },
+    {
+      "song": "Plz",
+      "artist": "Amara",
+      "album": "Plz",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d000048515f18b916dc7e83fbe95a56f0",
+      "spotifyUrl": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
+    },
+    {
+      "song": "Fimm",
+      "artist": "BRÍET",
+      "album": "Kveðja, Bríet",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485165a6cb121b944cc9a6d5e752",
+      "spotifyUrl": "https://open.spotify.com/track/77GxNN9ZQKnASt4sLMnTxk"
+    },
+    {
+      "song": "Love Me Again",
+      "artist": "John Newman",
+      "album": "Tribute",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
+      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
+    },
+    {
+      "song": "School Spirit",
+      "artist": "Kanye West",
+      "album": "The College Dropout",
+      "played": "Jul 09, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485125b055377757b3cdd6f26b78",
+      "spotifyUrl": "https://open.spotify.com/track/1th3G3okofWlvGWAAR7Y4V"
+    },
     {
       "song": "Right",
       "artist": "Mac Miller",
@@ -40,126 +160,6 @@
       "played": "Jul 09, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
       "spotifyUrl": "https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM"
-    },
-    {
-      "song": "Love Me Again",
-      "artist": "John Newman",
-      "album": "Tribute",
-      "played": "Jul 09, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
-      "spotifyUrl": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
-    },
-    {
-      "song": "Beautiful Pain",
-      "artist": "Eminem, Sia",
-      "album": "The Marshall Mathers LP2 (Deluxe)",
-      "played": "Jul 09, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851c6338d684995af10c2bf0533",
-      "spotifyUrl": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
-    },
-    {
-      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake, Future, Molly Santana",
-      "album": "ICEMAN",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "song": "Do Not Disturb",
-      "artist": "Drake",
-      "album": "More Life",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
-      "spotifyUrl": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384"
-    },
-    {
-      "song": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-      "artist": "Daft Punk, Pharrell Williams, Nile Rodgers",
-      "album": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485119a88dd5c7118e87d7b1619e",
-      "spotifyUrl": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
-    },
-    {
-      "song": "Bærum Bitches (Mannschaft)",
-      "artist": "Søte & Rare",
-      "album": "Bærum Bitches (Mannschaft)",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851363a1105afe146e688a4e1b7",
-      "spotifyUrl": "https://open.spotify.com/track/3ZNOlf3hO8Lhnpvg2iF16D"
-    },
-    {
-      "song": "King",
-      "artist": "Wiz Khalifa",
-      "album": "Rolling Papers 2",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851393d29e88d493bdab8af1617",
-      "spotifyUrl": "https://open.spotify.com/track/0oyRSb3n2FV5WYBXN9xg2H"
-    },
-    {
-      "song": "Sorry",
-      "artist": "Justin Bieber",
-      "album": "Purpose (Deluxe)",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851f46b9d202509a8f7384b90de",
-      "spotifyUrl": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
-    },
-    {
-      "song": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "song": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake, Future, Molly Santana",
-      "album": "ICEMAN",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-      "spotifyUrl": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "Regnvær",
-      "artist": "Karpe",
-      "album": "Fire Vegger",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048511f9ff1ddcb76d53cbaab353f",
-      "spotifyUrl": "https://open.spotify.com/track/0t0JRXszJx3FZFkXswMwZw"
-    },
-    {
-      "song": "California Love - Original Version",
-      "artist": "2Pac, Roger, Dr. Dre",
-      "album": "Greatest Hits",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851d81a092eb373ded457d94eec",
-      "spotifyUrl": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
-    },
-    {
-      "song": "Ready or Not",
-      "artist": "Fugees, Ms. Lauryn Hill, Wyclef Jean, Pras",
-      "album": "The Score (Expanded Edition)",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048515b7865be7f7fcc05faec6137",
-      "spotifyUrl": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
-    },
-    {
-      "song": "C.R.E.A.M. (Cash Rules Everything Around Me)",
-      "artist": "Wu-Tang Clan",
-      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-      "played": "Jul 08, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d000048515901aaa980d3e714bf01171c",
-      "spotifyUrl": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
     }
   ]
 }
