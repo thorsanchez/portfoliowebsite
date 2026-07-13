@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-07-12T19:49:15.732096",
+  "lastUpdated": "2026-07-13T20:01:59.369540",
   "tracks": [
+    {
+      "song": "Ms. Jackson",
+      "artist": "Outkast",
+      "album": "Stankonia",
+      "played": "Jul 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851153b3d6495031cb813a7451c",
+      "spotifyUrl": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "song": "Regulate",
+      "artist": "Warren G, Nate Dogg",
+      "album": "Regulate...G Funk Era (20th Anniversary)",
+      "played": "Jul 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d00004851fb009ec94ffc5a282a06f03b",
+      "spotifyUrl": "https://open.spotify.com/track/4uIKHABS2ixy0AW0Y31rj4"
+    },
+    {
+      "song": "Sign Me Up",
+      "artist": "Post Malone",
+      "album": "AUSTIN",
+      "played": "Jul 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
+      "spotifyUrl": "https://open.spotify.com/track/4mahloUW5K6KeGijwnMGDr"
+    },
+    {
+      "song": "Landmine",
+      "artist": "Post Malone",
+      "album": "AUSTIN",
+      "played": "Jul 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
+      "spotifyUrl": "https://open.spotify.com/track/6Sjg6cp8yXtKX5DrcEl7HV"
+    },
+    {
+      "song": "Buyer Beware",
+      "artist": "Post Malone",
+      "album": "AUSTIN",
+      "played": "Jul 13, 2026",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
+      "spotifyUrl": "https://open.spotify.com/track/6wOmmoM5nyS6mOyzo9wDjC"
+    },
     {
       "song": "Speedometer",
       "artist": "Post Malone",
@@ -120,46 +160,6 @@
       "played": "Jul 12, 2026",
       "albumArt": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
       "spotifyUrl": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
-    },
-    {
-      "song": "White Iverson",
-      "artist": "Post Malone",
-      "album": "Stoney (Deluxe)",
-      "played": "Jul 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-      "spotifyUrl": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w"
-    },
-    {
-      "song": "Over Now",
-      "artist": "Post Malone",
-      "album": "beerbongs & bentleys",
-      "played": "Jul 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
-      "spotifyUrl": "https://open.spotify.com/track/09IOPhEh1OMe0HD9b36FJk"
-    },
-    {
-      "song": "Blame It On Me",
-      "artist": "Post Malone",
-      "album": "beerbongs & bentleys",
-      "played": "Jul 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
-      "spotifyUrl": "https://open.spotify.com/track/1ZemPoaj7LBj1RAQrb89EC"
-    },
-    {
-      "song": "Stay",
-      "artist": "Post Malone",
-      "album": "beerbongs & bentleys",
-      "played": "Jul 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
-      "spotifyUrl": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
-    },
-    {
-      "song": "Broken Whiskey Glass",
-      "artist": "Post Malone",
-      "album": "Stoney (Deluxe)",
-      "played": "Jul 12, 2026",
-      "albumArt": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-      "spotifyUrl": "https://open.spotify.com/track/5BoOzegGrg5XFRR8UBDtkF"
     }
   ]
 }
